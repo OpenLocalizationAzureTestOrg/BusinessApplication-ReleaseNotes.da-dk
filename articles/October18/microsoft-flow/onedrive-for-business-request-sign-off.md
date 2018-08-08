@@ -1,0 +1,26 @@
+---
+title: Godkendelse af OneDrive for Business-anmodning
+description: "OneDrive for Business får integreret godkendelse af anmodninger svarende til oplevelsen i SharePoint"
+author: Mhade
+manager: AnnBe
+ms.date: 7/22/2018
+ms.topic: article
+ms.prod: 
+ms.service: business-applications
+ms.technology: 
+ms.author: mhade
+audience: Admin
+ms.translationtype: HT
+ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
+ms.openlocfilehash: fb3bad0b6b5cb298a5a9cdd3534071cab9e4b1f7
+ms.contentlocale: da-dk
+ms.lasthandoff: 07/18/2018
+
+---
+# <a name="onedrive-for-business-request-sign-off"></a><span data-ttu-id="669bb-103">Godkendelse af OneDrive for Business-anmodning</span><span class="sxs-lookup"><span data-stu-id="669bb-103">OneDrive for Business request sign-off</span></span>
+
+
+[!include[banner](../../includes/banner.md)]
+
+<span data-ttu-id="669bb-104">Via en integreret Flowstartpanel-oplevelse kan brugerne oprette og køre et out-of-box-flow for at sende godkendelsesanmodninger til enhver brugere i deres lejer sammen med en meddelelse.</span><span class="sxs-lookup"><span data-stu-id="669bb-104">Through an embedded Flow launch panel experience, users will be able to create and run an out-of-box flow to send sign-off requests to any user in their tenant along with a message.</span></span> <span data-ttu-id="669bb-105">Når godkenderen svarer, modtager afsenderen en bekræftelsesmail med feedback fra godkenderen.</span><span class="sxs-lookup"><span data-stu-id="669bb-105">Once the approver responds, the initiator is sent a confirmation email with feedback from the approver.</span></span> 
+

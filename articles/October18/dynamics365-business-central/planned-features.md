@@ -1,0 +1,41 @@
+---
+title: Planlagte funktioner til Business Central
+description: Oversigt over de funktioner, der kommer senere til Business Central
+author: edupont04
+manager: AnnBe
+ms.date: 07/06/2018
+ms.topic: article
+ms.prod: 
+ms.service: business-applications
+ms.technology: 
+ms.author: edupont
+audience: Admin
+ms.translationtype: HT
+ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
+ms.openlocfilehash: 367c7714e1b1c2870800a8408cc118b508c5e917
+ms.contentlocale: da-dk
+ms.lasthandoff: 07/18/2018
+
+---
+# <a name="summary-of-whats-new-in-dynamics-365-business-central"></a><span data-ttu-id="5efc5-103">Oversigt over nyheder i Dynamics 365 Business Central</span><span class="sxs-lookup"><span data-stu-id="5efc5-103">Summary of what's new in Dynamics 365 Business Central</span></span>
+
+<span data-ttu-id="5efc5-104">I dette emne beskrives de funktioner, der er planlagt til frigivelse i Microsoft Dynamics 365 Business Central mellem oktober 2018 og marts 2019.</span><span class="sxs-lookup"><span data-stu-id="5efc5-104">This topic lists the features planned for release in Microsoft Dynamics 365 Business Central between October 2018 and March 2019.</span></span>
+
+[!include[banner](../../includes/banner.md)]
+
+| <span data-ttu-id="5efc5-105">Funktion</span><span class="sxs-lookup"><span data-stu-id="5efc5-105">Feature</span></span> | <span data-ttu-id="5efc5-106">Frigivelsestype</span><span class="sxs-lookup"><span data-stu-id="5efc5-106">Release type</span></span> | <span data-ttu-id="5efc5-107">Målmåned for frigivelse</span><span class="sxs-lookup"><span data-stu-id="5efc5-107">Target release month</span></span> |
+|------------|----------|--------|
+| [<span data-ttu-id="5efc5-108">Produktivitetsfunktioner til pc-brugere</span><span class="sxs-lookup"><span data-stu-id="5efc5-108">Productivity features for desktop users</span></span>](high-productivity-user-experience.md) | <span data-ttu-id="5efc5-109">Generel tilgængelighed</span><span class="sxs-lookup"><span data-stu-id="5efc5-109">General Availability</span></span> | <span data-ttu-id="5efc5-110">Oktober 2018</span><span class="sxs-lookup"><span data-stu-id="5efc5-110">October 2018</span></span>  |
+| [<span data-ttu-id="5efc5-111">Tilgængelighedsfunktioner til pc-brugere</span><span class="sxs-lookup"><span data-stu-id="5efc5-111">Accessibility features for desktop users</span></span>](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#accessibility) |  <span data-ttu-id="5efc5-112">Generel tilgængelighed</span><span class="sxs-lookup"><span data-stu-id="5efc5-112">General Availability</span></span> |  <span data-ttu-id="5efc5-113">Oktober 2018</span><span class="sxs-lookup"><span data-stu-id="5efc5-113">October 2018</span></span>  |
+| [<span data-ttu-id="5efc5-114">Opdateret oplevelse på større pc-skærme</span><span class="sxs-lookup"><span data-stu-id="5efc5-114">Refreshed experience on major desktop screens</span></span>](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#refreshed-desktop-experience) |  <span data-ttu-id="5efc5-115">Generel tilgængelighed</span><span class="sxs-lookup"><span data-stu-id="5efc5-115">General Availability</span></span> |   <span data-ttu-id="5efc5-116">Oktober 2018</span><span class="sxs-lookup"><span data-stu-id="5efc5-116">October 2018</span></span>  |
+| [<span data-ttu-id="5efc5-117">Business Central overalt</span><span class="sxs-lookup"><span data-stu-id="5efc5-117">Business Central everywhere</span></span>](business-central-everywhere.md)|  <span data-ttu-id="5efc5-118">Generel tilgængelighed</span><span class="sxs-lookup"><span data-stu-id="5efc5-118">General Availability</span></span>  |  <span data-ttu-id="5efc5-119">Oktober 2018</span><span class="sxs-lookup"><span data-stu-id="5efc5-119">October 2018</span></span>  |
+| [<span data-ttu-id="5efc5-120">Kombineret mobilapp/medfølgende app til Business Central</span><span class="sxs-lookup"><span data-stu-id="5efc5-120">Combined mobile/companion app for Business Central</span></span>](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#access-from-anywhere) |  <span data-ttu-id="5efc5-121">Generel tilgængelighed</span><span class="sxs-lookup"><span data-stu-id="5efc5-121">General Availability</span></span> | <span data-ttu-id="5efc5-122">Oktober 2018</span><span class="sxs-lookup"><span data-stu-id="5efc5-122">October 2018</span></span>    |
+| [<span data-ttu-id="5efc5-123">Forbedret Power BI-integrationsoplevelse</span><span class="sxs-lookup"><span data-stu-id="5efc5-123">Enhanced Power BI embed experience</span></span>](enhanced-power-bi-embed-experience.md)  | <span data-ttu-id="5efc5-124">Generel tilgængelighed</span><span class="sxs-lookup"><span data-stu-id="5efc5-124">General Availability</span></span>    | <span data-ttu-id="5efc5-125">Oktober 2018</span><span class="sxs-lookup"><span data-stu-id="5efc5-125">October 2018</span></span>   |
+| [<span data-ttu-id="5efc5-126">Rettighedssæt kan redigeres</span><span class="sxs-lookup"><span data-stu-id="5efc5-126">Permission sets are editable</span></span>](editablepermissionsets.md)  | <span data-ttu-id="5efc5-127">Generel tilgængelighed</span><span class="sxs-lookup"><span data-stu-id="5efc5-127">General Availability</span></span>    | <span data-ttu-id="5efc5-128">Oktober 2018</span><span class="sxs-lookup"><span data-stu-id="5efc5-128">October 2018</span></span>   |
+| [<span data-ttu-id="5efc5-129">Lejeradministration for VAR-forhandlere</span><span class="sxs-lookup"><span data-stu-id="5efc5-129">Tenant administration for VARs</span></span>](var-tenant-administration.md)  | <span data-ttu-id="5efc5-130">Generel tilgængelighed</span><span class="sxs-lookup"><span data-stu-id="5efc5-130">General Availability</span></span>    | <span data-ttu-id="5efc5-131">Oktober 2018</span><span class="sxs-lookup"><span data-stu-id="5efc5-131">October 2018</span></span>   |
+| [<span data-ttu-id="5efc5-132">Forbedret AL-oplevelse af Visual Studio-kode</span><span class="sxs-lookup"><span data-stu-id="5efc5-132">Improved Visual Studio Code AL experience</span></span>](visual-studio-code-improvements.md)  | <span data-ttu-id="5efc5-133">Generel tilgængelighed</span><span class="sxs-lookup"><span data-stu-id="5efc5-133">General Availability</span></span>    | <span data-ttu-id="5efc5-134">Oktober 2018</span><span class="sxs-lookup"><span data-stu-id="5efc5-134">October 2018</span></span>   |
+| [<span data-ttu-id="5efc5-135">Lokaliserings- og oversættelsesapps</span><span class="sxs-lookup"><span data-stu-id="5efc5-135">Localization apps and translation apps</span></span>](localization.md)      |  <span data-ttu-id="5efc5-136">Generel tilgængelighed</span><span class="sxs-lookup"><span data-stu-id="5efc5-136">General Availability</span></span>  |  <span data-ttu-id="5efc5-137">Oktober 2018</span><span class="sxs-lookup"><span data-stu-id="5efc5-137">October 2018</span></span>   |
+| [<span data-ttu-id="5efc5-138">Intelligent edge for Dynamics GP, Dynamics SL og Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="5efc5-138">Intelligent edge for Dynamics GP, Dynamics SL, and Dynamics NAV</span></span>](dynamics-intelligent-edge.md)   | <span data-ttu-id="5efc5-139">Generel tilgængelighed</span><span class="sxs-lookup"><span data-stu-id="5efc5-139">General Availability</span></span>  |  <span data-ttu-id="5efc5-140">Oktober 2018</span><span class="sxs-lookup"><span data-stu-id="5efc5-140">October 2018</span></span>|
+| <span data-ttu-id="5efc5-141">Yderligere produktivitetsfunktioner til pc-brugere</span><span class="sxs-lookup"><span data-stu-id="5efc5-141">Additional productivity features for desktop users</span></span> |     | <span data-ttu-id="5efc5-142">Ikke-planlagt</span><span class="sxs-lookup"><span data-stu-id="5efc5-142">Unscheduled</span></span> |
+| <span data-ttu-id="5efc5-143">Opdateret oplevelse på flere pc-skærme</span><span class="sxs-lookup"><span data-stu-id="5efc5-143">Refreshed experience on additional desktop screens</span></span> |     | <span data-ttu-id="5efc5-144">Ikke-planlagt</span><span class="sxs-lookup"><span data-stu-id="5efc5-144">Unscheduled</span></span> |
+

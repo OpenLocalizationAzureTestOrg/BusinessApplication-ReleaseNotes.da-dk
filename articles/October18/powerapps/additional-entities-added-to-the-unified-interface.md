@@ -1,0 +1,26 @@
+---
+title: "Objekter, der er føjet til Unified Interface"
+description: "Yderligere objekter understøttes i Unified Interface"
+author: shilpas
+manager: AnnBe
+ms.date: 7/22/2018
+ms.topic: article
+ms.prod: 
+ms.service: business-applications
+ms.technology: 
+ms.author: shilpas
+audience: Admin
+ms.translationtype: HT
+ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
+ms.openlocfilehash: 461853cce105ade2d83f128f7c9c1aeff2d023ca
+ms.contentlocale: da-dk
+ms.lasthandoff: 07/18/2018
+
+---
+# <a name="entities-added-to-the-unified-interface"></a><span data-ttu-id="43b6c-103">Objekter, der er føjet til Unified Interface</span><span class="sxs-lookup"><span data-stu-id="43b6c-103">Entities added to the Unified Interface</span></span>
+
+
+[!include[banner](../../includes/banner.md)]
+
+<span data-ttu-id="43b6c-104">Slutbrugere kan redigere og bruge posttyper (som Brugere, Teams, Position og Valuta) på Unified Interface.</span><span class="sxs-lookup"><span data-stu-id="43b6c-104">End users can edit and use record types (such as Users, Teams, Position, and Currency) on Unified Interface.</span></span> 
+
