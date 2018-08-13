@@ -11,18 +11,16 @@ ms.technology:
 ms.author: blazkote
 audience: end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 65af5231badfe1caf77aef6439b075ddddcc8a74
+ms.sourcegitcommit: 16d699236ff13024f375e298e6667ceb358f5a75
+ms.openlocfilehash: 2a085b9404b5f3de724c7b695143f67afd38a413
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/13/2018
 
 ---
 
 # <a name="high-productivity-with-an-all-refreshed-desktop-experience"></a><span data-ttu-id="c8a40-103">Høj produktivitet med en helt opdateret skrivebordsoplevelse</span><span class="sxs-lookup"><span data-stu-id="c8a40-103">High productivity with an all-refreshed desktop experience</span></span>
 
 [!include[banner](../../includes/banner.md)]
-
-[!include[banner](Includes/disclaimer.md)]
 
 <span data-ttu-id="c8a40-104">Med produktfrigivelsen fra oktober 2018 kan Microsoft Dynamics 365 Business Central byde på en opdateret skrivebordsoplevelse.</span><span class="sxs-lookup"><span data-stu-id="c8a40-104">In the October '18 release, Microsoft Dynamics 365 Business Central receives a refreshed desktop experience.</span></span> <span data-ttu-id="c8a40-105">Business Central øger produktiviteten via nye effektive funktioner, der kan bruges i arbejdet med lister og til at søge efter sider og rapporter.</span><span class="sxs-lookup"><span data-stu-id="c8a40-105">Business Central accelerates productivity through powerful new features for working with lists and searching for pages and reports.</span></span>
 
