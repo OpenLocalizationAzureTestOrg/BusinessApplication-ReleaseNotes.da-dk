@@ -22,8 +22,6 @@ ms.lasthandoff: 07/18/2018
 
 [!include[banner](../../includes/banner.md)]
 
-[!include[banner](Includes/disclaimer.md)]
-
 Med produktfrigivelsen fra oktober 2018 kan Microsoft Dynamics 365 Business Central byde på en opdateret skrivebordsoplevelse. Business Central øger produktiviteten via nye effektive funktioner, der kan bruges i arbejdet med lister og til at søge efter sider og rapporter.
 
 ## <a name="refreshed-desktop-experience"></a>Opdateret skrivebordsoplevelse
