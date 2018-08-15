@@ -3,7 +3,8 @@ title: "Integreret hjælp og support-oplevelse i flowdesigner"
 description: "Flow har omfattende indhold i community'et om, hvordan du løser problemer med flows. En ny supportoplevelse gør det nemt at finde indbyggede løsninger uden at skulle sende en supportanmodning."
 author: anjlic
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 397e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

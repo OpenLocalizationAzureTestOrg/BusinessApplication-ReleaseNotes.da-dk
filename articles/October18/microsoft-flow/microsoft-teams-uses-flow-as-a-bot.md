@@ -3,7 +3,8 @@ title: Microsoft Teams bruger Flow som robot
 description: Brugerne i en teamkanal vil kunne kommunikere med et flow skriftligt blot ved at skrive kommandoer i en kanal for at interagere med den.
 author: Mhade
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 450627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

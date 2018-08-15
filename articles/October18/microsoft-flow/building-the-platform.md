@@ -3,7 +3,8 @@ title: Udvikling af platformen
 description: En platform for virksomheder, der opfylder de krav til livscyklus og overholdelse, som beslutningstagere og administratorer stiller.
 author: stepsic-microsoft-com
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 48ab17c8-3973-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

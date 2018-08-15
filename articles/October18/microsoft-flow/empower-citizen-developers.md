@@ -3,7 +3,8 @@ title: Styrkelse af citizen-udviklere
 description: "Indeholder de vigtigste funktioner, som citizen-udviklere behøver for at kunne bruge Microsoft Flow til at udvikle mere driftssikre og produktionsklare løsninger."
 author: evchaki
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: aa40ae4f-cf73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

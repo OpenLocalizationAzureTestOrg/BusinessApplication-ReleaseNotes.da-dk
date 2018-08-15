@@ -3,7 +3,8 @@ title: Designe flows i Visio
 description: "Opret flows i Visio ved hjælp af standardbegreber fra rutediagrammer, og eksportér dine flows til Visio, hvor du nemt kan visualisere dem."
 author: stepsic-microsoft-com
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 640627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

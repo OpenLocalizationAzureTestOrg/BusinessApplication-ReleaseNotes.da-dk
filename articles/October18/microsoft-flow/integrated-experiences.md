@@ -3,7 +3,8 @@ title: Integrerede oplevelser
 description: Bedre samarbejde med Office 365 og Dynamics 365 giver integrerede oplevelser i SharePoint, Teams, Excel og flere.
 author: Mhade
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 5e67a6cc-3773-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

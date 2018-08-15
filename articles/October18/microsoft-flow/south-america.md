@@ -3,7 +3,8 @@ title: Sydamerika
 description: "Med installationen i Brasilien vil Microsoft Flow have fuld paritet med alle Dynamics 365-områder."
 author: stepsic-microsoft-com
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 437e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

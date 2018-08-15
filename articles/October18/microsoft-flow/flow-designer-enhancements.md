@@ -3,7 +3,8 @@ title: Forbedringer af flowdesigner
 description: "Forbedrede redigeringsfunktioner, herunder mulighed for at kopiere og indsætte handlinger, og en ny HTML-editor til RTF-mails."
 author: sunayv
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 4f7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

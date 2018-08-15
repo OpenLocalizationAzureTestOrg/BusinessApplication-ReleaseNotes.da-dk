@@ -3,7 +3,8 @@ title: Flowstartpanel til OneDrive for Business
 description: "OneDrive for Business får en integreret Flow-oplevelse til kørsel af flows"
 author: Mhade
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 23bd3e38-aa74-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

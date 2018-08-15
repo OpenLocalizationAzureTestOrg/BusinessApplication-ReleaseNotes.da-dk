@@ -3,7 +3,8 @@ title: Flow for SharePoint-administrationsscenarier
 description: "Flows, der skal bruges til SharePoint-administrationsscenarier som f.eks. oprettelse af forbindelse til hub og klargøring af websteder."
 author: Mhade
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 410627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

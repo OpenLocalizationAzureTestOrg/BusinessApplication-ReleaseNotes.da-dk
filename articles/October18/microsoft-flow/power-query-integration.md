@@ -3,7 +3,8 @@ title: "Integration af Power-forespørgsel"
 description: "En Power-forespørgselsoplevelse indbygges, så udviklere kan forme datamiks fra SQL Server."
 author: KentWeareMSFT
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 497e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
