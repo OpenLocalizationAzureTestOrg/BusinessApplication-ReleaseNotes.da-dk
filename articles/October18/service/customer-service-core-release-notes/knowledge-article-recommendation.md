@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 135cf698caec8418960d4ae5afa22de9909f8cee
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6f7b72cf23d0b92e284798ae046c7ee8d83e2541
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="knowledge-article-recommendation"></a><span data-ttu-id="8997e-103">Anbefalede videnartikler</span><span class="sxs-lookup"><span data-stu-id="8997e-103">Knowledge article recommendation</span></span> 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 <span data-ttu-id="8997e-104">For kundeserviceorganisationer er vidensstyring vigtig for at opnå bedre kundeoplevelser og Helpdesk medarbejderproduktivitet.</span><span class="sxs-lookup"><span data-stu-id="8997e-104">For any customer service organization, knowledge management is vital for improved customer experience and agent productivity.</span></span>  <span data-ttu-id="8997e-105">Denne funktion udnytter [Microsoft Tekstanalyse-API'er](https://azure.microsoft.com/en-in/services/cognitive-services/text-analytics/) til at anbefale videnartikler baseret på alle relaterede objekters data.</span><span class="sxs-lookup"><span data-stu-id="8997e-105">This feature leverages [Microsoft Text Analytics APIs](https://azure.microsoft.com/en-in/services/cognitive-services/text-analytics/) to provide knowledge article recommendations based on all related entities’ data.</span></span> <span data-ttu-id="8997e-106">Det giver Helpdesk medarbejderne hurtigere adgang til relevante og kontekstafhængig videnartikler, hvilket hjælper dem med at løse sager hurtigt.</span><span class="sxs-lookup"><span data-stu-id="8997e-106">This gives agents faster access to relevant and contextual knowledge articles, helping them resolve cases quickly.</span></span>
 

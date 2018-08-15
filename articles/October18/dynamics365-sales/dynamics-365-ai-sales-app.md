@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 05561650099897aaff1627f8160884824acd4ed0
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c88dd71a5a654638be727feba392054dc2cef9e5
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="enhance-sales-performance-and-planning-with-the-dynamics-365-ai-for-sales-app"></a><span data-ttu-id="df4de-103">Forbedre salgsresultater og -planlægning med appen Dynamics 365 AI for Sales</span><span class="sxs-lookup"><span data-stu-id="df4de-103">Enhance sales performance and planning with the Dynamics 365 AI for Sales app</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="df4de-104">Den nye Dynamics 365 AI for Sales-app gør det nemt at analysere salgsresultater ved at levere nyttig indsigt fra salgsdata, proaktivt og foreskrivende.</span><span class="sxs-lookup"><span data-stu-id="df4de-104">The new Dynamics 365 AI for Sales app takes the hassle out of sales performance analysis by proactively and prescriptively providing useful insights from sales data.</span></span> <span data-ttu-id="df4de-105">Salgschefer kan bruge appen til at evaluere og forbedre deres salgsteams resultater i Dynamics 365 og andre salgsprogrammer.</span><span class="sxs-lookup"><span data-stu-id="df4de-105">The app helps sales managers evaluate and improve the performance of their sales teams on Dynamics 365 and other sales applications.</span></span> <span data-ttu-id="df4de-106">Målinger af kundeafgang og pipelinebaserede prognoser, der udføres på grundlag af relationers tilstandsscore, hjælper salgschefer med at optimere deres salgsstrategier.</span><span class="sxs-lookup"><span data-stu-id="df4de-106">With churn measurement and pipeline forecasting using relationship health scores, sales leaders can better optimize their sales strategies.</span></span>

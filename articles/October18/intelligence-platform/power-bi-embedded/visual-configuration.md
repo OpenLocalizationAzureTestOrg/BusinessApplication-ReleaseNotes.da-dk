@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: db1c5099ada156b4cb110d3f72a528dd762d2335
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: bd2a89297bc0451a382ea798b4284551406e6cad
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="visual-configuration-for-power-bi-embedded"></a><span data-ttu-id="793cb-103">Konfiguration af visuelle elementer til Power BI Embedded</span><span class="sxs-lookup"><span data-stu-id="793cb-103">Visual configuration for Power BI Embedded</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="793cb-104">De visuelle elementer er en integreret del af programmet.</span><span class="sxs-lookup"><span data-stu-id="793cb-104">The visual is an integrated part of the application.</span></span> <span data-ttu-id="793cb-105">Derfor kan programmet styre, hvilke visuelle funktioner og oplevelser, som slutbrugeren vil blive mødt med.</span><span class="sxs-lookup"><span data-stu-id="793cb-105">As such, we are enabling the application to control which visual functionality and experiences the end user will be exposed to.</span></span> <span data-ttu-id="793cb-106">Standardfunktionsmåden er at fremvise alle Power BI-funktionerne:</span><span class="sxs-lookup"><span data-stu-id="793cb-106">The default behavior is to expose all the Power BI capabilities:</span></span>
 

@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 2ad2ef2b1092a12d5fd43fd9c806d45dff4297c0
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: e0454619f38241cdf5158214dfa30324012081e5
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="new-developer-portal"></a><span data-ttu-id="31883-103">Ny udviklerportal</span><span class="sxs-lookup"><span data-stu-id="31883-103">New developer portal</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="31883-104">En ny udviklerportal for Power BI-udviklere indeholder alle de ressourcer, som udviklere behøver for at arbejde med Power BI Embedded, automatisere processer til deres Power BI-løsninger og udvikle brugerdefinerede visualiseringer.</span><span class="sxs-lookup"><span data-stu-id="31883-104">A new developer portal for Power BI developers contains all the resources that developers need to work with Power BI Embedded, automate processes for their Power BI solutions, and build custom visuals.</span></span> <span data-ttu-id="31883-105">Portalen indeholder links til relevant dokumentation.</span><span class="sxs-lookup"><span data-stu-id="31883-105">The portal includes links to relevant documentation.</span></span>
 

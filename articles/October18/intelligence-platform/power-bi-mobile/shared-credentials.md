@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f7a4f78a39a13241e79d1d491d7e5cb558a98157
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 592de5d72d757498c2f1d81fb1c131df2e217ae5
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="mobile-shared-credentials-ios-and-android"></a><span data-ttu-id="05729-103">Mobildelte legitimationsoplysninger (iOS og Android)</span><span class="sxs-lookup"><span data-stu-id="05729-103">Mobile shared credentials (iOS and Android)</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="05729-104">Med delte legitimationsoplysninger kan Power BI-mobilbrugere (iOS og Android) logge på uden problemer ved at dele de samme legitimationsoplysninger med Office-apps, der allerede er godkendt.</span><span class="sxs-lookup"><span data-stu-id="05729-104">With shared credentials, Power BI Mobile users (iOS and Android) can sign in seamlessly by sharing the same credentials with Office apps that were already authenticated.</span></span>
 

@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ba5beb7b355f04116081598680e6809f0677e24d
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c9c98c20f526a71ef55f7616ece583ff8045ead1
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="integration-with-dynamics-365-for-finance-and-operations"></a><span data-ttu-id="a8f82-103">Integration med Dynamics 365 for Finance and Operations.</span><span class="sxs-lookup"><span data-stu-id="a8f82-103">Integration with Dynamics 365 for Finance and Operations</span></span>
 
+[!include[field-service banner](../../includes/field-service.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="a8f82-104">Denne integration gør det muligt at overføre masterdata (firma, produkt og prisliste) og arbejdsordredata til salgsordrer, når arbejdsordrer er markeret som lukkede.</span><span class="sxs-lookup"><span data-stu-id="a8f82-104">This integration allows for master data (account, product, and pricelist) and work order data to be pushed to sales orders when work orders are marked as closed.</span></span> <span data-ttu-id="a8f82-105">Den indeholder også integration af lagersted, indkøbsordre og faktura.</span><span class="sxs-lookup"><span data-stu-id="a8f82-105">It also offers warehouse, purchase order, and invoice integration.</span></span>
 

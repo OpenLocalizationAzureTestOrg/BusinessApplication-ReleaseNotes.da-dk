@@ -11,16 +11,18 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: dc40b9862dcb8c4e8eeb12168ab8497bc131c000
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: bac9c35f91f43541a6597feb3973c9bf40fe1a44
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="resolution-of-multi-currency-cost-price-list-on-projects"></a><span data-ttu-id="5946e-103">Fortolkning af kostprisliste med flere valutaer på projekter</span><span class="sxs-lookup"><span data-stu-id="5946e-103">Resolution of multi-currency cost price list on projects</span></span> 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="5946e-104">Project Service fortolker prislisten for omkostningssatser på projekter ved at sammenligne valutaen i den afdeling, der ejer projektet, med prislistens valuta.</span><span class="sxs-lookup"><span data-stu-id="5946e-104">Project Service resolves the price list for cost rates on projects by matching the currency of the organizational unit that owns the project to the price list currency.</span></span> <span data-ttu-id="5946e-105">I det tilfælde, hvor en prisliste kan have priser i flere valutaer, forventes det, at der er én masterprisliste med omkostningssatslinjer i flere valutaer, og at denne prisliste vil blive brugt af alle projekter globalt.</span><span class="sxs-lookup"><span data-stu-id="5946e-105">In the case where a price list may have prices in multiple currencies, it's expected that there would be one master price list with cost rate lines in multiple currencies, and that this price list would be used by all projects globally.</span></span> 
 

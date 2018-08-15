@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 851b242a797a4722b1b83f4a4b2d8c73dbf84082
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 08cd043e2f07ded97401ba7d29967de52fbc5b2f
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="enable-an-application-to-programmatically-use-slicers"></a><span data-ttu-id="1d45f-103">Muliggøre brug af udsnitsværktøj i et program via programmering</span><span class="sxs-lookup"><span data-stu-id="1d45f-103">Enable an application to programmatically use slicers</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="1d45f-104">Udsnitsværktøj-API'en giver programmet styring gennem hele sessionen med det udsnitsværktøj, en bruger arbejder med.</span><span class="sxs-lookup"><span data-stu-id="1d45f-104">The slicers API will give the application control, throughout the session, of the slicers the user interacts with.</span></span> <span data-ttu-id="1d45f-105">API'en kommer til at fungere som filter-API'en – nemt og intuitivt for udvikleren.</span><span class="sxs-lookup"><span data-stu-id="1d45f-105">The API will be like the filters API so that it will be easy and intuitive for the developer.</span></span> <span data-ttu-id="1d45f-106">Følgende funktioner understøttes:</span><span class="sxs-lookup"><span data-stu-id="1d45f-106">The supported capabilities are:</span></span>
 

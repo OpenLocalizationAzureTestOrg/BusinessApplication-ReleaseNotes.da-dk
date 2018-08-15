@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 7b4306b502f9b2db26e77376961ace28fc7022f5
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 2d065085c4aea2a7fe2f98bd89bce991287e3226
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="certified-custom-visuals-in-the-marketplace"></a><span data-ttu-id="fb33f-103">Certificerede brugerdefinerede visualiseringer på markedspladsen</span><span class="sxs-lookup"><span data-stu-id="fb33f-103">Certified custom visuals in the marketplace</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="fb33f-104">Udviklere af brugerdefinerede visualiseringer på markedspladsen kan vælge at gennemgå en yderligere certificeringsproces til forbedring af sikkerhed og kvalitet for at få en certificering fra Power BI-teamet, som gør det muligt at understøtte visualiseringen ved eksport til PowerPoint og mailabonnementer.</span><span class="sxs-lookup"><span data-stu-id="fb33f-104">Developers of custom visuals in the marketplace can choose to go through an additional certification process for enhanced security and quality to get a certification from the Power BI team, which will enable the visual to be supported in export to PowerPoint and email subscriptions.</span></span> <span data-ttu-id="fb33f-105">Derudover giver certificeringen brugerne sikkerhed for, at de uden problemer kan bruge visualiseringerne sammen med deres data.</span><span class="sxs-lookup"><span data-stu-id="fb33f-105">In addition, the certification provides reassurance to users that the visuals are safe to use with their data.</span></span>
 

@@ -11,16 +11,18 @@ ms.technology:
 ms.author: aneesa
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ba625f2dd1fc236d5d6d767b5001ed338070c1cd
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: ef2442149e6cfaf664854f42050377f970bcd832
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="extend-dynamics-365-entity-forms-with-embedded-canvas-apps"></a><span data-ttu-id="ccf18-103">Udvidelse af Dynamics 365-objektformularer med integrerede lærred-apps</span><span class="sxs-lookup"><span data-stu-id="ccf18-103">Extend Dynamics 365 entity forms with embedded canvas apps</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="ccf18-104">Lærred-apps gør det muligt for appudviklere at skabe en brugeroplevelse med perfekte pixel ved at bruge funktionerne til tilpasning med lidt kode.</span><span class="sxs-lookup"><span data-stu-id="ccf18-104">Canvas apps enable app makers to deliver a rich, pixel-perfect user experience via low-code customization capabilities.</span></span> <span data-ttu-id="ccf18-105">De understøtter også forbindelse til over 200 datakilder, herunder en række skytjenester (såsom Office 365 og SharePoint) samt datakilder i det lokale miljø (via en gateway).</span><span class="sxs-lookup"><span data-stu-id="ccf18-105">They also support connecting to more than 200 data sources including a range of cloud services (such as Office 365 and SharePoint) as well as on-premises data sources (via a gateway).</span></span> <span data-ttu-id="ccf18-106">Nu kan appudviklere overføre disse funktioner direkte til deres modelbaserede apps ved at integrere lærred-apps i deres modelbaserede formularer.</span><span class="sxs-lookup"><span data-stu-id="ccf18-106">Now app makers can bring these capabilities directly into their model-driven apps by embedding canvas apps in their model-driven forms.</span></span> 
  

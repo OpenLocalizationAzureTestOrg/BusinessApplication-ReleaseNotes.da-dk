@@ -11,16 +11,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 40c03fe3d356a3c720bad3c186e6b13592e5486a
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3ac864ab05d2a54ce6e0d9709218727171e13bd6
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="azure-analysis-services"></a><span data-ttu-id="d8161-103">Azure Analysis Services</span><span class="sxs-lookup"><span data-stu-id="d8161-103">Azure Analysis Services</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="d8161-104">Azure Analysis Services giver adgang til det gennemprøvede analyseprogram i SQL Server Analysis Services som en komplet styret værtstjeneste.</span><span class="sxs-lookup"><span data-stu-id="d8161-104">Azure Analysis Services offers the proven analytics engine of SQL Server Analysis Services as a fully managed hosted service.</span></span> 
 

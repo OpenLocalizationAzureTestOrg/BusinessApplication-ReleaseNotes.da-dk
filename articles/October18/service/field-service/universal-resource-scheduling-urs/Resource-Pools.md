@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8450e5278a3b84e410ad73c3635ff94a20d32812
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 830930100198d4925033687fd372f7df8b345bb6
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="resource-pools"></a><span data-ttu-id="4a9ca-103">Ressourcepuljer</span><span class="sxs-lookup"><span data-stu-id="4a9ca-103">Resource pools</span></span>
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 <span data-ttu-id="4a9ca-104">Knyt ressourcer til ressourcepuljer, så planlæggere kan reservere krav til en generisk pulje uden behov for at bestemme, hvilken ressource der rent faktisk skal udføre arbejdet.</span><span class="sxs-lookup"><span data-stu-id="4a9ca-104">Associate resources to resource pools to enable schedulers to book requirements to a generic pool without needing to decide which resource will actually perform the work.</span></span>
 

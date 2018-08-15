@@ -12,16 +12,18 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
-ms.openlocfilehash: 2fdc6a7522631e62f608087ec6badd6805b32068
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 43fb28828fc06454ce3855519392c14995558a29
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="simpler-smarter-transformation-and-integration-of-enterprise-data-with-power-query-and-data-integration-platform"></a><span data-ttu-id="cd7c2-103">Forenklet, smartere transformering og integration af virksomhedsdata med Power-forespørgsel og dataintegrationsplatformen</span><span class="sxs-lookup"><span data-stu-id="cd7c2-103">Simpler, smarter transformation and integration of enterprise data with Power Query and Data Integration Platform</span></span>
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="cd7c2-104">Vi har gjort det nemmere at håndtere typiske dataintegrationsproblemer i virksomheder ved at udvikle:</span><span class="sxs-lookup"><span data-stu-id="cd7c2-104">We have simplified common data integration problems in enterprises by innovating in:</span></span>
 

@@ -11,16 +11,18 @@ ms.technology:
 ms.author: aheaney
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4c36e23666a60bede72e6afb97c9d5db46d20eed
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 59c5f13442b80489dcc9177fedbe80014f6e72ad
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="build-model-driven-apps-of-higher-quality-with-solution-checker"></a><span data-ttu-id="3d1e3-103">Oprette modelbaserede apps i en højere kvalitet med løsningskontrol</span><span class="sxs-lookup"><span data-stu-id="3d1e3-103">Build model-driven apps of higher quality with Solution checker</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="3d1e3-104">Løsningskontrol gør det muligt at oprette modelbaserede apps i en højere kvalitet ved at hjælpe appudviklere med at følge bedste praksis, når de tilpasser og udvider PowerApps-platformen.</span><span class="sxs-lookup"><span data-stu-id="3d1e3-104">Solution checker promotes higher-quality model-driven apps by helping app makers follow best practices when they customize and extend the PowerApps platform.</span></span> <span data-ttu-id="3d1e3-105">Ved at køre kontrollen kan appudviklere besvare spørgsmål som:</span><span class="sxs-lookup"><span data-stu-id="3d1e3-105">By running the checker, app makers can answer questions such as these:</span></span>
 

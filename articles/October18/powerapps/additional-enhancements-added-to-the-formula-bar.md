@@ -11,16 +11,18 @@ ms.technology:
 ms.author: gregli
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1c6cae377748262e2c08b5730db771293303a84c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3e8963d65aaffa034eb4b7e9e7f24451f7f22912
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="formula-bar-enhanced"></a><span data-ttu-id="12c20-103">Forbedret formellinje</span><span class="sxs-lookup"><span data-stu-id="12c20-103">Formula bar enhanced</span></span> 
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="12c20-104">Lærred-apps fungerer ved at sammensætte funktioner, f.eks. filtrerings- og sorteringsfunktioner, for at skabe meget effektive formler.</span><span class="sxs-lookup"><span data-stu-id="12c20-104">Canvas apps operate by composing functions, such as Filter and Sort, to form powerful formulas.</span></span> <span data-ttu-id="12c20-105">Resultatet indsættes ofte direkte i et kontrolelement, f.eks. et galleri, hvor det kan fortolkes yderligere.</span><span class="sxs-lookup"><span data-stu-id="12c20-105">The result is often fed directly into a control, such as a gallery, which may interpret it further.</span></span>
 

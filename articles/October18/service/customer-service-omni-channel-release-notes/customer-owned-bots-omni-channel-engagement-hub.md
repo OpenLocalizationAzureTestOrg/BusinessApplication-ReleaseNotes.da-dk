@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6e6b3ed58d98ee51df4d37d60a601a4c2fc94121
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: db4684ba4b28ae3b5084c7909ac4f0d5e502c2c8
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="enable-customers-to-bring-their-bots"></a><span data-ttu-id="66939-103">Gøre det muligt for kunder at bruge deres robotter</span><span class="sxs-lookup"><span data-stu-id="66939-103">Enable customers to bring their bots</span></span>
 
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="66939-104">Brugerne i dag kræver i stadigt stigende omfang, at virksomheder opfylder deres krav og behov hurtigt, effektivt og nøjagtigt.</span><span class="sxs-lookup"><span data-stu-id="66939-104">Today, consumers are increasingly demanding that companies serve their needs and meet their requirements quickly, efficiently, and accurately.</span></span> <span data-ttu-id="66939-105">Samtidigt er der et strategisk skifte i retning af selvbetjeningskanaler, hvor kunder selv kan løse problemer med produkter eller tjenester.</span><span class="sxs-lookup"><span data-stu-id="66939-105">At the same time, there is a strategic shift toward use of self-service channels, with customers looking to solve product or service issues themselves.</span></span> 
 

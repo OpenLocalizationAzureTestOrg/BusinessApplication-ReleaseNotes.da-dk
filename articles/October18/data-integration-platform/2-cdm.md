@@ -12,16 +12,18 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b1ea2a961aae470cf8bcfb239232a11f5d341350
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: d784b097b8cef163a0fda64d678f79ec40182ac1
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="easier-sharing-unification-and-enrichment-of-data-with-common-data-model-entities"></a><span data-ttu-id="acba3-103">Nemmere deling, samling og forbedring af data med Common Data Model-objekter</span><span class="sxs-lookup"><span data-stu-id="acba3-103">Easier sharing, unification, and enrichment of data with Common Data Model entities</span></span>
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="acba3-104">**Common Data Model**-definitionen med åben kildekode er blevet forbedret for at levere **integration af forretningsprocesser, programmer og profilforbedringer** på tværs af forretningsfunktioner inden for salg, service, marketing, drift, finans, talent og handel samt kerneobjektprofiler for kunder med henblik på at understøtte dataforbedring og analyse baseret på observation.</span><span class="sxs-lookup"><span data-stu-id="acba3-104">The open-source **Common Data Model** definition of standard entities has been enhanced for the **integration of business processes, applications, and profile enrichment** across sales, services, marketing, operations, finance, talent, and commerce business functions, as well as core entity profiles for customers to support observational data enrichment and analysis.</span></span>
 

@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 33c119fbe853ad3372b40fee3b2c631ece29e35c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 101fef6d5c7ff67652d15c7111be28a39edbd6e0
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="single-sign-on-for-windows-devices"></a><span data-ttu-id="8e37d-103">Enkeltlogon for Windows-enheder</span><span class="sxs-lookup"><span data-stu-id="8e37d-103">Single sign-on for Windows devices</span></span> 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="8e37d-104">Power BI kan konfigureres til at tage brugernes legitimationsoplysninger fra Windows-operativsystemet og bruge dem til at logge på Power BI for at give virksomhedens brugere en nem oplevelse.</span><span class="sxs-lookup"><span data-stu-id="8e37d-104">Power BI can be configured to take the user credentials from the Windows operating system and use them to sign in to Power BI to provide a seamless experience for business users.</span></span> 
 

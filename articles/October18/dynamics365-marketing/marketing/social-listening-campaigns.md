@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 843cdb90d7e0b1dd1a91d7311357652661780899
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1ea7623590b40cea585799f1091c2cb910956f8a
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="social-listening-for-your-campaigns"></a><span data-ttu-id="ca46d-103">Social lytning til dine kampagner</span><span class="sxs-lookup"><span data-stu-id="ca46d-103">Social listening for your campaigns</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="ca46d-104">Moderne marketing er afhængig af signaler fra sociale medier for at fastholde kundeengagementet.</span><span class="sxs-lookup"><span data-stu-id="ca46d-104">Modern marketing relies on signals from social media to help keep customers engaged.</span></span> <span data-ttu-id="ca46d-105">Med social lytning i Dynamics 365 for Marketing kan marketingmedarbejdere føje relevante sociale tags til kundekampagneforløb, arrangementer og andre objekter, så de kan få vist de sociale mediers respons på deres marketingtiltag ved siden af anden marketingindsigt.</span><span class="sxs-lookup"><span data-stu-id="ca46d-105">Social listening in Dynamics 365 for Marketing lets marketers add relevant social tags to customer journeys, events, and other entities, so they can view the social media response to their marketing initiatives right alongside other marketing insights.</span></span>
 

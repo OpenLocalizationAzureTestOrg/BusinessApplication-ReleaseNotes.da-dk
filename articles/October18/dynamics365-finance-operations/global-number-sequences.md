@@ -11,14 +11,16 @@ ms.technology:
 ms.author: margoc
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 95e1438c681f1c28c9eb9594dc4625a9c9c1beed
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6339e453a7e7a8705ce10016ed4c4c8be2af56d0
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="global-number-sequences"></a><span data-ttu-id="dbe0d-103">Globale nummerserier</span><span class="sxs-lookup"><span data-stu-id="dbe0d-103">Global number sequences</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 <span data-ttu-id="dbe0d-104">Globale nummerserier for kunder og kundegrupper giver forretningsbrugere mulighed for at kopiere disse data fra én juridisk enhed til en anden.</span><span class="sxs-lookup"><span data-stu-id="dbe0d-104">Global number sequences for customers and customer groups allow business users to copy this data from one legal entity to another.</span></span> <span data-ttu-id="dbe0d-105">Når kopieringsfunktionen er fuldført, deles kundenummer og kundeoplysninger i de to juridiske enheder.</span><span class="sxs-lookup"><span data-stu-id="dbe0d-105">When the copy function is complete, the same customer number and customer information will be shared in both legal entities.</span></span> <span data-ttu-id="dbe0d-106">Dette forbedrer anvendeligheden i scenarier internt i virksomheder.</span><span class="sxs-lookup"><span data-stu-id="dbe0d-106">This improves usability for inter-company scenarios.</span></span> <span data-ttu-id="dbe0d-107">Denne funktion er også tilgængelig for leverandører og leverandørgrupper.</span><span class="sxs-lookup"><span data-stu-id="dbe0d-107">This functionality is also available for vendor and vendor groups.</span></span>

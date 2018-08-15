@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 54eb72ddeb8b4c744b9aed9f0e08b1d3db9e344d
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: fc9eefae16f8958439f26bebda5648ecca28c99e
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="overview-of-dynamics-365-for-field-service-october-18-release"></a><span data-ttu-id="0f6c2-103">Oversigt over Dynamics 365 for Field Service-produktfrigivelsen fra oktober 2018</span><span class="sxs-lookup"><span data-stu-id="0f6c2-103">Overview of Dynamics 365 for Field Service October '18 release</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[field-service banner](../../includes/field-service.md)]
+
+
 
 <span data-ttu-id="0f6c2-104">Microsoft Dynamics 365 for Field Service hjælper organisationer med at levere differentierede teknisk service-oplevelser til kunderne.</span><span class="sxs-lookup"><span data-stu-id="0f6c2-104">Microsoft Dynamics 365 for Field Service helps organizations deliver differentiated field service experiences to their customers.</span></span>
 

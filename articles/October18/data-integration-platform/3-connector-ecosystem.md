@@ -12,16 +12,18 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 3b01ce72e354533570465a5953bf12d1412327f5
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1a28b60ca0960084042d198483f7b2789415593d
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="richer-and-more-unified-connector-and-developer-ecosystem"></a><span data-ttu-id="946f4-103">Mere avanceret og ensartet økosystem af connectorer og udviklere</span><span class="sxs-lookup"><span data-stu-id="946f4-103">Richer and more unified connector and developer ecosystem</span></span>
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="946f4-104">En vigtig del af dataintegration og den produktpakke, den understøtter, er forbindelse til eksterne datakilder.</span><span class="sxs-lookup"><span data-stu-id="946f4-104">A critical part of Data Integration and the suite of products it supports is connectivity to external data sources.</span></span> <span data-ttu-id="946f4-105">Mens vi fortsat vil investere i et sæt datakilder for virksomheder, er der et stigende antal databaser og tjenester ved siden af dette sæt, som mange brugere ofte benytter.</span><span class="sxs-lookup"><span data-stu-id="946f4-105">While we continue to invest in a set of enterprise grade data sources, there are a growing number of databases and services many users come to depend on outside of that set.</span></span> <span data-ttu-id="946f4-106">For at sikre at vores brugere kan få adgang til de data, som de har brug for, investerer vi fortsat i vores udvidelsesmuligheder over hele platformen.</span><span class="sxs-lookup"><span data-stu-id="946f4-106">To ensure our users can connect to the data they need, we continue to invest in our extensibility points throughout the platform.</span></span>
 

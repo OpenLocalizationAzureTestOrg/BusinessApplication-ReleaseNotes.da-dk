@@ -11,16 +11,18 @@ ms.technology:
 ms.author: gregli
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 12b5d7ce158263a16f558e96e9cbe3c7dc4f43a6
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: bdd0b30bfa06bf223e9a64f838ed4b16a62dcc44
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="easy-to-work-with-many-to-one-relationships-in-canvas-apps-for-common-data-service-for-apps"></a><span data-ttu-id="d35a8-104">Nemt arbejde med mange til én-relationer i lærred-apps for Common Data Service til apps</span><span class="sxs-lookup"><span data-stu-id="d35a8-104">Easy to work with many-to-one relationships in canvas apps for Common Data Service for Apps</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="d35a8-105">Det er afgørende for de fleste virksomhedsprogrammer at kunne arbejde med relationsdata.</span><span class="sxs-lookup"><span data-stu-id="d35a8-105">Working with relational data is key to most business applications.</span></span> <span data-ttu-id="d35a8-106">Men det kan være kedeligt at skrive forespørgsler om de nødvendige oplysninger, sammenkæde med fremmede nøgler og kontrollere projektionen.</span><span class="sxs-lookup"><span data-stu-id="d35a8-106">Yet it can be tedious to write queries that pull in the necessary information, join on foreign keys, and control the projection.</span></span>
 

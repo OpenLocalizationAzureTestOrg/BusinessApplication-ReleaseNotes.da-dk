@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 67dbc8cbbde88daff175f64d648406b467bc9ceb
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 920cb18641f6be8f38d8c0c42b63d19aba884dca
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="multi-resource-scheduling"></a><span data-ttu-id="7c378-103">Planlægning med flere ressourcer</span><span class="sxs-lookup"><span data-stu-id="7c378-103">Multi-resource scheduling</span></span>
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 <span data-ttu-id="7c378-104">Du kan dynamisk samle en gruppe af ressourcer, du vil konvergere samtidigt, med henblik på intradayplanlægning.</span><span class="sxs-lookup"><span data-stu-id="7c378-104">Dynamically assemble a group of resources to converge at the same time for intraday scheduling.</span></span> <span data-ttu-id="7c378-105">Ressourcer kan sammensættes i teams og mødes på stedet hos en kunde, samarbejde på afstand eller indfri aftaler på faciliteter.</span><span class="sxs-lookup"><span data-stu-id="7c378-105">Resources can be teamed together to meet onsite at a customer location, work together remotely, or fulfill appointments at facilities.</span></span>
 

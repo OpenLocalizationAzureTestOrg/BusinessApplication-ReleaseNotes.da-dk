@@ -12,17 +12,19 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 31dc0349ac89eaf78187332e2fa543c8a4006a76
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 81850011bb27b74e128779055666ac19e4a045a9
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="bulk-update-guides"></a><span data-ttu-id="d01d3-103">Masseopdatering af vejledninger</span><span class="sxs-lookup"><span data-stu-id="d01d3-103">Bulk update guides</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 <span data-ttu-id="d01d3-104">Chefer kan masseopdatere vejledninger, der allerede er sendt, ved at udsende opdateringer til den oprindelige skabelon.</span><span class="sxs-lookup"><span data-stu-id="d01d3-104">Managers can bulk update already sent guides by “pushing” out updates from the origin template.</span></span>
 

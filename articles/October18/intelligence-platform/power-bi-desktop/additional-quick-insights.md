@@ -11,16 +11,18 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4a3ee7a6fe65867612a13d76545882b418af3d1c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c5eed5c7bc8259954fc1403827d0df8a57a72b7c
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="additional-quick-insights-public-preview"></a><span data-ttu-id="57892-104">Yderligere hurtig indsigt (offentlig prøveversion)</span><span class="sxs-lookup"><span data-stu-id="57892-104">Additional quick insights (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="57892-105">Når du har en visualisering, der viser fordelingen af en værdi på tværs af en kategori (f.eks. salg efter produkttype), kan brugerne bede Power BI om at vise, hvilke andre faktorer der påvirker denne fordeling.</span><span class="sxs-lookup"><span data-stu-id="57892-105">When viewing a visual showing the distribution of a value across a category (for example, sales by product type), users can ask Power BI to show what other factors affect this distribution.</span></span> <span data-ttu-id="57892-106">Dette er med til at identificere påvirkningen på en metrikværdi, uden at du manuelt skal opdele efter de enkelte faktorer for at finde frem til påvirkningen.</span><span class="sxs-lookup"><span data-stu-id="57892-106">This helps identify the impact on a metric without manually having to break down by each factor to experiment and find the impact.</span></span>
 

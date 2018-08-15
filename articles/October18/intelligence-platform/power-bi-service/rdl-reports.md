@@ -12,15 +12,17 @@ ms.technology:
 ms.author: HaydnR
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4959c5d87e6f7a76c11109a21ccfcd1a887a9d1f
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3c5f1b25f85debf07a1716bdf47f33590cd222d9
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="paginated-reports-in-power-bi-public-preview"></a><span data-ttu-id="5559f-102">Sideinddelte rapporter i Power BI (offentlig prøveversion)</span><span class="sxs-lookup"><span data-stu-id="5559f-102">Paginated reports in Power BI (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="5559f-103">Publicer SQL Server Reporting Services-rapporter (SSRS) (\*.rdl-format) til et Power BI Premium-arbejdsområde, og få vist rapporter i Power BI-webappen.</span><span class="sxs-lookup"><span data-stu-id="5559f-103">Publish SQL Server Reporting Services (SSRS) reports (\*.rdl format) to a Power BI Premium workspace and view reports within the Power BI web app.</span></span> <span data-ttu-id="5559f-104">Rapporterne kan deles eller publiceres som en del af Power BI-apps.</span><span class="sxs-lookup"><span data-stu-id="5559f-104">The reports can be shared or published as part of Power BI apps.</span></span>
 

@@ -11,10 +11,10 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6a3589b7fc806a16724781b94f9bdf059c9dafb7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 377c1aecf363fd79dc8fefb4d3425d46042da644
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
@@ -22,7 +22,7 @@ ms.lasthandoff: 07/18/2018
 
 <span data-ttu-id="d5595-104">I dette afsnit beskrives de funktioner, der er planlagt til frigivelse mellem oktober 2018 og marts 2019 i Dynamics 365 for Sales og Dynamics 365 AI for Sales-apps.</span><span class="sxs-lookup"><span data-stu-id="d5595-104">This section lists the features planned for release between October 2018 and March 2019 in the Dynamics 365 for Sales and Dynamics 365 AI for Sales apps.</span></span> 
 
-[!include[banner](../../includes/banner.md)]
+
 
 | <span data-ttu-id="d5595-105">Funktion</span><span class="sxs-lookup"><span data-stu-id="d5595-105">Feature</span></span>                                                              | <span data-ttu-id="d5595-106">Frigivelsestype</span><span class="sxs-lookup"><span data-stu-id="d5595-106">Release type</span></span>   | <span data-ttu-id="d5595-107">Målmåned for frigivelse</span><span class="sxs-lookup"><span data-stu-id="d5595-107">Target release month</span></span> |
 |----------------------------------------------------------------------|----------------|----------------------|

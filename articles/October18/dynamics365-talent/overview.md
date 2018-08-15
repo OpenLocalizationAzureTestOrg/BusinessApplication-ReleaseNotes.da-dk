@@ -11,16 +11,18 @@ ms.technology:
 ms.author: josaw
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 2d62402092c80c1f2e0d953d379a8385f2e86947
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: fd8da15419baba41f82062b19edb29c92d0d1328
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-talent-october-18-release"></a><span data-ttu-id="32b57-103">Oversigt over Dynamics 365 for Talent-produktfrigivelsen fra oktober 2018</span><span class="sxs-lookup"><span data-stu-id="32b57-103">Overview of Dynamics 365 for Talent October '18 release</span></span>
 
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="32b57-104">Opdateringen til Dynamics 365 for Talent fra oktober 2018 indeholder funktioner i et ansøgerregistreringssystem (ATS), understøttelse af onboarding i afdelingen og nye funktioner til administration af frynsegoder, arbejdsstyrke og organisation.</span><span class="sxs-lookup"><span data-stu-id="32b57-104">The Dynamics 365 for Talent update for October ’18 includes applicant tracking system (ATS) capabilities, departmental onboarding support, and new benefits, workforce, and organization management capabilities.</span></span> <span data-ttu-id="32b57-105">Denne nyeste frigivelse giver Dynamics-partnere mulighed for at udvide Talent og overføre flere funktioner til Common Data Service (CDS) til apps.</span><span class="sxs-lookup"><span data-stu-id="32b57-105">This latest release opens the door for Dynamics partners to extend Talent and bring additional capabilities to the Common Data Service (CDS) for Apps.</span></span>
 

@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b0c77f2513805b6a8a88a59d3d0e2f472cfdd5cf
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: ba4386dd37a8be6e1159d1f8ae3f37393f829175
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="microsoft-bot-framework-integration"></a><span data-ttu-id="b5ee3-103">Integration med Microsoft Bot Framework</span><span class="sxs-lookup"><span data-stu-id="b5ee3-103">Microsoft Bot Framework integration</span></span>
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="b5ee3-104">Det meste tekniske servicearbejde omfatter en række trin, der gentages i ethvert givent job: opdatere status for en arbejdsordre til rejser, åbne instruktionerne til en arbejdsordre, se på serviceopgaverne til en arbejdsordre osv.</span><span class="sxs-lookup"><span data-stu-id="b5ee3-104">Most field service work involves a set of the same steps that are repeated on any given job: update the status of a work order to traveling, open the directions for a work order, view the service tasks for a work order, and so on.</span></span> <span data-ttu-id="b5ee3-105">Disse opgaver kan strømlines via samtaleoplevelser, der endda kan være automatiserede, i stedet for at teknikere skal klikke i et mobilprogram.</span><span class="sxs-lookup"><span data-stu-id="b5ee3-105">These tasks can be streamlined through conversational and even hands-free experiences as opposed to requiring technicians to click through a mobile application.</span></span> 
 

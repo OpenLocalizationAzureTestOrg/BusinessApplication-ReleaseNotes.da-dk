@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 626089b6b67b8f0945c5d8c8599c4b921676df49
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 4cd135e93869bf65361c9bf94b9761b199b661fb
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="predefined-crews"></a><span data-ttu-id="1119a-103">Foruddefinerede medvirkende</span><span class="sxs-lookup"><span data-stu-id="1119a-103">Predefined crews</span></span>
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 <span data-ttu-id="1119a-104">Saml på forhånd grupper af ressourcer, der altid er sammen, med henblik på intradayplanlægning.</span><span class="sxs-lookup"><span data-stu-id="1119a-104">Preassemble groups of resources that are always together for intraday scheduling.</span></span> <span data-ttu-id="1119a-105">Med Planlægning af medvirkende kan du definere en gruppe af ressourcer, der er planlagt til det samme arbejde i en periode.</span><span class="sxs-lookup"><span data-stu-id="1119a-105">Crew scheduling allows you to define a group of resources who are scheduled for the same work during a period of time.</span></span> <span data-ttu-id="1119a-106">Normalt mødes de medvirkende på et sted om morgenen, deler et køretøj og er sammen hele dagen fra job til job.</span><span class="sxs-lookup"><span data-stu-id="1119a-106">Typically, a crew meets at a location in the morning, shares a vehicle, and is together all day from job to job.</span></span> <span data-ttu-id="1119a-107">Virksomheder med fokus på tjenester, som gerne kræver flere teams af ressourcer for at udføre et job, foruddefinerer ofte en gruppe af medvirkende, et sæt ressourcer, der arbejder sammen hele dagen.</span><span class="sxs-lookup"><span data-stu-id="1119a-107">Companies focused on services that generally require teams of resources to accomplish jobs will often predefine a crew, a set of resources that stick together all day.</span></span>
 

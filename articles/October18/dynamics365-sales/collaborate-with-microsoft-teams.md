@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1365c33a8b9cb8cf96bfbd9a42b14c01504b08e9
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f9ce1b3646bede01362e2e9d1c3a93e8be405cec
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="transform-sales-team-collaboration-through-tight-integration-with-microsoft-teams"></a><span data-ttu-id="69e83-103">Transformere salgsteamets samarbejde via tæt integration med Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="69e83-103">Transform sales team collaboration through tight integration with Microsoft Teams</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="69e83-104">Dagens sælgere er med i dobbelt så mange teams som for fem år siden.</span><span class="sxs-lookup"><span data-stu-id="69e83-104">Today’s salespeople are on twice as many teams compared to five years ago.</span></span> <span data-ttu-id="69e83-105">De arbejder med gennemsnitlig seks beslutningstagere og 16 kolleger om at lukke et tilbud.</span><span class="sxs-lookup"><span data-stu-id="69e83-105">They work with an average of six decision makers and 16 colleagues to close a deal.</span></span> <span data-ttu-id="69e83-106">Det moderne salgsmiljø kræver hurtigere samarbejde med flere personer og om flere data.</span><span class="sxs-lookup"><span data-stu-id="69e83-106">The modern sales environment requires faster collaboration with more people and more data.</span></span> <span data-ttu-id="69e83-107">Microsoft Teams-integration med Dynamics 365 samler de funktioner, som sælgere skal bruge for at kunne samarbejde mere effektivt</span><span class="sxs-lookup"><span data-stu-id="69e83-107">The Microsoft Teams integration with Dynamics 365 brings together the capabilities that salespeople need to collaborate more effectively</span></span>
  

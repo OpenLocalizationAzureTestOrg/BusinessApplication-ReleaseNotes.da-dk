@@ -12,15 +12,17 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1905676af1cf71daec3bb0eb1f8fc0a5371311c9
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f3db7db9b5315245dcec2184cb33f440f4166cc4
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="assignee-placeholders"></a><span data-ttu-id="97ecc-103">Pladsholdere for modtagere</span><span class="sxs-lookup"><span data-stu-id="97ecc-103">Assignee placeholders</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 <span data-ttu-id="97ecc-104">Skabeloner på afdelingsniveau gøres så generelle som muligt, så de kan genbruges mest muligt.</span><span class="sxs-lookup"><span data-stu-id="97ecc-104">Templates at the department level are made as general as possible to allow for maximum reuse.</span></span> <span data-ttu-id="97ecc-105">Forfaldsdatoer angives f.eks. i forhold til den nyansattes startdato (f.eks. to uger efter startdatoen).</span><span class="sxs-lookup"><span data-stu-id="97ecc-105">For example, due dates are set relative from the new hire’s start date (for example, two weeks after start date).</span></span> <span data-ttu-id="97ecc-106">Der kan også på samme måde anvendes generaliseringer for modtagerne ved at lade opgaver, der skal tildeles til en pladsholder, blive tilknyttet ved kørslen.</span><span class="sxs-lookup"><span data-stu-id="97ecc-106">Assignees can also be generalized in the same fashion by allowing tasks to be assigned to a placeholder to be mapped at runtime.</span></span>
 

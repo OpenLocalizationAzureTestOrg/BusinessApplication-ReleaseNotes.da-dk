@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a45db7855593ffc4f36a8953250d3b435e9b41b7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3f0e231359d0356f1d7793832ef4b38ff063d12f
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-bi-desktop"></a><span data-ttu-id="d5be9-103">Power BI Desktop</span><span class="sxs-lookup"><span data-stu-id="d5be9-103">Power BI Desktop</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="d5be9-104">Power BI Desktop leverer løbende nye funktioner til brugerne.</span><span class="sxs-lookup"><span data-stu-id="d5be9-104">Power BI Desktop continues to bring new capabilities to users.</span></span> <span data-ttu-id="d5be9-105">Et stærkt fokus på de grundlæggende funktioner har åbnet for nye scenarier for store virksomheder – herunder nemmere adgang til rapportering og fortsat investering i forbedringer af SAP-forbindelsen.</span><span class="sxs-lookup"><span data-stu-id="d5be9-105">A strong focus on the fundamentals has unlocked new scenarios for large enterprises—including more accessible reporting and a continued investment in improving SAP connectivity.</span></span>
 

@@ -12,15 +12,17 @@ ms.technology:
 ms.author: sandhan
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
-ms.openlocfilehash: eced3150a8ea3087196455451a73e44690f6ba34
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 318636631f44de9d4991ee0733b502fbed2403fa
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="manage-sharepoint-documents"></a><span data-ttu-id="7ab4b-103">Styre SharePoint-dokumenter</span><span class="sxs-lookup"><span data-stu-id="7ab4b-103">Manage SharePoint documents</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 <span data-ttu-id="7ab4b-104">Denne funktion udvider dokumentstyringsfunktionerne i Dynamics 365-programmer til portaler for at give en ensartet oplevelse, hvor kunderne kan udnytte deres eksisterende investering i SharePoint sammen med Dynamics 365 til dokumentstyring.</span><span class="sxs-lookup"><span data-stu-id="7ab4b-104">This feature extends document management capabilities of Dynamics 365 applications to portals, providing a consistent experience and allowing customers to leverage their existing investments in SharePoint with Dynamics 365 for document management.</span></span>

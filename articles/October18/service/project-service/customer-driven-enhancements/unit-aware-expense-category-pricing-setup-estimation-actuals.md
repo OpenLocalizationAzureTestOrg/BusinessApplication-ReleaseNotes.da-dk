@@ -11,16 +11,18 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 9eef14478ecabd97bbc41b9fdacfa43fd342d9e7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 39f5ce5cd6ea1175da11c76bb4269546dbad7eeb
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="unit-aware-expense-category-pricing-for-setup-estimation-and-actuals"></a><span data-ttu-id="10e6c-103">Enhedsbaseret prissætning for udgiftskategori til konfiguration, forkalkulation og faktiske tal</span><span class="sxs-lookup"><span data-stu-id="10e6c-103">Unit-aware expense category pricing for setup, estimation, and actuals</span></span> 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="10e6c-104">Med denne funktion vil Project Service understøtte en enhedsbaseret prissætningsmetode for udgiftskategorier.</span><span class="sxs-lookup"><span data-stu-id="10e6c-104">With this feature, Project Service will support a unit–based pricing method for expense categories.</span></span> <span data-ttu-id="10e6c-105">Dette vil muliggøre scenarier som følgende:</span><span class="sxs-lookup"><span data-stu-id="10e6c-105">This will enable scenarios such as the following:</span></span>
 

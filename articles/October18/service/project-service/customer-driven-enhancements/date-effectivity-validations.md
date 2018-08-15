@@ -11,16 +11,18 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ebe319f383c161cea41fe8d483206b72f9244de7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 45118e9b8562da5b617c2ad1e983ffddc466259c
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #   <a name="date-effectivity-validation-on-price-lists"></a><span data-ttu-id="eed58-103">Validering af ikrafttrædelsesdato på prislister</span><span class="sxs-lookup"><span data-stu-id="eed58-103">Date effectivity validation on price lists</span></span>
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="eed58-104">Denne funktion sikrer, at Project Service-brugere undgår fejlagtige priser som følge af, at de har mere end én gældende prisliste for en bestemt dato.</span><span class="sxs-lookup"><span data-stu-id="eed58-104">This feature ensures that Project Service users avoid errors in price defaulting arising from having more than one price list effective for a certain date.</span></span> <span data-ttu-id="eed58-105">Som Project Service-kunder er opmærksomme på, kan de arbejde med flere projektprislister, der kan knyttes til tilbud, projektkontrakter og afdelinger.</span><span class="sxs-lookup"><span data-stu-id="eed58-105">As Project Service customers are aware, the product allows for multiple project price lists to be associated to quotes, project contracts, and organizational units.</span></span> <span data-ttu-id="eed58-106">Formålet er at tage højde for inflatoriske prisændringer, som kan forekomme på prislister med forskellige ikrafttrædelsesdatoer.</span><span class="sxs-lookup"><span data-stu-id="eed58-106">This is to allow for inflationary pricing changes represented by price lists with different date effectivities.</span></span> 

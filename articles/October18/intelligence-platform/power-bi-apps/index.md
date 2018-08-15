@@ -11,16 +11,18 @@ ms.technology:
 ms.author: kvivek
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 16639463615a696f0349eb2561b90d613bf0c0f7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 8b90b919f5c8dbb57f15e606c0925188ec606237
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="power-bi-apps"></a><span data-ttu-id="67c33-103">Power BI-apps</span><span class="sxs-lookup"><span data-stu-id="67c33-103">Power BI apps</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="67c33-104">Power BI-apps gør det muligt for Power BI-partnere at bygge Power BI-apps uden brug af kode eller med lav kodning og udgive dem i AppSource til brug for alle Power BI-kunder.</span><span class="sxs-lookup"><span data-stu-id="67c33-104">Power BI apps will enable no-code/low-code experiences for Power BI partners to build Power BI apps and publish them in AppSource for all Power BI customers.</span></span> <span data-ttu-id="67c33-105">Platformen kan hjælpe vores partnere med at opbygge, markedsføre, sælge og udvikle deres virksomhed hurtigere.</span><span class="sxs-lookup"><span data-stu-id="67c33-105">The platform will help our partners build, market, sell, and grow their business faster.</span></span>
 

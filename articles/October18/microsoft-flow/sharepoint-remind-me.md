@@ -12,16 +12,18 @@ ms.technology:
 ms.author: mhade
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: c6106eb51bb968ae37b523ac3a4e91e10eb17ea8
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1598e2846e72273a2515a4f96474453d3306d9b7
 ms.contentlocale: da-dk
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="sharepoint-remind-me"></a><span data-ttu-id="0b93b-103">SharePoint – Påmind mig</span><span class="sxs-lookup"><span data-stu-id="0b93b-103">SharePoint Remind Me</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="0b93b-104">Hvis en liste eller et bibliotek har en kolonne til dato/klokkeslæt, kan brugerne hurtigt klargøre en proces, der sender påmindelser, som er baseret på kommende aftaler i den valgte kolonne.</span><span class="sxs-lookup"><span data-stu-id="0b93b-104">If a list or library has a date/time column, users will be able to quickly provision a flow that sends out alerts based on upcoming dates in the selected column.</span></span> 
 

@@ -12,15 +12,17 @@ ms.technology:
 ms.author: dileeps
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f71636b14c957e7c7e51bab70ffc714bf91dd6d5
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6dedc366770bc60d0c28f18a966aae076cbca6fb
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="self-service-portal-diagnostics"></a><span data-ttu-id="b47eb-103">Diagnosticering af selvbetjeningsportal</span><span class="sxs-lookup"><span data-stu-id="b47eb-103">Self-service portal diagnostics</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 <span data-ttu-id="b47eb-104">Dynamics 365 Portal hjælper organisationer med at oprette websteder på en enkel og effektiv måde.</span><span class="sxs-lookup"><span data-stu-id="b47eb-104">Dynamics 365 Portal helps organizations create websites in a simple and effective manner.</span></span> <span data-ttu-id="b47eb-105">Som en del af vores investering i at forbedre understøttelsen af Dynamics 365 Portal fokuserer vi på bedre diagnosticering og giver kunderne mulighed for at løse problemer på egen hånd ved hjælp af selvbetjeningsdiagnosticering.</span><span class="sxs-lookup"><span data-stu-id="b47eb-105">As part of our investment to improve supportability of Dynamics 365 Portal, we are focusing on better diagnostics and providing customizers with the ability to resolve issues on their own using self-service diagnostic capabilities.</span></span>
 

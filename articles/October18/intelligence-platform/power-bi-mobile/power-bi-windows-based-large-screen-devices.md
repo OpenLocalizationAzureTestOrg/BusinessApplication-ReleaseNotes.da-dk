@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 74e4b7d6d000c266281ed24b7c02b33526c7f728
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1bbb4f0b29b9315fb50025f7441d8b60bf89cc3f
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-bi-on-windows-based-large-screen-devices-public-preview"></a><span data-ttu-id="730c5-103">Power BI på store Windows-baserede skærmenheder (offentlig prøveversion)</span><span class="sxs-lookup"><span data-stu-id="730c5-103">Power BI on Windows-based large screen devices (Public Preview)</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="730c5-104">Store touchskærme som f.eks. Surface Hub bruges til datapræsentation og teamsamarbejde.</span><span class="sxs-lookup"><span data-stu-id="730c5-104">Large touchscreens like the Surface Hub are used for data presentation and team collaboration.</span></span> <span data-ttu-id="730c5-105">Når du bruger Power BI-mobilappen på store skærme, kan du benytte touchskærmen intuitivt og få en oplevelse, der optimerer præsentationen og undersøgelsen af data på store skærme.</span><span class="sxs-lookup"><span data-stu-id="730c5-105">The Power BI Mobile app on large screens allows you to use the large touchscreen in an intuitive way, with an experience that optimizes the way data is presented and explored on large screens.</span></span>
 

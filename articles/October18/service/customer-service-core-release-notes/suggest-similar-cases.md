@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 74ec87c7c15b7e4ab4068914dfa73ba56fad2857
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 561ba799ab102a5169f83e84879a5e9c86db4ef3
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="suggest-similar-cases"></a><span data-ttu-id="b37af-103">Forslag til lignende sager</span><span class="sxs-lookup"><span data-stu-id="b37af-103">Suggest similar cases</span></span>  
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 <span data-ttu-id="b37af-104">Løsning af et kundeserviceproblem under den første kontakt og med minimalt tidsforbrug hjælper organisationer med at øge kundetilfredsheden og reducere driftsomkostningerne.</span><span class="sxs-lookup"><span data-stu-id="b37af-104">Resolving a customer service issue during the first contact and within minimal time helps organizations with increased customer satisfaction (CSAT) and reduced operations cost.</span></span>  <span data-ttu-id="b37af-105">I en kundeserviceorganisation vil erfarne kundeservicemedarbejdere eller fageksperter typisk løse problemer hurtigere ud fra viden og erfaring, der er indhentet under løsning af andre lignende problemer.</span><span class="sxs-lookup"><span data-stu-id="b37af-105">Typically, in a customer service organization, experienced customer service agents or subject matter experts (SMEs) resolve issues faster based on knowledge or experience gained over a period of resolving similar issues.</span></span> <span data-ttu-id="b37af-106">Hvis helpdesk-medarbejdere får en sag, der ligger uden for deres fagområde, vil overdragelse af sagen til eller rådgivning fra en fagekspert øge kundens indsats og forlænge ekspeditionstiden, hvilket reducerer kundetilfredsheden.</span><span class="sxs-lookup"><span data-stu-id="b37af-106">If agents get a case outside their areas of expertise, transferring the case to an expert agent or consulting an SME leads to increased customer effort and call handling time, resulting in reduced CSAT.</span></span>  
 

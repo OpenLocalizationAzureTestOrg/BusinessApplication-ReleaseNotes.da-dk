@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 822172ac452b6513ec700dc421fa61b7faffa195
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a93e3c09095e6033a960b8fccfcb04f2f3e1f470
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="cfs---integration-with-iot-central"></a><span data-ttu-id="071f9-103">CFS – Integration med IoT Central</span><span class="sxs-lookup"><span data-stu-id="071f9-103">CFS - Integration with IoT Central</span></span>
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="071f9-104">I den første fase af integrationen foregår integrationsløsningen primært via Microsoft Flow.</span><span class="sxs-lookup"><span data-stu-id="071f9-104">For the first phase of integration, the focus of the integration solution will be through Microsoft Flow.</span></span> <span data-ttu-id="071f9-105">Dette er en envejskommunikation fra IoT Central til Connected Field Service.</span><span class="sxs-lookup"><span data-stu-id="071f9-105">This is a one-way communication from IoT Central to Connected Field Service.</span></span> <span data-ttu-id="071f9-106">IoT Central overvåger eksterne enheder, og alle mål, der overskrider de tærskelværdier, der er defineret i IoT Central, udløser en handling, der starter en advarsel i CFS.</span><span class="sxs-lookup"><span data-stu-id="071f9-106">With IoT Central monitoring remote devices, any measurements that exceed thresholds defined in IoT Central will trigger an action to fire an alert in CFS.</span></span> <span data-ttu-id="071f9-107">Field Service-chefer kan gruppere disse advarselsbeskeder efter kriterier, f.eks. kundeaktiv og hændelsestype.</span><span class="sxs-lookup"><span data-stu-id="071f9-107">Field service managers can group these alerts by criteria such as customer asset and incident type.</span></span>
 

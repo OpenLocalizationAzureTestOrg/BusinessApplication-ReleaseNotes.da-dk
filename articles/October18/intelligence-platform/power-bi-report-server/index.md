@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 179e0b58e161a748fced74d0f4bc3d31d05efe97
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: ea7e6a6b1ef91f20955e5f81917b6081b63370dc
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-bi-report-server"></a><span data-ttu-id="070e3-103">Power BI-rapportserver</span><span class="sxs-lookup"><span data-stu-id="070e3-103">Power BI Report Server</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="070e3-104">Med Power BI-rapportserver kan kunder opfylde deres egne styrings- og installationskrav og samtidig få fordelen af moderne Power BI-rapporter.</span><span class="sxs-lookup"><span data-stu-id="070e3-104">With the Power BI Report Server, customers can meet their unique governance and deployment requirements while enjoying modern Power BI reports.</span></span> <span data-ttu-id="070e3-105">I opdateringen til Power BI-rapportserver fra oktober 2018 kan kunderne udnytte de mange funktioner, der er frigivet i Power BI Desktop i de foregående måneder, herunder detaljeadgang til målinger og betinget formatering, der er baseret på en anden kolonne.</span><span class="sxs-lookup"><span data-stu-id="070e3-105">In the October '18 update to Power BI Report Server, customers will benefit from many of the features released in Power BI Desktop over the previous months, including drillthrough on measures, and conditional formatting based on another column.</span></span> 
 

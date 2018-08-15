@@ -11,16 +11,18 @@ ms.technology:
 ms.author: josaw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f1fc9283f5dada51a46c3dccb2f16df75738fed5
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a7e22e4b83d182a9d898bedf20a049e33b334a7c
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-retail-october-18-release"></a><span data-ttu-id="ae7c2-103">Oversigt over Dynamics 365 for Retail-produktfrigivelsen fra oktober 2018</span><span class="sxs-lookup"><span data-stu-id="ae7c2-103">Overview of Dynamics 365 for Retail October '18 release</span></span>
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="ae7c2-104">Dynamics 365 for Retail-produktfrigivelsen fra oktober 2018 omfatter følgende temaer:</span><span class="sxs-lookup"><span data-stu-id="ae7c2-104">The October '18 release of Dynamics 365 for Retail includes the following themes:</span></span> 

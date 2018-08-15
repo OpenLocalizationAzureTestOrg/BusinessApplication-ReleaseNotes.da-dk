@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 5dbe9100c2d39c1e150a618627ac07862a0f8b7b
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 855164a21ab1edd532d0d5d8edc287f3e58f7f76
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="dataset-metadata-translations"></a><span data-ttu-id="a8b3a-103">Oversættelser af metadata for datasæt</span><span class="sxs-lookup"><span data-stu-id="a8b3a-103">Dataset metadata translations</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="a8b3a-104">Power BI-brugere kan se datasætfelter på deres klients landestandard eller sprog, når oversættelser er defineret i datasættet eller Analysis Services-modellen.</span><span class="sxs-lookup"><span data-stu-id="a8b3a-104">Power BI users see dataset fields in their client locale or language when translations are defined in the dataset or Analysis Services model.</span></span>
 

@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6355357d97e7f820ef0637443581ad7355c1ffbc
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: fb04c5a9d6b5f7ea3e5394c113992d78472d2b92
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="drillthrough"></a><span data-ttu-id="b2474-103">Detaljeadgang</span><span class="sxs-lookup"><span data-stu-id="b2474-103">Drillthrough</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="b2474-104">Med denne funktion kan brugerne få detaljeadgang til en anden rapportside med tilsvarende filterkontekst, som indeholder flere detaljerede oplysninger.</span><span class="sxs-lookup"><span data-stu-id="b2474-104">This feature will allow business users to drill through to a different report page with matching filter context for additional detailed information.</span></span> 
 

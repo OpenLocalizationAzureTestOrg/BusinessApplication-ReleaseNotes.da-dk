@@ -11,16 +11,18 @@ ms.technology:
 ms.author: shilpas
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a295e648817378aed31bf4c986a609be05d3e182
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 8bb07cf9f01c4d588c12c5860ced8154a15b26c6
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a><span data-ttu-id="04f84-103">Administrere brugeroplevelsers tilgængelighed på Unified Interface</span><span class="sxs-lookup"><span data-stu-id="04f84-103">Control availability of user experiences on Unified Interface</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="04f84-104">Nye og eksisterende brugere kan få adgang til vigtige kommandoer under Unified Interface-kørsel.</span><span class="sxs-lookup"><span data-stu-id="04f84-104">New and existing end users can access core commands during Unified Interface runtime.</span></span> <span data-ttu-id="04f84-105">Administratorer kan slå disse oplevelser til og fra for deres brugere på organisationsniveau.</span><span class="sxs-lookup"><span data-stu-id="04f84-105">Admins can, at the organization level, turn these experiences on or off for their users.</span></span> 
 

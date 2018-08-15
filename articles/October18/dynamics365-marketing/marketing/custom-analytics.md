@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 3598821023216b31609317ff1a210c142e5c9a9b
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 4e01608807aa950392d23c191a45aa0fb421a698
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="custom-analytics"></a><span data-ttu-id="12a94-103">Brugerdefineret analyse</span><span class="sxs-lookup"><span data-stu-id="12a94-103">Custom analytics</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="12a94-104">Dynamics 365 for Marketing indsamler omfattende og detaljerede oplysninger om, hvordan kontakter arbejder med dine marketingtiltag.</span><span class="sxs-lookup"><span data-stu-id="12a94-104">Dynamics 365 for Marketing collects wide-ranging and detailed information about how contacts interact with your marketing initiatives.</span></span> <span data-ttu-id="12a94-105">Brug brugerdefineret analyse til at organisere og præsentere disse data i Marketing-appen.</span><span class="sxs-lookup"><span data-stu-id="12a94-105">Use custom analytics to organize and present this data within the Marketing app.</span></span>
 

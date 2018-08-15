@@ -12,15 +12,17 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: eb3cb51efe5ec369699a57fa60cd5b9739a1ef47
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 333c71bac97c40e9c383dd1cdbea9d41e6a15aa9
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="social-insights-in-dynamics-365-for-marketing"></a><span data-ttu-id="e1d44-103">Social indsigt i Dynamics 365 for Marketing</span><span class="sxs-lookup"><span data-stu-id="e1d44-103">Social Insights in Dynamics 365 for Marketing</span></span>
+
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
  
-[!include[banner](../../includes/banner.md)]
+
 
 <span data-ttu-id="e1d44-104">Social indsigt er et sæt af widgets, der viser data fra Social Engagement i andre Dynamics 365-apps.</span><span class="sxs-lookup"><span data-stu-id="e1d44-104">Social Insights are a set of widgets that show data from Social Engagement in other Dynamics 365 apps.</span></span> <span data-ttu-id="e1d44-105">I oktober 2018 vil Social indsigt kunne spore kampagner i Dynamics 365 for Marketing.</span><span class="sxs-lookup"><span data-stu-id="e1d44-105">In October '18, Social Insights will be available to track campaigns in Dynamics 365 for Marketing.</span></span>
 

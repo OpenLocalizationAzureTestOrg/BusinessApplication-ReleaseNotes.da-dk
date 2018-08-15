@@ -11,15 +11,17 @@ ms.technology:
 ms.author: milindav
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 36225f093d48941c59e86c6a6460b4733588a71d
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: cd00f281b554bae6ce553082c3afb0d8ce799aa9
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="real-time-power-bi-reports"></a><span data-ttu-id="e85df-103">Power BI-rapporter i realtid</span><span class="sxs-lookup"><span data-stu-id="e85df-103">Real-time Power BI reports</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 <span data-ttu-id="e85df-104">Hvis du er kunde og i øjeblikket kører Microsoft Dynamics 365 for Finance and Operations version 7.3 eller 8.0 eller nyere, bliver de fleste analysearbejdsområder og integrerede Power BI-rapporter i produktet opdateret i realtid, når du opdaterer din platform.</span><span class="sxs-lookup"><span data-stu-id="e85df-104">If you are a customer who is currently running Microsoft Dynamics 365 for Finance and Operations version 7.3 or 8.0 or later, most analytical workspaces and embedded Power BI reports in the product are updated in real-time when you update your platform.</span></span> <span data-ttu-id="e85df-105">Objektlageret opdateres automatisk, så administratoren ikke behøver at styre objektlagerets opdateringsplan.</span><span class="sxs-lookup"><span data-stu-id="e85df-105">The entity store is refreshed “hands free,” so your administrator does not need to manage the entity store refresh schedule.</span></span> <span data-ttu-id="e85df-106">Microsoft vil styre opdateringen for dig.</span><span class="sxs-lookup"><span data-stu-id="e85df-106">Microsoft will manage the refresh for you.</span></span> 
  

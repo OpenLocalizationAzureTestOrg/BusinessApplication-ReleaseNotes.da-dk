@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: dcbb31c48f58ee8f74f9cbe463db5ff065910a8a
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6b20868eea3ffe01308557e2b6c7516e1f91d4d2
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="personalized-home-experience-public-preview"></a><span data-ttu-id="b4fc0-103">Tilpasset startoplevelse (offentlig prøveversion)</span><span class="sxs-lookup"><span data-stu-id="b4fc0-103">Personalized Home experience (Public Preview)</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="b4fc0-104">Power BI introducerer en ny landingssideoplevelse: startsiden.</span><span class="sxs-lookup"><span data-stu-id="b4fc0-104">Power BI introduces a new landing experience: the Home page.</span></span> <span data-ttu-id="b4fc0-105">I overensstemmelse med tjenesten viser Power BI-appen en startvisning, der gør det muligt for forretningsbrugere at få en hurtig visning af de data, der er vigtige for dem, og nemt navigere til disse data, hvis de vil se nærmere på dem.</span><span class="sxs-lookup"><span data-stu-id="b4fc0-105">In alignment with the service, Power BI app will provide a home view that will enable business users to get a quick view of data they care about, and to easily navigate to that data for additional investigation.</span></span>
 

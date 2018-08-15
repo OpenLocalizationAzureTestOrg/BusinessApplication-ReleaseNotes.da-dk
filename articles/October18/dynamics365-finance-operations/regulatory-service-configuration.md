@@ -11,16 +11,18 @@ ms.technology:
 ms.author: janeaug
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: e56816ca696ce846b0a629daf670c9b04b14ca70
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1603957267bec07c2323edf292da204bc2f31aea
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="microsoft-dynamics-365-for-finance-and-operations---regulatory-services-configuration-service"></a><span data-ttu-id="ba3b9-103">Microsoft Dynamics 365 for Finance and Operations – Lovpligtige tjenester, Konfigurationstjeneste</span><span class="sxs-lookup"><span data-stu-id="ba3b9-103">Microsoft Dynamics 365 for Finance and Operations - Regulatory Services, Configuration service</span></span> 
 
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="ba3b9-104">Konfigurationstjenesten Microsoft Dynamics 365 for Finance and Operations - Lovpligtige tjenester er udviklingen af det lovpligtige konfigurationsværktøj (også kaldet Elektronisk rapportering).</span><span class="sxs-lookup"><span data-stu-id="ba3b9-104">The Microsoft Dynamics 365 for Finance and Operations - Regulatory Services, Configuration service is the evolution of the regulatory configuration tool (also known as Electronic Reporting).</span></span> <span data-ttu-id="ba3b9-105">Med konfigurationstjenesten kan partnere og kunder, der bruger flere versioner af Microsoft Dynamics 365 for Finance and Operations og tidligere versioner af Microsoft Dynamics AX (f.eks. AX 2012 og AX 2009 for Indien), konfigurere lovpligtige funktioner én gang og bruge én fælles tjeneste.</span><span class="sxs-lookup"><span data-stu-id="ba3b9-105">The Configuration service allows partners and customers using multiple versions of Microsoft Dynamics 365 for Finance and Operations and earlier Microsoft Dynamics AX versions (such as AX 2012 and AX 2009 for India only) to configure regulatory features only once using a common service.</span></span> <span data-ttu-id="ba3b9-106">Konfigurationstjenesten er baseret på programmering uden kode, hvilket giver superbrugere mulighed for at konfigurere krav, der ændres ofte, til lovpligtige rapporter, e-fakturaer, betalingsformater og momsregler i stedet for at skrive kode i flere programmer.</span><span class="sxs-lookup"><span data-stu-id="ba3b9-106">The Configuration service targets a no-code programming approach, allowing power users to configure frequently changed legal requirements for regulatory reports, e-invoices, payment formats and tax rules, rather than writing code in multiple applications.</span></span> 
 

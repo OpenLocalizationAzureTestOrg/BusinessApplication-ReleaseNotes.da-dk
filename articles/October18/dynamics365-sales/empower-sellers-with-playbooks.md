@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 29cd44d4886f0728b3a472c26d7fb43a4c4c1966
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: aaecba514d586b5580700c20e7f158c78fea6b10
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="empower-sellers-with-playbooks-guided-by-event-driven-sales-activities"></a><span data-ttu-id="8e341-103">Give sælgere strategiplaner, der baseret på hændelsesbaserede salgsaktiviteter</span><span class="sxs-lookup"><span data-stu-id="8e341-103">Empower sellers with Playbooks guided by event-driven sales activities</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="8e341-104">Dynamics 365 for Sales introducerer **Strategiplaner**, en ny funktion, der kan hjælpe virksomheder med at automatisere gentagne salgsaktiviteter og reagere på eksterne hændelser.</span><span class="sxs-lookup"><span data-stu-id="8e341-104">Dynamics 365 for Sales is introducing **Playbooks**, a new capability to help organizations automate repeatable sales activities and respond to external events.</span></span>

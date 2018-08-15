@@ -12,15 +12,17 @@ ms.technology:
 ms.author: sandhan
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 84b33fb5d5ecd203103fe9ca5125ebe25504361e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 5958cf8ce4a7ad173b43618c9a8917a55b4ce024
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="simplified-customization"></a><span data-ttu-id="7e10c-103">Forenklet tilpasning</span><span class="sxs-lookup"><span data-stu-id="7e10c-103">Simplified customization</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 <span data-ttu-id="7e10c-104">Med vores fokus på forenklet tilpasning af Dynamics 365 Portal har vi målrettet forbedringer af henholdsvis portalens systemtilpassere og administratorer.</span><span class="sxs-lookup"><span data-stu-id="7e10c-104">With our focus on simplifying customization of Dynamics 365 Portal, we have targeted enhancements for portal customizer and administrator personas respectively.</span></span> <span data-ttu-id="7e10c-105">En intuitiv oplevelse gør datamodeller mindre komplekse, gør det nemmere at lære at bruge portaltilpasning og fører til øget brugerproduktivitet.</span><span class="sxs-lookup"><span data-stu-id="7e10c-105">An intuitive experience abstracts data model complexities, lowers the learning curve for portal customization, and leads to increased user productivity.</span></span> <span data-ttu-id="7e10c-106">Et personrettet værktøj vil også danne grundlaget for alsidige oplevelser i kommende produktfrigivelser.</span><span class="sxs-lookup"><span data-stu-id="7e10c-106">Providing a persona-focused tool will also lay a foundation for differentiated experiences in upcoming releases.</span></span>

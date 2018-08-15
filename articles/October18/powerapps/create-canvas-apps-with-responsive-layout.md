@@ -11,16 +11,18 @@ ms.technology:
 ms.author: gregli
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 626bd7380196584d2a772f4c1233c2fb876b2359
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a8908855955edfae9b14c67feaf2d2fdfd7482a6
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="create-canvas-apps-with-responsive-layout"></a><span data-ttu-id="d8b50-103">Oprette lærred-apps med dynamisk layout</span><span class="sxs-lookup"><span data-stu-id="d8b50-103">Create canvas apps with responsive layout</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="d8b50-104">Normalt skaleres skærmene i en lærred-app, så de passer til den plads, der leveres af appværten.</span><span class="sxs-lookup"><span data-stu-id="d8b50-104">Normally the screens of a canvas app are scaled to fit the space provided by the app host.</span></span>  <span data-ttu-id="d8b50-105">På denne måde kan du nemt oprette en app og være sikker på, at den vil se korrekt ud på enhver skærm, hvor den bliver anvendt.</span><span class="sxs-lookup"><span data-stu-id="d8b50-105">This makes it easy to create an app and know that it will look proportionally correct on any screen in which it's used.</span></span>  <span data-ttu-id="d8b50-106">Men det har en pris – efterhånden som skærme bliver større og større, kan apps ikke udnytte den ekstra plads.</span><span class="sxs-lookup"><span data-stu-id="d8b50-106">But it comes at a price - as screens get bigger, the app can't adapt to take advantage of the additional real estate.</span></span>  <span data-ttu-id="d8b50-107">Mange websteder er i dag "dynamiske" – de tilpasser sig til den størrelse skærm, de bliver vist på – fra små skærme på telefoner til store skærme på stationære computere.</span><span class="sxs-lookup"><span data-stu-id="d8b50-107">Many websites today are "responsive" - they adjust depending on the size of the screen they are shown on, adapting from small screens on phones to large screens on desktops.</span></span>  
 

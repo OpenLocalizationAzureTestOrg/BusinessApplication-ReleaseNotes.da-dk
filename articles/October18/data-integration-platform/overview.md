@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: dbec90b9631284e434a1c13a6b4b88f83b6f7163
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 469835da000a3541e50afc45718535f640c236ea
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../includes/banner.md)]
+
 
 #  <a name="overview-of-data-integration-platform-october-18-release"></a><span data-ttu-id="a7372-103">Oversigt over produktfrigivelsen fra oktober 2018 til Dataintegrationsplatform</span><span class="sxs-lookup"><span data-stu-id="a7372-103">Overview of Data Integration Platform October '18 release</span></span>
+
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
 <span data-ttu-id="a7372-104">Dataintegration indeholder forbindelser og gateways, der gør det muligt at importere eksterne data til CDS (Common Data Service) og gemme dataene i CDM-formularen (Common Data Model).</span><span class="sxs-lookup"><span data-stu-id="a7372-104">Data Integration provides the connectors and gateways that make it possible to bring any external data into the Common Data Service (CDS) and store the data in Common Data Model (CDM) form.</span></span> <span data-ttu-id="a7372-105">Dette gør det lettere for kunderne at integrere deres data på ét sted for virksomhedsprogrammer og analyser.</span><span class="sxs-lookup"><span data-stu-id="a7372-105">This makes it easier for customers to integrate their data in a single place for business applications and analytics.</span></span> <span data-ttu-id="a7372-106">Dataintegration er baseret på Power-forespørgsel, den samme teknologi, som millioner af mennesker bruger hver dag i Power BI og Excel.</span><span class="sxs-lookup"><span data-stu-id="a7372-106">Data Integration is based on Power Query, the same technology that millions of people use daily in Power BI and Excel.</span></span>
 

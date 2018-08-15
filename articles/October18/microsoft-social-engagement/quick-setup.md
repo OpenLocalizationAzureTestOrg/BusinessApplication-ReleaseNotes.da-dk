@@ -12,15 +12,17 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1f61b0e1e007130731ccdebd555b66d0cb5eaa26
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 4e3250de91016036dcef7b40d910c2212659f65e
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="quick-setup-and-instant-insights-in-social-engagement"></a><span data-ttu-id="a0cf0-103">Hurtig konfiguration og straksindsigt i Social Engagement</span><span class="sxs-lookup"><span data-stu-id="a0cf0-103">Quick setup and instant insights in Social Engagement</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 <span data-ttu-id="a0cf0-104">Sociale medier er blevet en integreret del af enhver succesrig marketing-, kundeservice- og community-administrationsorganisation.</span><span class="sxs-lookup"><span data-stu-id="a0cf0-104">Social media has become an intrinsic part of every successful marketing, customer service, and community management organization.</span></span> <span data-ttu-id="a0cf0-105">Overvågning, måling og styring af, hvordan et mærke opfattes på de sociale medier, er afgørende for det pågældende mærkes succes.</span><span class="sxs-lookup"><span data-stu-id="a0cf0-105">Monitoring, measuring, and managing how a brand is perceived on social media is critical to the success of that brand.</span></span> <span data-ttu-id="a0cf0-106">Det kan være udfordrende for firmaer at tage sig professionelt af den sociale tilstedeværelse af mærker.</span><span class="sxs-lookup"><span data-stu-id="a0cf0-106">Starting to care professionally about the social presence of your brand can be challenging for companies.</span></span> <span data-ttu-id="a0cf0-107">Mange professionelle værktøjer afhænger af rådgivning og undervisning for at komme i gang.</span><span class="sxs-lookup"><span data-stu-id="a0cf0-107">A lot of professional tools depend on consulting and training to get started.</span></span>
 

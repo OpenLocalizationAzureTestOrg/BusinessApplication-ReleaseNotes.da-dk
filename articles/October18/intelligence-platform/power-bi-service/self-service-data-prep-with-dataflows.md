@@ -12,16 +12,18 @@ ms.technology:
 ms.author: adiregev
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
-ms.openlocfilehash: e0253d623cf59054e51069ada55a05732e6b5c5f
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 2ceb2263e9fb343cb8feb050198f8a16050c2e5f
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="self-service-data-prep-with-dataflows"></a><span data-ttu-id="778f9-103">Selvbetjening af dataforberedelse med dataflows</span><span class="sxs-lookup"><span data-stu-id="778f9-103">Self-service data prep with dataflows</span></span> 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="778f9-104">Power BI introducerer dataflows, så organisationer kan samle data fra forskellige kilder og forberede dem til modellering.</span><span class="sxs-lookup"><span data-stu-id="778f9-104">Power BI introduces dataflows to help organizations unify data from disparate sources and prepare it for modeling.</span></span> <span data-ttu-id="778f9-105">Analytikere kan nemt oprette dataflows ved hjælp af velkendte selvbetjeningsværktøjer.</span><span class="sxs-lookup"><span data-stu-id="778f9-105">Analysts can easily create dataflows, using familiar, self-service tools.</span></span> <span data-ttu-id="778f9-106">Dataflows bruges til at indtage, transformere, integrere og forbedre big data ved at definere datakildeforbindelser, ETL-logik, opdateringsplaner og meget mere.</span><span class="sxs-lookup"><span data-stu-id="778f9-106">Dataflows are used to ingest, transform, integrate, and enrich big data by defining data source connections, ETL logic, refresh schedules, and more.</span></span> <span data-ttu-id="778f9-107">Data gemmes som enheder i Common Data Model-kompatible mapper i Azure Data Lake Storage Gen2.</span><span class="sxs-lookup"><span data-stu-id="778f9-107">Data is stored as entities in Common Data Model compliant folders in Azure Data Lake Storage Gen2.</span></span> <span data-ttu-id="778f9-108">Dataflows oprettes og administreres i apparbejdsområder ved hjælp af Power BI-tjenesten.</span><span class="sxs-lookup"><span data-stu-id="778f9-108">Dataflows are created and managed in app workspaces by using the Power BI service.</span></span>   
 

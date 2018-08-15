@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 39f8459eadde28dcde96de46722afb4203e84356
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: d1250bfae4a591680e3604140e88e1b98b287d30
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="multi-geo-for-compliance-public-preview"></a><span data-ttu-id="37881-102">Multi-Geo til overholdelse (offentlig prøveversion)</span><span class="sxs-lookup"><span data-stu-id="37881-102">Multi-Geo for Compliance (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="37881-103">Power BI lagrer i dag data for en organisation i et enkelt geografisk område.</span><span class="sxs-lookup"><span data-stu-id="37881-103">Power BI today stores data for an organization in a single geographic region.</span></span> <span data-ttu-id="37881-104">For mange kunder, især multinationale selskaber, har de forskellige datterselskaber eller afdelinger bestemte krav til dataopbevaring i henhold til lokale love eller kontraktmæssige krav til deres egne kunder.</span><span class="sxs-lookup"><span data-stu-id="37881-104">For many customers, especially multinationals, different subsidiaries or departments have specific data residency requirements to meet local laws or contractual requirements with their own customers.</span></span>
 

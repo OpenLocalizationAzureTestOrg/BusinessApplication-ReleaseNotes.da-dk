@@ -12,15 +12,17 @@ ms.technology:
 ms.author: dileeps
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8259579ac1b19d93a71a9bc7db8ae07fb3c6a5cb
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6e8406073dd7c7d202d8152877222da082d27bd6
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="restrict-portal-access-by-ip-address"></a><span data-ttu-id="6e8f2-103">Begrænse portaladgang efter IP-adresse</span><span class="sxs-lookup"><span data-stu-id="6e8f2-103">Restrict portal access by IP address</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 <span data-ttu-id="6e8f2-104">Sikkerhed er yderst vigtigt for programmer, og det er endnu mere afgørende for et eksternt orienteret program som f.eks. Dynamics 365 Portal.</span><span class="sxs-lookup"><span data-stu-id="6e8f2-104">Security is a key concern for applications and it becomes more paramount for an external-facing application like Dynamics 365 Portal.</span></span> <span data-ttu-id="6e8f2-105">Som en del af denne frigivelse tilføjer vi muligheder, så kunderne kan begrænse adgangen til deres portaler fra visse IP-adresser.</span><span class="sxs-lookup"><span data-stu-id="6e8f2-105">As part of this release, we will add capabilities for customers to be able to restrict access to their portals from certain IP addresses.</span></span> <span data-ttu-id="6e8f2-106">Det gør det nemmere for organisationer, der har brug for at begrænse deres portaler fra faste lokationer på samme måde som interne firmanetværk.</span><span class="sxs-lookup"><span data-stu-id="6e8f2-106">This will help organizations that are looking to restrict their portals from fixed locations like internal company networks.</span></span> <span data-ttu-id="6e8f2-107">Desuden hjælper det kunder, der er i udviklingsfasen og ønsker at sikre, at deres data ikke bliver lækket på grund af en forkert konfiguration.</span><span class="sxs-lookup"><span data-stu-id="6e8f2-107">Also, this will help customers who are in a development phase and want to make sure their data doesn't get leaked because of a bad configuration.</span></span>

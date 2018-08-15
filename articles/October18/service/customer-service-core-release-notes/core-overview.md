@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c876db3795f892f1b8e030673c86f54850813b9e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 05ed7a345c373799cd73fff3843f763a1fd3bdf9
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="overview-of-dynamics-365-for-customer-service-october-18-release"></a><span data-ttu-id="b8e06-103">Oversigt over Dynamics 365 for Customer Service-produktfrigivelsen fra oktober 2018</span><span class="sxs-lookup"><span data-stu-id="b8e06-103">Overview of Dynamics 365 for Customer Service October '18 release</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 
 <span data-ttu-id="b8e06-104">Dynamics 365 for Customer Service fortsætter med at levere funktioner, der sætter organisationer i stand til at give brugerne en effektiv kundeservice.</span><span class="sxs-lookup"><span data-stu-id="b8e06-104">Dynamics 365 for Customer Service continues to deliver capabilities that empower organizations to deliver efficient and effective customer service to their users.</span></span> <span data-ttu-id="b8e06-105">Med den nyeste produktfrigivelse har vi fokuseret på en styrket brugerproduktivitet gennem nye oplevelser og på intelligens, der kan omsættes til handling på kundeserviceområdet, samt på forbedring af driftseffektiviteten.</span><span class="sxs-lookup"><span data-stu-id="b8e06-105">With the latest release, we have focused on enabling user productivity through new experiences, bringing actionable intelligence within customer service operations, and enhancing operational efficiency.</span></span>
