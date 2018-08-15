@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="enhance-sales-performance-and-planning-with-the-dynamics-365-ai-for-sales-app"></a>Forbedre salgsresultater og -planlægning med appen Dynamics 365 AI for Sales
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Den nye Dynamics 365 AI for Sales-app gør det nemt at analysere salgsresultater ved at levere nyttig indsigt fra salgsdata, proaktivt og foreskrivende. Salgschefer kan bruge appen til at evaluere og forbedre deres salgsteams resultater i Dynamics 365 og andre salgsprogrammer. Målinger af kundeafgang og pipelinebaserede prognoser, der udføres på grundlag af relationers tilstandsscore, hjælper salgschefer med at optimere deres salgsstrategier.

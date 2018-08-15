@@ -20,5 +20,7 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="xmla-endpoint-for-third-party-client-connectivity-and-lifecycle-management-public-preview"></a>XMLA slutpunkt til administration af tredjeparts klientforbindelse og livscyklus (offentlig prøveversion)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
 Med understøttelse af XMLA-protokollen for datasæt i Power BI-tjenesten vil kunderne have mere fleksible muligheder for at bestemme, hvordan de leverer og administrerer deres BI-installationer. XMLA vil tillade forbindelse til Power BI-datasæt fra tredjepartsprogrammer. XMLA giver også programmeringsadgang til at administrere og opdatere datasæt ud fra scripts eller programmer, du skriver. Da XMLA er den samme protokol, der bruges til at administrere SQL Server Analysis Services og Azure Analysis Services-modeller, kan en række af Microsofts og tredjeparters værktøjer til administration af livscyklus, drift og generel administration være værdifuld for Power BI-datasæt.
 

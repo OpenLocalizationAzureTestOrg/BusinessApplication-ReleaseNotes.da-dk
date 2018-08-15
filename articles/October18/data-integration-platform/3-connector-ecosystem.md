@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="richer-and-more-unified-connector-and-developer-ecosystem"></a>Mere avanceret og ensartet økosystem af connectorer og udviklere
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 En vigtig del af dataintegration og den produktpakke, den understøtter, er forbindelse til eksterne datakilder. Mens vi fortsat vil investere i et sæt datakilder for virksomheder, er der et stigende antal databaser og tjenester ved siden af dette sæt, som mange brugere ofte benytter. For at sikre at vores brugere kan få adgang til de data, som de har brug for, investerer vi fortsat i vores udvidelsesmuligheder over hele platformen.
 

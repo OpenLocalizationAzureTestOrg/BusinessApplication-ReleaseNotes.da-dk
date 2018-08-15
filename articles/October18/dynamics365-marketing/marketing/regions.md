@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="new-geographical-and-language-support"></a>Understøttelse af nye geografiske områder og sprog
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Til produktfrigivelsen i oktober 2018 vil vi udvide sættet af sprog og geografiske områder, hvor Dynamics 365 for Marketing er tilgængelig og understøttes, i stort omfang.
 

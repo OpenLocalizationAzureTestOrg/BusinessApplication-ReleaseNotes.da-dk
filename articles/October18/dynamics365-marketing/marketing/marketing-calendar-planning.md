@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="marketing-calendar-for-planning"></a>Marketingkalender til planlægning
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Med marketingkalenderens kontrolelementer kan marketingmedarbejderne visualisere en lang række marketingaktiviteter, der har en start- og slutdato. Reelt set kan medarbejderne få vist mange elementer i en kampagne (f.eks. arrangementer) i den samme kalender i en praktisk oversigtsform.
 

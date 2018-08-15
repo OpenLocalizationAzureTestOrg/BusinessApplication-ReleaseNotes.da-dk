@@ -20,10 +20,12 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="distributed-order-management"></a>Distribueret ordrestyring
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Forhandlere kan nu udnytte intelligente algoritmer for distribueret ordrestyring til at optimere deres ordreopfyldelseshandlinger på tværs af virksomheden. Distribueret ordrestyring bestemmer automatisk den bedste placering for ordreopfyldelsen på tværs af lagersteder, distributionscentre eller endda butikker, baseret på brugerdefinerede profiler, der indeholder regler, omfang og leveringsmetoder.
 

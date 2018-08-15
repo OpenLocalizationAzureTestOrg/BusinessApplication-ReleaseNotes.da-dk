@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dynamics-365-mobile-support-email-login"></a>Dynamics 365-understøttelse af logon på mobil med e-mailadresse
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Brugere af Dynamics 365 Online eller modelbaserede apps på PowerApps kan logge ind på Dynamics 365-appen på Android og iOS ved at bruge deres e-mailadresser i stedet for server-URL'er. Når de har logget ind, kan de se og vælge blandt alle deres tilgængelige online organisationer/miljøer.
 

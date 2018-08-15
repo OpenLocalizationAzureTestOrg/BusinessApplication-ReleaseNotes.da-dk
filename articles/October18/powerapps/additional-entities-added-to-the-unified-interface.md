@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="entities-added-to-the-unified-interface"></a>Objekter, der er føjet til Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Slutbrugere kan redigere og bruge posttyper (som Brugere, Teams, Position og Valuta) på Unified Interface. 
 

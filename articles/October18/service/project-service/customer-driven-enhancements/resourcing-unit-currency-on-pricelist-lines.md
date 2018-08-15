@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="resourcing-unit-currency-on-role-price-lines-for-cost"></a>Valuta for ressourceenhed på rolleprislinjer for omkostninger 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service tillader kun én valuta pr. prisliste, som angives i prislistens hoved. Prislistelinjen for prissætning af ressourcen er den samme valuta, der er angivet i prislistens hoved. Men for driften af globale projektstyringsfirmaer med centraliserede priser på tværs af deres divisioner og lande kan det kræve en dataintensiv opsætning, hvor de skal oprette en prisliste for hver separat valuta, som de sælger produkter eller beregner omkostninger i. 
 

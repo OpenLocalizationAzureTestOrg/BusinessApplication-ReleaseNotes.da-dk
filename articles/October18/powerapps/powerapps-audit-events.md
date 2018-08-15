@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="powerapps-audit-events"></a>PowerApps-overvågningshændelser
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Administratorer har nu bedre overblik over PowerApps-implementering og -aktivitet i deres organisation. Administratorer kan nu se poster over alle administrator- og udvikleraktiviteter i Office 365 Security & Compliance Center, som også giver administratorer mulighed for at konfigurere beskeder om aktiviteter, så de opnår en mere proaktiv overvågning.
 

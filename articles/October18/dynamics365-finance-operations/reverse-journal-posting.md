@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="reverse-journal-posting"></a>Tilbageføre kladdebogføring
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Tilbageførsler er forbedret, så flere finanskladdelinjer eller en hel finanskladde kan tilbageføres. Med tilbageførsel fra formularen til bilagstransaktion kan et begrænset antal reskontrokladdeposteringer tilbageføres. Tilbageførsler er også tilladt fra sporingen af regnskabskilden.

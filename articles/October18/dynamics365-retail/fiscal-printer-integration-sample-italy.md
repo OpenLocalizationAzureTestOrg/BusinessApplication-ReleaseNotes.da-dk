@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="fiscal-printer-integration-sample-for-italy"></a>Eksempel på integration af bonprinter for Italien
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
+
 
 Microsoft Dynamics 365 for Retail indeholder nu et eksempel på integration af POS med bonprintere for Italien. Integrationseksemplet understøtter en af de populære bonprintermodeller, der er tilgængelige på det italienske marked, og giver mulighed for at udskrive regnskabskvitteringer i større detailsalgsscenarier i butikker i Italien. Eksemplet er en del af Retail SDK. Det kan opbygges og bruges som det vises her. Implementeringspartnere kan også udvide integrationsfunktionerne eller opbygge integration med andre bonprintermodeller baseret på eksemplet. 
  

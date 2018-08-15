@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="personalization"></a>Brugertilpasning
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Når du har installeret en Power BI-app, har brugerne mulighed for at tilpasse programmet efter behov. En bruger, der fokuserer på salg i Europa, kan f.eks. tilpasse programmet for at behandle og visualisere data for Europa, mens en anden bruger, der fokuserer på Nordamerika, kan tilpasse det til netop dette område.
 

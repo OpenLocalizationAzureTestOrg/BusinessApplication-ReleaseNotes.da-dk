@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-automatic-number-sequences"></a>Oprette automatiske nummerserier
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 I PowerApps kan du definere en eller flere serier, hvor numre genereres automatisk og angives på objekter i Common Data Service til apps.
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="new-developer-portal"></a>Ny udviklerportal
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 En ny udviklerportal for Power BI-udviklere indeholder alle de ressourcer, som udviklere behøver for at arbejde med Power BI Embedded, automatisere processer til deres Power BI-løsninger og udvikle brugerdefinerede visualiseringer. Portalen indeholder links til relevant dokumentation.
 

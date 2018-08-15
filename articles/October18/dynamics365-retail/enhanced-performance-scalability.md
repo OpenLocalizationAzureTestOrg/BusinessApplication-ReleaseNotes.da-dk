@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enhanced-performance-and-scalability"></a>Forbedret ydeevne og skalerbarhed
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Der er foretaget investeringer i at identificere og forbedre langsomme forespørgsler på følgende områder: salgstransaktioner, kundeordrer og oversigter over køb, oprettelse af kundeordrer, bogføring og virtuelt katalog.
 

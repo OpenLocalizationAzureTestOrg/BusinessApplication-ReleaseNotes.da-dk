@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="support-for-custom-messages"></a>Understøttelse af brugerdefinerede meddelelser
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Kunder vil kunne tilpasse meddelelser for ethvert objekt, der er en del af en løsning, der importeres til deres forekomst. Denne brugerdefinerede meddelelse vil blive understøttet under Unified Interface-kørsel
 

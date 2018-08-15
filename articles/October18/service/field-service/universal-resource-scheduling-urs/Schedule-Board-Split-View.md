@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="schedule-board-split-view"></a>Opdelt visning af planlægningsområde
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 
 Der er situationer, hvor du måske vil analysere ned i planlægningsområdets oplysninger uden at skulle indlæse nye skærmbilleder eller miste den sammenhæng, du befinder dig i:

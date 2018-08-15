@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="enable-more-objectives"></a>Tage flere mål i brug 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 -   Understøt foretrukne ressourcer som et mål: Virksomheder kan angive foretrukne ressourcer til krav, og optimeringen tildeler først reservationer til foretrukne ressourcer og overholder samtidig andre betingelser og mål.
 -   Understøt bedst/dårligst matchede færdigheder som mål: Forskellige virksomheder har forskellige mål for brug af ressourcers færdigheder. Med de bedst matchede færdigheder kan virksomhederne bedre overholde SLA og skabe kundetilfredshed, og samtidig kan de afveje omkostninger og effektivitet med lavere matchede færdigheder.

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="automatic-ledger-settlements"></a>Automatiske finansudligninger
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Finansudligningsregler kan konfigureres til automatisk at udligne finanstransaktioner baseret på brugerkriterier. Batchjobbehandling tilføjes, så opgaven kan køres periodisk.
 

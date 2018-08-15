@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="knowledge-article-recommendation"></a>Anbefalede videnartikler 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 For kundeserviceorganisationer er vidensstyring vigtig for at opnå bedre kundeoplevelser og Helpdesk medarbejderproduktivitet.  Denne funktion udnytter [Microsoft Tekstanalyse-API'er](https://azure.microsoft.com/en-in/services/cognitive-services/text-analytics/) til at anbefale videnartikler baseret på alle relaterede objekters data. Det giver Helpdesk medarbejderne hurtigere adgang til relevante og kontekstafhængig videnartikler, hvilket hjælper dem med at løse sager hurtigt.
 

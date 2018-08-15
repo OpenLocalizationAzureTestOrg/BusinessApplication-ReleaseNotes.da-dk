@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="change-cash-discounts"></a>Skifte kasserabatter
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Når du redigerer en forfaldsdato eller basisdatoen i debitor- eller kreditorposteringsformularen, kan brugeren blive bedt om at opdatere rabatdatoen. Forfaldsdatoen og basisdatoen tilføjes i posteringsformularen, og der vises en parameter, der muliggør en prompt for en rabatdatoændring, når basisdatoen eller forfaldsdatoen ændres.

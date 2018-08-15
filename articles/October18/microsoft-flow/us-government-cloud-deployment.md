@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="us-government-cloud-deployment"></a>Amerikanske myndigheders skyinstallation
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Områderne GCC og GCC High er nu tilgængelige for Microsoft Flow. Det betyder, at Flow nu vil blive afsendt til godkendelse af offentlige amerikanske myndigheders certificeringer. Du kan få flere oplysninger om vores forpligtelser til opbevaring af data i [Microsofts center for sikkerhed og rettigheder for Microsoft Flow](https://www.microsoft.com/en-us/TrustCenter/CloudServices/business-application-platform/data-location).
 

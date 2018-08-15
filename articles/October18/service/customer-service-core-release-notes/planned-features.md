@@ -19,7 +19,7 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="summary-of-whats-new-in-dynamics-365-for-customer-service"></a>Oversigt over nyheder i Dynamics 365 for Customer Service
 
-[!include[banner](../../../includes/banner.md)]
+
 
 | Funktion                                                                                               | Frigivelsestype   | Målmåned for frigivelse |
 |-------------------------------------------------------------------------------------------------------|----------------|----------------------|

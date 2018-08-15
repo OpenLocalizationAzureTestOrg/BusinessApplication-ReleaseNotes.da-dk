@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-dynamics-365-for-talent-october-18-release"></a>Oversigt over Dynamics 365 for Talent-produktfrigivelsen fra oktober 2018
 
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Opdateringen til Dynamics 365 for Talent fra oktober 2018 indeholder funktioner i et ansøgerregistreringssystem (ATS), understøttelse af onboarding i afdelingen og nye funktioner til administration af frynsegoder, arbejdsstyrke og organisation. Denne nyeste frigivelse giver Dynamics-partnere mulighed for at udvide Talent og overføre flere funktioner til Common Data Service (CDS) til apps.
 

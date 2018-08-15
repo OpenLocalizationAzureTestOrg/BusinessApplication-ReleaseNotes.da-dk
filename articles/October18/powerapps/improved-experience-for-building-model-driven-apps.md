@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-experience-for-building-model-driven-apps"></a>Forbedret oplevelse med udvikling af modelbaserede apps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Appudviklere kan nemmere oprette og teste modelbaserede apps i designeren. Navigation og konfiguration er gjort lettere for at understøtte både web og Unified Interface. Det er lettere at redigere appkomponenter med hurtigere adgang til dybe links. Efter at have gemt og offentliggjort ændringer kan udviklere køre appen direkte fra designeren for hurtigt at teste ændringerne.
 

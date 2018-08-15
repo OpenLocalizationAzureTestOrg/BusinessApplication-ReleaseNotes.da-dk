@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="integrated-help-and-support-experience-in-flow-designer"></a>Integreret hjælp og support-oplevelse i flowdesigner
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 For brugerne er det blevet meget nemmere at finde hjælp og support i produktet (både på webstedet og på mobilenheden) i stedet for at blive omdirigeret til support.microsoft.com. Brugerne kan nu indkredse det problem, de står over for, ved at gennemgå et sæt logiske spørgsmål og ved at angive specifikke oplysninger for deres spørgsmål – lige fra hvordan-spørgsmål til spørgsmål om en bestemt flowkørselsfejl for et flow, som brugeren er forfatter til. 
 

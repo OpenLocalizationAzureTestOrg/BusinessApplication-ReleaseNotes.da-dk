@@ -19,9 +19,11 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../includes/banner.md)]
+
 
 #  <a name="overview-of-dynamics-365-for-project-service-october-18-release"></a>Oversigt over produktfrigivelsen fra oktober 2018 til Dynamics 365 for Project Service
+
+[!include[project-service banner](../../includes/project-service.md)]
 
 I produktfrigivelsen fra oktober 2018 til Project Service fokuserer vi på kundebaserede forbedringer af praktisk og taktisk karakter samt forbedringer af brugervenligheden. Forbedringerne omfatter:
 

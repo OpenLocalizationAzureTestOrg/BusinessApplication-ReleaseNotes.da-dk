@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="linked-entities-public-preview"></a>Tilknyttede objekter (offentlig prøveversion) 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI gør det muligt at knytte objekter fra ét dataflow til et andet uden at skulle kopiere dem.
 Tilknyttede objekter kan bruges til transformation, forbedring eller beregning af nye objekter.

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="ability-to-make-copies-of-price-lists-by-adding-a-markup-percentage"></a>Mulighed for at oprette kopier af prislister ved at tilføje en avanceprocent
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 I Project Service kan du oprette kopier af prislister for at lette oprettelsen og vedligeholdelsen af data. Du kan i øjeblikket oprette kopier af prislister i samme valuta og tidsenhed eller konvertere en prisliste i én valuta og tidsenhed til en anden ved at oprette en kopi ved hjælp af en anden valuta eller tidsenhed. 
 

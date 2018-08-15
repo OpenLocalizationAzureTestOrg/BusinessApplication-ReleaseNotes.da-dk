@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="building-the-platform"></a>Udvikling af platformen
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Flow er først og fremmest en del af den ensartede oprettelsesoplevelse for hele platformen for virksomhedsprogrammer. Der findes nu fælles underliggende begreber: en enkelt sikkerhedsmodel for alle ressourcer og en fælles tilgang til løsningsstyring. Den måde, beslutningstagere distribuerer deres programmer og flows, er nu fælles, hvilket betyder, at beslutningstagerne kan dele deres flows – herunder tilbagevendende flows – i deres organisation, der er baseret på sikkerhedsrollerne i Common Data Service til apps. Brugergrænsefladerne er nu også integreret – flows kan oprettes og aktiveres i PowerApps Studio.
 

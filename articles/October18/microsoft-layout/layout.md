@@ -27,7 +27,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="overview-of-microsoft-layout-october-18-release"></a>Oversigt over Microsoft Layout i produktfrigivelsen fra oktober 2018
 
-[!include[banner](../../includes/banner.md)]
+
 
 Med Microsoft Layout kan du hurtigt og sikkert udfolde pladsdesign fra koncept til færdiggørelse. Brug et HoloLens- eller Windows Mixed Reality-headset til nemt at oprette rumopsætninger i virkelige og fængslende scenarier. Importér 3D-modeller, og oplev design som højkvalitetshologrammer. Rediger og vurder sammen med interessenter i realtid.  
 

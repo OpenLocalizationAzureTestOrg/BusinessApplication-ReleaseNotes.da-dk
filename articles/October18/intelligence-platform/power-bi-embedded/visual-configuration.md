@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="visual-configuration-for-power-bi-embedded"></a>Konfiguration af visuelle elementer til Power BI Embedded
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 De visuelle elementer er en integreret del af programmet. Derfor kan programmet styre, hvilke visuelle funktioner og oplevelser, som slutbrugeren vil blive mødt med. Standardfunktionsmåden er at fremvise alle Power BI-funktionerne:
 

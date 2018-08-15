@@ -19,9 +19,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="template-update-notification-email"></a>Besked om skabelonopdatering via mail
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 Oprettere af vejledninger får automatisk besked via mail, når en skabelon, de bruger, er blevet opdateret. Modtagerne får en samlet mail med detaljerede oplysninger om, hvad der er ændret i skabelonen. 
 

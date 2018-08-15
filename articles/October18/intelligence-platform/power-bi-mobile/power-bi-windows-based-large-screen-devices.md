@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-on-windows-based-large-screen-devices-public-preview"></a>Power BI på store Windows-baserede skærmenheder (offentlig prøveversion)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Store touchskærme som f.eks. Surface Hub bruges til datapræsentation og teamsamarbejde. Når du bruger Power BI-mobilappen på store skærme, kan du benytte touchskærmen intuitivt og få en oplevelse, der optimerer præsentationen og undersøgelsen af data på store skærme.
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-dynamics-365-for-finance-and-operations-october-18-release"></a>Oversigt over Dynamics 365 for Finance and Operations-produktfrigivelsen fra oktober 2018
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 I dette emne beskrives temaområderne i Finance and Operations-produktfrigivelsen fra oktober 2018. 
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="simplification-through-configurable-templates"></a>Forenkling via konfigurerbare skabeloner 
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Kunderne kan spare tid og penge ved hjælp af konfigurerbare kundefakturaer og andre eksterne rapportformater. Formaterne giver mulighed for at udskrive dokumenter til fortrykte formularer og almindeligt papir. Brugen af de konfigurerbare skabeloner vil enten fjerne eller minimere behovet for at redigere fakturaer og kundesætninger i X ++-kode eller i SQL Server Reporting Services (SSRS). I produktfrigivelsen fra oktober 2018 er den konfigurerbare skabelon kun tilgængelig for fritekstfakturaer. Du kan oprette en skabelon ud fra en eksisterende fritekstfaktura, eller du kan oprette en ny skabelon og bruge den til oprettelse af nye fakturaer. I senere opdateringer vil vi udvide antallet af konfigurerbare skabeloner til kundefakturaer, kodesætninger og andre eksterne dokumenter.
 

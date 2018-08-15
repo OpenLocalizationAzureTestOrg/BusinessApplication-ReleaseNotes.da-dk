@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="workspaces-with-azure-ad-groups-public-preview"></a>Arbejdsområder med Azure AD-grupper (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI-arbejdsområder har deres egne roller og tilladelser, der er adskilt fra Office 365-grupper, og som giver mulighed for at styre administrationen af arbejdsområder.
 Funktionerne inkluderer tildeling af roller i arbejdsområdet for de enkelte brugere, Azure Active Directory-sikkerhedsgrupper (Azure AD) og moderne Office 365-grupper. Derudover er styring af Power BI-arbejdsområder adskilt fra styring af moderne Office 365-grupper.

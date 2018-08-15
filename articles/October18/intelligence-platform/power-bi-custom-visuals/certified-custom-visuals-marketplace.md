@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="certified-custom-visuals-in-the-marketplace"></a>Certificerede brugerdefinerede visualiseringer på markedspladsen
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Udviklere af brugerdefinerede visualiseringer på markedspladsen kan vælge at gennemgå en yderligere certificeringsproces til forbedring af sikkerhed og kvalitet for at få en certificering fra Power BI-teamet, som gør det muligt at understøtte visualiseringen ved eksport til PowerPoint og mailabonnementer. Derudover giver certificeringen brugerne sikkerhed for, at de uden problemer kan bruge visualiseringerne sammen med deres data.
 

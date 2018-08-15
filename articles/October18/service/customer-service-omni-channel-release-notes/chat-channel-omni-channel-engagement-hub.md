@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="live-chat-channel"></a>Livechatkanal 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 Et strategisk skifte i retning af almindelig skriftlig kommunikation mellem brugerne har fået organisationer til at tilføje understøttelse ud over de traditionelle kundeinteraktionskanaler som f.eks. mail og telefonopkald. Livechat med hurtig problemløsning og kundebekvemmeligheder er et blandt de ting, der driver denne nye udvikling.
 

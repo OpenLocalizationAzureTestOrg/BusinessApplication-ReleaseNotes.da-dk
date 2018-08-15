@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="simplified-gallery-form-and-data-table-field-selection-and-binding"></a>Mere simpelt feltvalg og binding af galleri, formular og datatabel
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Feltlistens brugervenlighed er også blevet forbedret for at gøre det lettere at arbejde med data i gallerier, formularer og datatabeller. 
 

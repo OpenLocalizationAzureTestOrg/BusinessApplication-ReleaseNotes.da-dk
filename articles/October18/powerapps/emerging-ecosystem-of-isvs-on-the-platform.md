@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="emerging-ecosystem-of-isvs-on-the-platform"></a>Nyt økosystem af uafhængige softwareleverandører på platformen
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 PowerApps og Common Data Service til apps har et voksende økosystem af programmer fra Microsoft og andre softwareleverandører, som er bygget oven på platformen, og som gemmer data lokalt i CDS til apps. Den voksende række programmer kan udnytte stadigt flere funktioner, der gør det muligt at udvikle SaaS-programmer i verdensklasse på platformen. 
 

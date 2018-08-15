@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="customizers-can-embed-power-bi-tiles-and-reports-in-entity-forms"></a>Tilpassere kan integrere Power BI-felter og -poster i objektformularer
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Udnyt mulighederne i Power BI i arbejdet med dine formularer ved at integrere poster og felter efter eget valg. Tilpassere kan få Power BI-poster og -felter til at give mere meningsfuld indsigt ved at overføre postkonteksten, herunder alle attributoplysninger om posten eller dens tilknyttede poster.
 

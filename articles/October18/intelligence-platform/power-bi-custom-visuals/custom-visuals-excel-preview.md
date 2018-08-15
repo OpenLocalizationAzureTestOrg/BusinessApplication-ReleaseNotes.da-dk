@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="custom-visuals-in-excel-public-preview"></a>Brugerdefinerede visualiseringer i Excel (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Brugerdefinerede visualiseringer er standardmetoden for brugerdefinerede visualiseringer fra tredjepart, der er integreret i Excels diagramoplevelse i Office og Power BI. Brugerdefinerede visualiseringer til Power BI kan også bruges i Office. Udviklere kan sende en enkelt brugerdefineret visualisering, der bliver tilgængelig for både Power BI og Excel i hver af de dedikerede forretninger, samt i AppSource. Excel-brugere kan se og importere brugerdefinerede visualiseringer fra Excel-butikken til deres Excel-regneark, ud over dataene i arket.
 

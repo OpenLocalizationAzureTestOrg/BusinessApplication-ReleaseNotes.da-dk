@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #   <a name="date-effectivity-validation-on-price-lists"></a>Validering af ikrafttrædelsesdato på prislister
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 
 Denne funktion sikrer, at Project Service-brugere undgår fejlagtige priser som følge af, at de har mere end én gældende prisliste for en bestemt dato. Som Project Service-kunder er opmærksomme på, kan de arbejde med flere projektprislister, der kan knyttes til tilbud, projektkontrakter og afdelinger. Formålet er at tage højde for inflatoriske prisændringer, som kan forekomme på prislister med forskellige ikrafttrædelsesdatoer. 

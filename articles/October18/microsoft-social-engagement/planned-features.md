@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="summary-of-whats-new-in-microsoft-social-engagement"></a>Oversigt over nyheder i Microsoft Social Engagement
 
-[!include[banner](../../includes/banner.md)]
+
 
 | Funktion                                                                                     | Frigivelsestype | Målmåned for frigivelse |
 |---------------------------------------------------------------------------------------------|--------------|----------------------|

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="deep-linkedin-integration"></a>Dyb LinkedIn-integration
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Dynamics 365 for Marketing leverer dyb LinkedIn-integration til generering af kundeemner fra professionelle netværk og relationer. Med nye integrationsfunktioner kan du køre forløb, der angiver målrettede tiltag på LinkedIn og genbruger de interaktioner, der kommer ud af det, i forbindelse med organisering, pointmodeller og segmentering.
 

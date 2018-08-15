@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="apis-to-manage-and-embed-power-bi-apps"></a>API'er til administration og integrering af Power BI-apps
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Vi udvider muligheden for at administrere og integrere Power BI-apps via API'er og ikke kun via Power BI-tjenesten.
 

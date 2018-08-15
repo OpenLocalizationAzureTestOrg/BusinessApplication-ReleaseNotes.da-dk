@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="rich-text-editor-and-html-view-controls-for-canvas-apps"></a>RTF- og HTML-kontrolelementer til visning i lærred-apps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Appudviklere kan med det nye RTF-kontrolelement i lærred-apps give slutbrugere mulighed for at designe deres tekst, herunder lister, og indsætte links.  Dette nye kontrolelement samt HTML-kontrolelementet til visning giver slutbrugere af apps fuld kontrol over tilpasning af tekst til scenarier som redigering af mails og rapporter i en app. 
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="sealed-bidding"></a>Forseglet budafgivelse 
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Funktionerne for tilbudsanmodningen udvides til at understøtte forseglet budafgivelse. En leverandør kan angive og indsende et tilbud, herunder vedhæftede .pdf-filer, via en særlig formular i brugergrænsefladen for leverandørsamarbejde. Buddet kan ikke ses i forbindelse med den tilbudsanmodning, som indkøberne har adgang til. Buddet gemmes i krypteret format. Det er kun den kontaktperson, der er registreret som leverandørkontakt og har fået rolletilladelserne, som har adgang til buddet, før dets forsegling brydes. Indkøberne kan bryde forseglingen af buddene efter udløbsdatoen, og de kan herefter se leverandørens bud i forbindelse med tilbudsanmodningen. Enhver brugerhandling, der læser eller skriver i buddet før udløbsdatoen, logføres til overvågning, og disse oplysninger vil være tilgængelige for leverandøren og indkøberne, når forseglingen af buddet brydes.  
 

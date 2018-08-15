@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="vendor-or-customer-approvals-for-specific-fields"></a>Godkendelser af debitor eller kreditor for bestemte felter
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Muliggør godkendelse af debitorer og kreditorer, når bestemte felter redigeres. Du vil kunne foretage valg på en liste over felter, der kan godkendes. Når feltet er redigeret, kan du sende ændringerne til arbejdsprocessen. Når ændringerne er godkendt, vil de blive anvendt på debitor- eller kreditorposten.

@@ -19,8 +19,10 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="support-for-delegate-users-in-dynamics-365"></a>Understøttelse af stedfortræderbrugere i Dynamics 365
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 App til Outlook-brugere kan give deres teammedlemmer delegeret adgang til deres postkasse og få en stedfortræderbruger til at udføre handlinger, f.eks. sporingshandlinger og Angiv angående. Stedfortræderbrugere kan bruge App til Outlook inden for rammerne af postkasseejerens mail- og kalenderelementer.
 

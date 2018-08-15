@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="onedrive-for-business-request-sign-off"></a>Godkendelse af OneDrive for Business-anmodning
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Via en integreret Flowstartpanel-oplevelse kan brugerne oprette og køre et out-of-box-flow for at sende godkendelsesanmodninger til enhver brugere i deres lejer sammen med en meddelelse. Når godkenderen svarer, modtager afsenderen en bekræftelsesmail med feedback fra godkenderen. 
 

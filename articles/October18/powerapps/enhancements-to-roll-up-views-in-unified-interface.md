@@ -19,8 +19,10 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="enhancements-to-roll-up-views-in-unified-interface"></a>Forbedringer af akkumuleringsvisninger i Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Med forbedret akkumuleringsvisning kan du se en akkumulering af poster, f.eks. relaterede firmaer og kontaktpersoner, ud over aktiviteter.
 

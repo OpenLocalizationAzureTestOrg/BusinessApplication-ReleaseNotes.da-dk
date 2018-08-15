@@ -20,5 +20,7 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="additional-report-url-parameter-support"></a>Understøttelse af yderligere parametre for URL-adresser i rapporter
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
 Når du bruger parametre for URL-adresser i rapporter, kan du angive filtre for datokolonner, bruge nye operatorer (mindre end, større end, mindre end eller lig med, større end eller lig med) og filtrere på flere feltværdier.
 

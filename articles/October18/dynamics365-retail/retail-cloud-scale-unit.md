@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="retail-cloud-scale-unit"></a>Skalaenhed for Retail-sky (RCSU)
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Retail-installationstopologier inkluderer nu Skalaenhed for Retail-sky (RCSU), der adskiller Retail Server, Cloud POS-server, Commerce run-time (CRT) og kanaldatabasekomponenter fra kerneadministrationen. Dette forbedrer ydeevnen på tværs af alle aspekter af systemet ved at fordele de kanalspecifikke arbejdsbelastninger på en separat skalaenhed. Derudover kan kanalkomponenterne nu serviceres uafhængigt, hvilket reducerer nedetiden og giver mulighed for koordinering, der er baseret på administrationssystemer eller kanalkrav.
 

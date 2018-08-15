@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="additional-demo-data"></a>Yderligere demodata
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Nu leverer vi dataobjekter og datapakker, der kan muliggøre problemfri og effektiv administration af demonstrationsdata og optimere til den bedst mulige salgs- og prøveversionsoplevelse for kundeemner. I disse yderligere komponenter er der fokus på produktions-, distributions- og salgsscenarier.
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="never-forget-that-detail-about-your-stakeholder-with-talking-points"></a>Glem aldrig oplysninger om din interessent med samtaleemner
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Sælgere, der kommunikerer med mange personer over tid. Det er ikke altid muligt at huske alle detaljer om hver person, de har kontakt med. Samtaleemner hjælper travle sælgere med at se deres seneste kommunikation og udtrække vigtige oplysninger om kunden eller kontaktpersonen om emner som f.eks. sport, sundhed, familie og underholdning. Disse emner hjælper sælgere med at indlede en samtale eller danne et indtryk af kunder, som de ikke har talt med for nylig eller aldrig har mødt ansigt til ansigt. 

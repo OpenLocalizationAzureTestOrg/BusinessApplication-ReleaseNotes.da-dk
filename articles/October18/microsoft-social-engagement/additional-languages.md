@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="additional-languages"></a>Flere sprog
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 Microsoft Social Engagement udvider med listefunktioner på nye markeder ved at tilføje flere sprog for dataindsamling, synspunktsanalyse og brugerdefinerede koder: 
 

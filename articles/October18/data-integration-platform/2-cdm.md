@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easier-sharing-unification-and-enrichment-of-data-with-common-data-model-entities"></a>Nemmere deling, samling og forbedring af data med Common Data Model-objekter
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 **Common Data Model**-definitionen med åben kildekode er blevet forbedret for at levere **integration af forretningsprocesser, programmer og profilforbedringer** på tværs af forretningsfunktioner inden for salg, service, marketing, drift, finans, talent og handel samt kerneobjektprofiler for kunder med henblik på at understøtte dataforbedring og analyse baseret på observation.
 

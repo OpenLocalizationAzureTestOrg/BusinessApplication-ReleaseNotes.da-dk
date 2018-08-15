@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="integration-with-dynamics-365-for-finance-and-operations"></a>Integration med Dynamics 365 for Finance and Operations.
 
+[!include[field-service banner](../../includes/field-service.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Denne integration gør det muligt at overføre masterdata (firma, produkt og prisliste) og arbejdsordredata til salgsordrer, når arbejdsordrer er markeret som lukkede. Den indeholder også integration af lagersted, indkøbsordre og faktura.
 

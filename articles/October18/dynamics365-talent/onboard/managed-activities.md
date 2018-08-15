@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="managed-activities"></a>Administrerede aktiviteter
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Afdelingsledere kan dynamisk opdatere skabeloner, som de har distribueret til andre ledere, for at sikre, at det nyeste indhold og de nyeste politikker er en del af alle medarbejderes onboardingvejledning. Det er vigtigt at skabe en ensartet onboardingoplevelse for alle nye medarbejdere, og for at nyansatte kan få succes. Ved at lade afdelingsledere styre indhold centralt kan de sikre et grundlæggende niveau af ensartethed for hver nyansat. 
 

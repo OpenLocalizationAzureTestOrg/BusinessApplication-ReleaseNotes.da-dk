@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="inline-help-for-creating-accessible-apps"></a>Integreret hjælp til udvikling af tilgængelige apps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Tilgængelighedskontrollen hjælper udviklere med at oprette tilgængelige apps ved at levere en liste over identificerede fejl relateret til skærmlæserens funktioner og elementer til navigation med tastatur. For hvert problem kan du gå til den påvirkede egenskab, få oplysninger om, hvordan det kan løses, og finde links til ekstra ressourcer. Alle appudviklere kan læse dokumentation, der beskriver bedste praksis, og indeholder flere oplysninger om, hvordan de kan se, om der er problemer med farvekontraster, og bruge tilgængelighedskontrollen.
 

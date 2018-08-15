@@ -20,7 +20,9 @@ ms.lasthandoff: 08/08/2018
 
 # <a name="videos-in-marketing-content"></a>Videoer i marketingindhold
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Publikums stigende præference for audio-/visuelle formater i stedet for skriftligt indhold har tvunget marketingmedarbejdere til at integrere video i deres kampagnestrategier og aktionsradius. Dynamics 365 for Marketing baner vejen for videoindhold, der skal tilføjes på marketingsider og mails.
 

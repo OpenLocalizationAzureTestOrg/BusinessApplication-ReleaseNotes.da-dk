@@ -20,9 +20,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="bulk-update-guides"></a>Masseopdatering af vejledninger
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 Chefer kan masseopdatere vejledninger, der allerede er sendt, ved at udsende opdateringer til den oprindelige skabelon.
 

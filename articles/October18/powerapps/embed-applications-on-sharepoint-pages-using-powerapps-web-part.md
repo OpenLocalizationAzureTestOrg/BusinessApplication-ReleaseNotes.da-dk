@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="embed-applications-on-sharepoint-pages-using-a-powerapps-web-part"></a>Integrere programmer på SharePoint-sider ved hjælp af en PowerApps-webdel
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Udviklere af indhold i SharePoint kan anvende PowerApps på deres sider ved hjælp af en PowerApps-webdel, der giver deres brugere scenarier med mere omfattende indhold. Nye temaindstillinger giver brugeren en oplevelse af, at disse apps hører til i SharePoint. Tilladelser fra SharePoint overføres til appen, så udviklere ikke behøver at administrere særlige tilladelser.
 

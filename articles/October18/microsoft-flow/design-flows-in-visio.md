@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="design-flows-in-visio"></a>Designe flows i Visio
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Visio gør det muligt for virksomheder at registrere deres forretningsprocesser ved hjælp af avancerede modelleringsfunktioner. Alle, der opretter rutediagrammer eller SharePoint-arbejdsprocesser, kan nu bruge Visio til at designe Microsoft Flow-arbejdsprocesser. Du kan bruge Visios delings- og kommenteringsfunktioner til at samarbejde med flere interessenter og have en komplet arbejdsproces på kort tid. Som ønsket [her](https://powerusers.microsoft.com/t5/Flow-Ideas/Interactively-Build-Microsoft-WORKFlows-visually-in-Visio-Two/idi-p/54269) kan du publicere arbejdsprocessen til Microsoft Flow og derefter angive parametre for at aktivere den.
 

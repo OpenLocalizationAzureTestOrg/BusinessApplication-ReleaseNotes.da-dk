@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="support-for-on-premises-local-business-data-deployments"></a>Understøttelse af lokale installationer (lokale forretningsdata)
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Dynamics 365 for Retail gør det muligt for forhandlere at bruge fleksible installationsmuligheder (lokale eller i skyen) på tværs af hele systemet – fra fysiske butikker til detailhovedkontorer. Installationen af lokale forretningsdata er blevet forbedret med understøttelse af følgende komponenter: Retail Modern POS (MPOS), Sky-POS, Retail-Server, Kanaldatabase, Hardwarestation og integrationer af tredjeparts e-handel.
 

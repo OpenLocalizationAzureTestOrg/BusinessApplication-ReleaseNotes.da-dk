@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="simplified-management-of-advanced-entity-properties"></a>Mere simpel håndtering af avancerede egenskaber for objekter
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Avancerede egenskaber relateret til objekter og felter, der i øjeblikket kun er tilgængelige i løsningsoversigten, bliver tilgængelige i PowerApps-portalen, så det bliver lettere og mere ensartet for appudviklere at oprette objekter og felter.
 

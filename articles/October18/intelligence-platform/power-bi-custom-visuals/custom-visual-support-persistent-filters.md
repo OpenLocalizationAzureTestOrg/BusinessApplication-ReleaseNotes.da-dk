@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="custom-visual-support-for-persistent-filters"></a>Understøttelse af brugerdefineret visualisering af faste filtre
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Brugerdefinerede visualiseringer understøttes, når brugerne anvender [faste filtre](https://powerbi.microsoft.com/en-us/blog/announcing-persistent-filters-in-the-service/) i Power BI-tjenesten.
 

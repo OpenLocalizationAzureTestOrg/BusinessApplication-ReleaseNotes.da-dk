@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-omni-channel-engagement-hub-october-18-release"></a>Oversigt over produktfrigivelsen fra oktober 2018 til Omni-channel Engagement Hub 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
  
 Omni-channel Engagement Hub til Dynamics 365 er en skybaseret tjeneste, som udvider funktionerne i Dynamics 365 for Customer Service, så kunder hurtigt kan oprette forbindelse til og kommunikere med deres kunder via de netop introducerede kanaler: livechat og SMS.  
 

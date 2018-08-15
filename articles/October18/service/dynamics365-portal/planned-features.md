@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 #  <a name="summary-of-whats-new-in-dynamics-365-portal"></a>Oversigt over nyheder i Dynamics 365 Portal
 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 | Funktion                                                                           | Frigivelsestype   | Målmåned for frigivelse |
 |-----------------------------------------------------------------------------------|----------------|----------------------|

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="go-local"></a>Skifte til lokal installation
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 
 Kunderne kan vælge et fuldstændigt data-resident onlineabonnement på Microsoft Dynamics 365 Finance and Operations. Alle kundedata, al kode og alle metadata opbevares i det dataområde, kunden vælger. Dataopbevaring bliver først tilgængelig i det europæiske dataområde.

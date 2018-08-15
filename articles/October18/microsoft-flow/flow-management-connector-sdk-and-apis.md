@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-management-connector-sdk-and-apis"></a>Flowstyringsconnector, SDK og API'er
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Vi oplever et stigende behov fra kunder, der søger udviklere og administratorer til at automatisere administrationsopgaver i forbindelse med programlivscyklus og til at automatisere tilladelserne og styringen af flows i en lejer. Som en del af denne funktion, dokumenterer vi API'er og SDK'er, der giver organisationer mulighed for at oprette flere værktøjer til forenkling af deres processer.  Vi udvider også vores eksisterende Flow-styringsconnector, så organisationer kan automatisere deres it-aktiviteter via Microsoft Flow.
 

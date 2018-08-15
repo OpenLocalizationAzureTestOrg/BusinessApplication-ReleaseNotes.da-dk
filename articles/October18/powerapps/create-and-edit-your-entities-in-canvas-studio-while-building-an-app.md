@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-and-edit-entities-in-powerapps-studio-while-you-build-an-app"></a>Oprette og redigere objekter i PowerApps Studio, mens du udvikler en app
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Mens du udvikler eller ændrer en app, kan du oprette og ændre objekter og grupperede indstillinger i PowerApps Studio i stedet for at skulle åbne et nyt websted.
 

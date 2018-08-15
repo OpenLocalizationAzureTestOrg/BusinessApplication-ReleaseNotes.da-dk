@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries"></a>PowerApps-udviklere kan oprette miksede apps med SharePoint-dokumentbiblioteker
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 PowerApps-appudviklere får nu mulighed for at oprette miksede apps med SharePoint-dokumentbiblioteker, der giver dem mulighed for at søge i mapper, se og lancere filer i indbyggede programmer samt uploade og forbedre metadata for deres filer. SharePoint-dataconnectorer er blevet forbedret for at kunne opføre dokumentbiblioteker på en liste på et specifikt SharePoint-websted, så appudviklere nemt kan vælge det dokumentbibliotek, de vil oprette forbindelse til, og ikke behøver skrive navnet på dokumentbiblioteket.
 

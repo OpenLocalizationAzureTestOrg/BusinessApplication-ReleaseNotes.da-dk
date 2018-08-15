@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="translation-service"></a>Translation Service
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Denne produktfrigivelse vil forbedre brugergrænsefladen, oversættelsen af indhold og produktiviteten. I denne produktfrigivelse vil vi tilføje understøttelse af oversættelser til flere sprog, gøre Dynamics 365 Translation Service-API'en tilgængelig og tilføje understøttelse af programmer, som er målrettet CDS. 
 

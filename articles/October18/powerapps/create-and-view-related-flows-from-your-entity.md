@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-and-view-related-flows-from-your-entity"></a>Oprette og se relaterede flows fra dit objekt
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Med den omfattende support i Microsoft Flow for Common Data Service til apps kan du se alle flows, der er relateret til et specifikt objekt direkte fra PowerApps. Du kan også oprette flows for data, der er gemt i Common Data Service til apps.
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="formula-formatting-easier-to-read"></a>Lettere at læse formatering af formler
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Forbedringer af editoren af formellinjen gør det muligt at formatere formler og gør det lettere for appudviklere at læse og forstå dem. Eftersom appudviklere opretter mere og mere komplekse virksomhedsprogrammer til deres slutbrugere, gør denne formatering det muligt for flere appudviklere at samarbejde om apps.
 

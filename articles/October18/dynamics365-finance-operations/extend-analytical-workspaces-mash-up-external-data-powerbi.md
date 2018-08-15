@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="extend-analytical-workspaces-by-mashing-up-external-data-with-powerbicom"></a>Udvide analysearbejdsområder ved at mikse eksterne data med PowerBI.com
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Mens rapportvisualiseringer og ændringer af layout kan udføres i klienten, kan erfarne brugere installere analysearbejdsområdet i deres eget PowerBI.com-abonnement i forbindelse med udvidelsesscenarier som miksning af eksterne data eller oprettelse af beregninger.
 De kan bruge det fulde potentiale i Power BI til at foretage tilpasninger af rapporter, herunder brug af Power BI-mobilappen og spørgsmål og svar-funktionen i Power BI.

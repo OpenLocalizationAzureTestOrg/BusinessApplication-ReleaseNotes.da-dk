@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="fulfillment-preferences"></a>Indstillinger for opfyldelse
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 Giv dine planlæggere og kunder en enklere oplevelse, og reducer samtidig den tid, det tager at oprette aftaler.
 

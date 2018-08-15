@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="on-premises-deployment-enhancements"></a>Forbedringer af lokal installation
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Indstillingen til lokal installation af Dynamics 365 for Finance and Operations er blevet forbedret på mange områder med fokus på at forenkle installation, handlinger, overvågning og vedligeholdelse.
 

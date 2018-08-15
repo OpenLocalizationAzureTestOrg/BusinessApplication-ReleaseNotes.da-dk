@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="quick-setup-and-instant-insights-in-social-engagement"></a>Hurtig konfiguration og straksindsigt i Social Engagement
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 Sociale medier er blevet en integreret del af enhver succesrig marketing-, kundeservice- og community-administrationsorganisation. Overvågning, måling og styring af, hvordan et mærke opfattes på de sociale medier, er afgørende for det pågældende mærkes succes. Det kan være udfordrende for firmaer at tage sig professionelt af den sociale tilstedeværelse af mærker. Mange professionelle værktøjer afhænger af rådgivning og undervisning for at komme i gang.
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="support-for-upgrade-and-n-1-ax-2012"></a>Understøttelse af opgradering og N-1 (AX 2012)
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Eksisterende Dynamics AX 2012-forhandlere kan nu opgradere deres administrationssystemers hovedkvarterskomponenter til det nyeste Dynamics 365 for Retail og samtidig lade deres distribuerede butikssystemer forblive på AX 2012 R3-versionen (N-1).
 Det muliggør trinvis udrulning med opgradering af butikssystemer over tid og dermed optimale planlagte nedetider. Derudover kan forhandlere installere nye (ikke-opgraderede) Dynamics 365-administrationssystemer, der drager fordel af N-1-funktionerne.

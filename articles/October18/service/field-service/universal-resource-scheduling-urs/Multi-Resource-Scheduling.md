@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="multi-resource-scheduling"></a>Planlægning med flere ressourcer
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 Du kan dynamisk samle en gruppe af ressourcer, du vil konvergere samtidigt, med henblik på intradayplanlægning. Ressourcer kan sammensættes i teams og mødes på stedet hos en kunde, samarbejde på afstand eller indfri aftaler på faciliteter.
 

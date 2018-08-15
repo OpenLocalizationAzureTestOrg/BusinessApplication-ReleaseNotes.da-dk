@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="unified-routing-and-work-distribution"></a>Ensartet ruteplanlægning og arbejdsfordeling 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 Organisationer kan udnytte de ensartede ruteplanlægnings- og arbejdsfordelingsfunktioner til at distribuere arbejdselementer, der er hentet fra chat, meddelelser og webportalkanaler, til forskellige kundeserviceteam i organisationen. Via konfigurationsgrænsefladerne kan organisationer definere arbejdsprofilen tæt for deres helpdesk-medarbejdere. Under kørsel vil systemet automatisere arbejdsgangen til forskellige helpdesk-medarbejdere på basis af deres kapacitet og tilgængelighed.
 

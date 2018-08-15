@@ -19,9 +19,11 @@ ms.lasthandoff: 08/03/2018
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-talent"></a>Oversigt over nyheder i Dynamics 365 for Talent
 
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
+
 I dette emne beskrives de funktioner, der er planlagt til frigivelse i Microsoft Dynamics 365 for Talent mellem oktober 2018 og marts 2019. 
 
-[!include[banner](../../includes/banner.md)]
+
 
 
 ## <a name="attract"></a>Attract

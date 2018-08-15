@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="iban-number-validation"></a>Validering af IBAN-nummer
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 IBAN-numre valideres for at sikre, at bankkontonummeret i IBAN-nummeret svarer til kontonummeret i bankkontoformularen.

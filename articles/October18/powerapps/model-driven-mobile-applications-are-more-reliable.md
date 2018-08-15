@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="model-driven-mobile-applications-are-more-reliable"></a>Modelbaserede mobilapps er blevet mere pålidelige
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Mobilapps kører hurtigere og fryser ikke. Brugerne kan handle på enhver fejl, de oplever, for at gøre det muligt selv at løse problemerne eller sende relevante oplysninger til Microsoft for hurtig support.
 

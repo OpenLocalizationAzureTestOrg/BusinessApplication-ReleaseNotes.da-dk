@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="what-if-analysis-statistics"></a>Statistisk fra what if-analyse
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 RSO-administratorer kan udnytte simuleringskørsler til at justere optimeringsomfanget (medtage/udelade flere ressourcer), mål (ændre rangordninger af mål) og andre parametre for at forstå, hvordan optimeringsresultaterne ser ud, før den tilbagevendende tidsplan fastlåses. Derudover kan administratorer bruge en analytisk statistik til bedre at evaluere optimering og sammenligne simuleringskørsler med eksisterende reservationer.
 

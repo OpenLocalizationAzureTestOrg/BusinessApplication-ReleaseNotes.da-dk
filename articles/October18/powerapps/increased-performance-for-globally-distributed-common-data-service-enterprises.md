@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="increased-performance-for-globally-distributed-common-data-service-for-apps-enterprises"></a>Forbedret ydeevne for globalt distribuerede Common Data Service til apps-virksomheder
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Slutbrugere på tværs af mange geografiske områder og netværksventetider vil opleve ensartet, hurtig ydeevne uanset deres placering i forhold til datacenteret.
 

@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="urs-customer-driven-product-enhancements"></a>URS-kundebaserede produktforbedringer
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 -   Yderligere udvidelsesmulighed i planlægningsområdet for at understøtte et mere enkelt ressourceanmodningsforløb for Project Service-programmet.
 -   Når du indsætter en reservation mellem to reservationer eller flytter en reservation til en anden ressource, vil flyttetiden for alle tilknyttede reservationer blive genberegnet korrekt.

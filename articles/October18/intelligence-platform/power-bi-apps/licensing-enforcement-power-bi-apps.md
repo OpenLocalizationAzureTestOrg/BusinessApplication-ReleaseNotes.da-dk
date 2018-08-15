@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="licensing-enforcement-for-power-bi-apps"></a>Gennemtvingning af licenser for Power BI-apps
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Muligheden for at tjene penge på Power BI-apps er et af de vigtigste incitamenter for, at disse programmer udvikles og tilbydes på markedet. Programmets udviklere skal sørge for, at krav om køb af licenser til programmet sker ved gennemtvingning på platformen for at forhindre misbrug og tabt omsætning. Gennemtvingning af licenser er baseret på de brugere, der er registreret og administreres i Azure Active Directory som brugere af programmet.
 

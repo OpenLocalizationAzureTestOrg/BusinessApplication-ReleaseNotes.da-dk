@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="overview-of-dynamics-365-for-customer-service-october-18-release"></a>Oversigt over Dynamics 365 for Customer Service-produktfrigivelsen fra oktober 2018
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 
 Dynamics 365 for Customer Service fortsætter med at levere funktioner, der sætter organisationer i stand til at give brugerne en effektiv kundeservice. Med den nyeste produktfrigivelse har vi fokuseret på en styrket brugerproduktivitet gennem nye oplevelser og på intelligens, der kan omsættes til handling på kundeserviceområdet, samt på forbedring af driftseffektiviteten.

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="faster-loading-model-driven-apps"></a>Hurtigere indlæsning af modelbaserede apps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Siderne i modelbaserede apps indlæses betydeligt hurtigere, eftersom synlige regioner gengives først og er optimeret til forskellige browsere. Brugerne vil også opleve en bedre ydeevne i Internet Explorer 11 og Edge-browsere med Unified Interface.
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="filtering-data-on-grids-coming-to-unified-interface"></a>Filtrering af data i gitre kommer til Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Brugerne kan bruge Excel-lignende funktioner til filtrering i gitterkolonner i de skrivebeskyttede gitre under Unified Interface-kørsel. Det giver brugerne en ensartet filtreringsoplevelse, hvad enten de bruger skrivebeskyttede eller redigerbare gitre.
 

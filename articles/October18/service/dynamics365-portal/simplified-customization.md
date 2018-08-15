@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="simplified-customization"></a>Forenklet tilpasning
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 Med vores fokus på forenklet tilpasning af Dynamics 365 Portal har vi målrettet forbedringer af henholdsvis portalens systemtilpassere og administratorer. En intuitiv oplevelse gør datamodeller mindre komplekse, gør det nemmere at lære at bruge portaltilpasning og fører til øget brugerproduktivitet. Et personrettet værktøj vil også danne grundlaget for alsidige oplevelser i kommende produktfrigivelser.

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enhanced-administrator-capabilities-for-data-integration"></a>Udvidede administratorfunktioner til dataintegration
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Største kundeønsker i produktfrigivelsen fra oktober 2018.
 

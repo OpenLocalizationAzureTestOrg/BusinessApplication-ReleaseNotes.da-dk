@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="real-time-power-bi-reports"></a>Power BI-rapporter i realtid
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Hvis du er kunde og i øjeblikket kører Microsoft Dynamics 365 for Finance and Operations version 7.3 eller 8.0 eller nyere, bliver de fleste analysearbejdsområder og integrerede Power BI-rapporter i produktet opdateret i realtid, når du opdaterer din platform. Objektlageret opdateres automatisk, så administratoren ikke behøver at styre objektlagerets opdateringsplan. Microsoft vil styre opdateringen for dig. 
  

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="configuration-migration"></a>Konfigurationsoverførsel
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 Udvikling af portaler kræver flere konfigurationer og tilpasninger, før du kan give portalens slutbrugere den ønskede oplevelse. Hvis du vil reducere den tid og arbejdsindsats, der kræves for at administrere portalkonfigurationen på tværs af miljøer, kan du bruge det skema til konfiguration af overførslen, vi udgiver, som fungerer med [SDK-værktøjet Configuration Migration](https://technet.microsoft.com/library/dn647421.aspx).

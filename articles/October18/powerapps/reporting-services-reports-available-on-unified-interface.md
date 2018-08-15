@@ -19,7 +19,9 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="manage-and-run-sql-server-reporting-services-ssrs-reports-in-unified-interface"></a>Administrere og køre SQL Server Reporting Services-rapporter (SSRS) i Unified Interface
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
+
+
 
 Brug rapporter til at administrere virksomhedsdriften, analysere status eller blot se en oversigt over data på linjeelementniveau. Du kan administrere dine SSRS-rapporter og køre rapporter på objektniveau fra alle poster og gitre.
 

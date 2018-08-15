@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="extend-dynamics-365-entity-forms-with-embedded-canvas-apps"></a>Udvidelse af Dynamics 365-objektformularer med integrerede lærred-apps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Lærred-apps gør det muligt for appudviklere at skabe en brugeroplevelse med perfekte pixel ved at bruge funktionerne til tilpasning med lidt kode. De understøtter også forbindelse til over 200 datakilder, herunder en række skytjenester (såsom Office 365 og SharePoint) samt datakilder i det lokale miljø (via en gateway). Nu kan appudviklere overføre disse funktioner direkte til deres modelbaserede apps ved at integrere lærred-apps i deres modelbaserede formularer. 
  

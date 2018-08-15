@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="embed-power-bi-visualizations"></a>Integrere Power BI-visualiseringer
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 [Power BI](https://powerbi.microsoft.com) er et af de bedste værktøjer til at skabe indsigt med simple og interaktive visualiseringer. Angående Power BI-funktionerne og de brugsmønstre, det muliggør for brugerne af portalen, så er denne funktion en af de mest værdsatte ideer. I øjeblikket er det ikke muligt at integrere sikre Power BI-rapporter i en portal, og med denne funktion vil vi strømline integrationen af Dynamics 365 Portal og Power BI.

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="organization-visuals"></a>Visualiseringer i organisationer
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 [Visualiseringer i organisationer](https://docs.microsoft.com/power-bi/power-bi-custom-visuals-organization) er den måde, som Power BI-administratorer kan installere og administrere brugerdefinerede visualiseringer i deres organisation med understøttelse af [Publicer på internettet](https://docs.microsoft.com/power-bi/service-publish-to-web), ekstern deling, mulighed for at deaktivere visualiseringer og redigere eller opdatere lister.
 

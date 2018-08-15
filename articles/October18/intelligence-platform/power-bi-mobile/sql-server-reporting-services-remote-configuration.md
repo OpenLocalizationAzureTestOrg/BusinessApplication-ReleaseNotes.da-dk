@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="remote-configuration-for-power-bi-report-server"></a>Ekstern konfiguration af Power BI-rapportserver
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Manuel definition af Power BI-rapportserverens forbindelsesoplysninger er ikke nogen smal sag for de fleste virksomhedsbrugere. Med denne funktion kan it-administratorer, der styrer mobilenheder i organisationen, eller Power BI-administratorer, der styrer Power BI-apps, definere konfigurationer af Power BI-rapportserveren i deres organisatoriske værktøj Enterprise Mobility Management (EMM). 
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="democratize-business-processes"></a>Demokratisering af forretningsprocesser
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Modernisering af forretningsprocesser er en af de primære formål med platformen Virksomhedsprogrammer hos Microsoft, og Microsoft Flow er det tilbud, som kan få forretningsprocesser ud til alle medarbejderne i en organisation.
 

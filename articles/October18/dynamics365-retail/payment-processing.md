@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="payment-processing"></a>Betalingsbehandling 
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Betalingsbehandlingsflows og integrationskontaktpunkter er blevet omstruktureret for at øge pålideligheden og stabiliteten mellem programmer i butikker (Retail Modern POS og hardwarestation) og betalingsenheder. 
 

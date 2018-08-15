@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="personalized-home-experience-public-preview"></a>Tilpasset startoplevelse (offentlig prøveversion)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI introducerer en ny landingssideoplevelse: startsiden. I overensstemmelse med tjenesten viser Power BI-appen en startvisning, der gør det muligt for forretningsbrugere at få en hurtig visning af de data, der er vigtige for dem, og nemt navigere til disse data, hvis de vil se nærmere på dem.
 

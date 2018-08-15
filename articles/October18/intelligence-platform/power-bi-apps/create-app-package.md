@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-a-power-bi-app-package"></a>Oprette en Power BI-apppakke
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Som Power BI Pro-bruger kan du:
 

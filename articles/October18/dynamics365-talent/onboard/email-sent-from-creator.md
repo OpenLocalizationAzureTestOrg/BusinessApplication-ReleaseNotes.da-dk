@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="emails-sent-from-the-guide-creator"></a>Mails sendt fra opretteren af vejledningen 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Velkomstmails og mailmeddelelser, der sendes til dine nyansatte, leveres nu direkte fra opretteren af vejledningen i stedet for en Dynamics 365-tjenestekonto og får derved et mere personligt præg. 
 

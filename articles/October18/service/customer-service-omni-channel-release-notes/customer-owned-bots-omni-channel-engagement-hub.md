@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="enable-customers-to-bring-their-bots"></a>Gøre det muligt for kunder at bruge deres robotter
 
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Brugerne i dag kræver i stadigt stigende omfang, at virksomheder opfylder deres krav og behov hurtigt, effektivt og nøjagtigt. Samtidigt er der et strategisk skifte i retning af selvbetjeningskanaler, hvor kunder selv kan løse problemer med produkter eller tjenester. 
 

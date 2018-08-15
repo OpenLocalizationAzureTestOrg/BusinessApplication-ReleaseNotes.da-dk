@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="microsoft-teams-uses-flow-as-a-bot"></a>Microsoft Teams bruger Flow som robot
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Brugerne vil kunne aktivere [knapflows](https://docs.microsoft.com/flow/introduction-to-button-flows) ved hjælp af en integreret oplevelse i Teams. Når du vil starte et flow, skal du kalde det med robotten ved at sige "oplist flows" efterfulgt af "vælg flow 1".
 

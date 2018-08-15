@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="transform-inside-sales-using-ai-in-the-call-center"></a>Transformere telefonsalg ved hjælp af kunstig intelligens i callcenteret
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Med Microsofts opkaldsintelligenstilbud kan du give mere kvalificeret rådgivning og øge din salgskonverteringshastighed. Ved at forbinde callcenterets systemer til optagelse af telefonopkald med appen kan callcenterchefer generere indsigt ud fra samtaler, som tilfører værdi fra organisationens eksisterende aktiver.

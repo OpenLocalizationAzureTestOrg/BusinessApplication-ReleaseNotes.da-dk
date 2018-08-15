@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="usability-and-productivity"></a>Anvendelighed og produktivitet
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 -   Et nyt tabelformat gitter er tilgængeligt i hele programmet og giver stærkt forbedret ydeevne af rulning, som er vigtigt i scenarier, hvor gennemsyn af data ønskes. 
 

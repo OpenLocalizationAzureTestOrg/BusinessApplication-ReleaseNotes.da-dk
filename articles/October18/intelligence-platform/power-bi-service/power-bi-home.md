@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-home"></a>Startside for Power BI
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Startsiden for Power BI giver et hurtigt overblik over en brugers vigtigste målepunkter og et udgangspunkt for navigation til indhold. Den øverste sektion indeholder felter og visuals fra en brugers vigtigste dashboards og rapporter. Derunder findes sektionen, der giver hurtig adgang til de favoritter, som er organiseret af brugeren, og det oftest anvendte indhold fra brugerens forudgående Power BI-forbrug. En ny global søgeoplevelse giver brugerne mulighed for hurtigt at finde indhold overalt i Power BI. For nye brugere af Power BI vil startsiden indeholde flere sektioner med tip til at komme i gang.
 

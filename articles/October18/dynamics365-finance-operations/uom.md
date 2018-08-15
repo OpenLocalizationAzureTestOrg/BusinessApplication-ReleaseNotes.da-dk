@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="unit-of-measure-conversion-for-variant"></a>Konvertering af måleenhed for variant
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Med optagelse i hele lokationsstyringssystemet vil denne funktion understøtte konfiguration af entydige fysiske mål og konvertering af måleenhed på niveauet for produktvariant. På nuværende tidspunkt understøttes kun nogle få scenarier.
 

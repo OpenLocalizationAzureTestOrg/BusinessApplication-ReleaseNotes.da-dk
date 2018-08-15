@@ -20,8 +20,11 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="using-edge-process-for-hosting-web-applications-in-unified-service-desk"></a>Brug af Edge-proces som vært for webprogrammer i Unified Service Desk
 
+[!include[unified-service-desk banner](../../../includes/unified-service-desk.md)]
+[!include[customer-service-core-release-notes banner](../../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Administratorer vil kunne konfigurere Microsoft Edge-browseren til at åbne webprogrammer i Unified Service Desk. Derved føres forbedringer af ydeevnen og pålideligheden i Microsoft Edge til Unified Service Desk-brugere sammen med andre fordele, som en moderne browser som Microsoft Edge har. Denne funktion i prøveversionen vil kun være tilgængelig for installationer, der er opgraderet til den nyeste version af Windows 10-operativsystemet.
 

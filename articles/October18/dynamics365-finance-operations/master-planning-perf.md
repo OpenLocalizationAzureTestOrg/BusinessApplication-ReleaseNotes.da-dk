@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="master-planning-performance-improvements"></a>Forbedret ydeevne af varedisponering
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Ydeevnen for og forudsigeligheden af varedisponering bliver forbedret via flere, trinvise forbedringer.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="custom-visual-support-for-report-tooltips"></a>Understøttelse af brugerdefinerede visualiseringer til værktøjstip i rapporter
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Brugerdefinerede visualiseringer understøtter [værktøjstip i rapporter](https://docs.microsoft.com/power-bi/desktop-tooltips) i Power BI Desktop og tjenesten.
 

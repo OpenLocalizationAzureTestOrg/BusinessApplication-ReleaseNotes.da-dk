@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="self-service-portal-diagnostics"></a>Diagnosticering af selvbetjeningsportal
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 Dynamics 365 Portal hjælper organisationer med at oprette websteder på en enkel og effektiv måde. Som en del af vores investering i at forbedre understøttelsen af Dynamics 365 Portal fokuserer vi på bedre diagnosticering og giver kunderne mulighed for at løse problemer på egen hånd ved hjælp af selvbetjeningsdiagnosticering.
 

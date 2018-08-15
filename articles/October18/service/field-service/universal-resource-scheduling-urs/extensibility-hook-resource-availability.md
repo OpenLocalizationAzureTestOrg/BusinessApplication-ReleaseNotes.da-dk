@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="extensible-resource-availability"></a>Udvidet ressourcetilgængelighed
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Som en del af søgningen i planlægningsassistenten kan kunder nu beslutte, om de vil tilsidesætte tilgængeligheden af en ressource, før søgeresultaterne returneres. Kunder med forskellige lukketider i forskellige afdelinger kan f.eks. forespørge på en tabel, der indeholder afdelinger, og hvilke dage de er lukket, og efterfølgende fjerne ressourcetilgængelighed i virksomhedens lukketider. 
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-app-discovery-for-app-consumers"></a>Forbedret appregistrering for appforbrugere
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Appforbrugere kan hurtigere være produktive ved at registrere, gennemse og køre deres egne og deres organisations modelbasserede apps og lærred-apps ved hjælp af en samlet landingsside på PowerApps.
 

@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="facility-scheduling"></a>Planlægning af lokaler, plads og aftaler
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 Du kan yde service hos tjenesteudbyderen i stedet for hos kunden.
 

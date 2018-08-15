@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="work-with-friendly-display-names-in-canvas-apps-when-using-common-data-service-or-sharepoint"></a>Arbejde med brugervenlige visningsnavne i lærred-apps, når du bruger Common Data Service eller SharePoint
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Både Common Data Service og SharePoint gemmer to navne for hver tabel og hvert felt.  Det første er et udviklerbrugervenligt navn, der nogle gange er noget kryptisk uden mellemrum, mærkelig anvendelse af store bogstaver, understregningstegn og et krav om at være unikt. Det andet er et brugervenligt navn, som slutbrugerne får at se, med mellemrum og almindelig anvendelse af store bogstaver, og som bliver vist i brugergrænsefladen i appen.  
 

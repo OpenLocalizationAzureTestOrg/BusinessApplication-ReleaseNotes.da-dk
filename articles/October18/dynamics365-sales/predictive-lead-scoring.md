@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="increase-sales-conversions-with-predictive-lead-scoring"></a>Forøge salgskonverteringer med pointmodel for kundeemner til forudsigelse
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Pointmodel for kundeemner til forudsigelse i Dynamics 365 er modelbaseret maskinel indlæring, der bedømmer kundeemner på en skala fra 1 til 100 på basis af deres sandsynlighed for at blive en salgsmulighed. 

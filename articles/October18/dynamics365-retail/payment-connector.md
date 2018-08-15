@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="payment-connector"></a>Betalingsconnector
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 En ny betalingsconnector, som fungerer på alle kanaler, til Adyen-betalingstjenester, er tilgængelig og klar til brug. Connectoren kan bruges til betalingsbehandling til Retail Modern POS med kredit/debetkort (EMV) og Cloud POS (via hardwarestation) og betalingsbehandling af betalinger uden brug af kort i forbindelse med e-handel/callcentre. Det delte omni-kanaltoken giver mulighed for effektive flows, f.eks. onlinekøb, der kan afhentes eller returneres i butik.
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="native-support-for-common-data-service-data-types-in-canvas-apps"></a>Indbygget understøttelse af Common Data Service-datatyper i lærred-apps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 I dag er understøttelse af nogle Common Data Service-datatyper begrænset eller svær at bruge. Optionset-værdier skal slås op manuelt på udviklerportalen, GUID'er håndteres gennem strenge, der kan skabe problemer i sammenligninger, og der opstår problemer med tidszoner med kun dato- og dato/tid-felter.
 

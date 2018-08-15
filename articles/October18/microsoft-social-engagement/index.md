@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="overview-of-microsoft-social-engagement-october-18-release"></a>Oversigt over Microsoft Social Engagement-produktfrigivelsen fra oktober 2018
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 Med Microsoft Social Engagement kan du udnytte internettet (socialt og til søgning og browsing) til at opnå resultater i virksomheden. Giv dit salgsteam, dine kundeservicemedarbejdere, dine medarbejdere, der arbejder med markedsføring af dit brand, og alle andre i organisationen umiddelbar adgang til intelligens fra internettet, så dine medarbejdere kan samle indsigt, møde kunderne og potentielle kunder på deres foretrukne kanal og opbygge en pålidelig social tilstedeværelse.
 

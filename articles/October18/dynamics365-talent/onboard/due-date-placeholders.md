@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="due-date-placeholders"></a>Pladsholder for forfaldsdato
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Chefer kan indsætte pladsholdere for forfaldsdatoer som en forskydning fra startdatoen for en nyansat, f.eks. to uger efter startdatoen eller tre dage før. Forfaldsdatoer opdateres automatisk, hvis den nyansattes startdato ændres.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="additional-quick-insights-public-preview"></a>Yderligere hurtig indsigt (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Når du har en visualisering, der viser fordelingen af en værdi på tværs af en kategori (f.eks. salg efter produkttype), kan brugerne bede Power BI om at vise, hvilke andre faktorer der påvirker denne fordeling. Dette er med til at identificere påvirkningen på en metrikværdi, uden at du manuelt skal opdele efter de enkelte faktorer for at finde frem til påvirkningen.
 

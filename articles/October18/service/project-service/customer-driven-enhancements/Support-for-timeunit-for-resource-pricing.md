@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #   <a name="support-for-multiple-time-units-on-a-single-price-list"></a>Understøttelse af flere tidsenheder på en enkelt prisliste
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service understøtter ressourcetid i prisfastsættelse. Brugerne kan vælge at fastsætte priser i timer, dage eller andre tidsenheder. En aktuel begrænsning er, at tidsenheden er fastlagt i hovedet af prislisten og ikke kan ændres på de enkelte prislinjer for ressourcetid. 
 

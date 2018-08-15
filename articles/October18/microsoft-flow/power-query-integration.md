@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-query-integration"></a>Integration af Power-forespørgsel
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Power-forespørgsel er et værktøj til indtagelse af data, der gør det muligt for brugerne at transformere, filtrere, håndtere og importere data til populære datalagre som f.eks. Power BI og CDS. Vi er ved at tilføje den samme mulighed for Microsoft Flow, så udviklere kan forme datamiks fra SQL Server ved hjælp af en onlineoplevelse af Power-forespørgsel.
 

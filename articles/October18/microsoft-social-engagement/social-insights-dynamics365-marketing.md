@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 
 ---
 #  <a name="social-insights-in-dynamics-365-for-marketing"></a>Social indsigt i Dynamics 365 for Marketing
+
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
  
-[!include[banner](../../includes/banner.md)]
+
 
 Social indsigt er et sæt af widgets, der viser data fra Social Engagement i andre Dynamics 365-apps. I oktober 2018 vil Social indsigt kunne spore kampagner i Dynamics 365 for Marketing.
 

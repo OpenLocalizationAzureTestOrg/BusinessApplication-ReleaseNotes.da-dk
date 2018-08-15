@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="predefined-crews"></a>Foruddefinerede medvirkende
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 Saml på forhånd grupper af ressourcer, der altid er sammen, med henblik på intradayplanlægning. Med Planlægning af medvirkende kan du definere en gruppe af ressourcer, der er planlagt til det samme arbejde i en periode. Normalt mødes de medvirkende på et sted om morgenen, deler et køretøj og er sammen hele dagen fra job til job. Virksomheder med fokus på tjenester, som gerne kræver flere teams af ressourcer for at udføre et job, foruddefinerer ofte en gruppe af medvirkende, et sæt ressourcer, der arbejder sammen hele dagen.
 

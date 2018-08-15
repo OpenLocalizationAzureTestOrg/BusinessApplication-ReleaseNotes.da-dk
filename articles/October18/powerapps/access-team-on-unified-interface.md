@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="access-team-on-unified-interface"></a>Adgangsteam på Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Funktioner for adgangsteams udføres under kørsel af Unified Interface. Med adgangsteams kan du vise og dele poster på tværs af funktionelle teams på en ny måde uden at skulle ændre eller opdatere den grundlæggende sikkerhedsmodel via Business Units, Security Roles eller Teams.
 

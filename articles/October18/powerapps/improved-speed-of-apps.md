@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-speed-of-apps"></a>Forbedret hastighed i apps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 PowerApps-oprettelsesoplevelser på internettet samt oplevelsen med at anvende apps bliver fortsat hurtigere og hurtigere. Når ældre apps opdateres og udgives igen til slutbrugere, ompakkes de ældre apps i den nyeste version af PowerApps. Slutbrugerne oplever hurtigere indlæsning og ydeevne, når de bruger appen.
 

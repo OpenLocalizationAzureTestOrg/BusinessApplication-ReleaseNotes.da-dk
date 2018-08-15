@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="api-to-apply-and-change-report-themes-in-power-bi-embedded"></a>API til anvendelse og ændring af rapporttemaer i Power BI Embedded
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Denne nye funktion gør det muligt for programmer at kalde en API for at anvende og ændre rapporttemaer for integrerede objekter på sessionsniveau. Med rapporttemaerne kan du anvende et farvetema, f.eks. virksomhedens eller årstidens farver, på en hel rapport. Når du anvender et rapporttema, bruger alle visuals i rapporten farverne fra det valgte tema.
 

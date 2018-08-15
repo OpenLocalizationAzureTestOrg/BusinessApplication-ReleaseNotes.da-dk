@@ -22,7 +22,7 @@ ms.lasthandoff: 07/18/2018
 
 I dette afsnit beskrives de funktioner, der er planlagt til frigivelse mellem oktober 2018 og marts 2019 i Dynamics 365 for Sales og Dynamics 365 AI for Sales-apps. 
 
-[!include[banner](../../includes/banner.md)]
+
 
 | Funktion                                                              | Frigivelsestype   | Målmåned for frigivelse |
 |----------------------------------------------------------------------|----------------|----------------------|

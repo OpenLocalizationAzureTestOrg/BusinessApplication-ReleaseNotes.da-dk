@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="sms-channel"></a>SMS-kanal
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 SMS-kanal er en effektiv mekanisme for organisationer, der skal nå ud til og kommunikere med kunderne på en rettidig og praktisk måde.
 

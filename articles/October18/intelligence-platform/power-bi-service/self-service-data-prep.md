@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="self-service-data-prep-for-big-data"></a>Selvbetjening af dataforberedelse til big data  
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 -   **Selvbetjening af dataforberedelse til big data** – Vi udvider selvbetjening af dataforberedelse i Power BI med nye funktioner for at hjælpe forretningsanalytikere med at få indsigt ved hjælp af big data. Ved hjælp af Power-forespørgselsoplevelsen, som er velkendt for millioner af Power BI Desktop- og Excel-brugere, kan forretningsanalytikere hente og importere, transformere, integrere og forbedre big data med Power BI – herunder data fra et stort og voksende sæt af understøttede datakilder fra det lokale miljø og fra skyen, f.eks. Dynamics 365, Salesforce, Azure SQL Data Warehouse, Excel og SharePoint. Brugerne kan med det samme knytte data til kendte objekter, redigere og udvide eksisterende objekter eller oprette brugerdefinerede objekter i Power BI.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="richer-segmentation-experience"></a>Mere avanceret segmenteringsoplevelse
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Med den forbedrede segmentdesigner kan marketingmedarbejdere og forretningsanalytikere oprette segmenter mere effektivt. En lang række nye forretningsbaserede operatorer vil gøre det nemmere for virksomhedens brugere at oprette komplekse, forretningsbaserede marketingsegmenter, så de nemt kan oprette segmenter til målrettet marketing.
 

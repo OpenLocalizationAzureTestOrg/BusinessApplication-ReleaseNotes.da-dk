@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="custom-analytics"></a>Brugerdefineret analyse
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Dynamics 365 for Marketing indsamler omfattende og detaljerede oplysninger om, hvordan kontakter arbejder med dine marketingtiltag. Brug brugerdefineret analyse til at organisere og præsentere disse data i Marketing-appen.
 

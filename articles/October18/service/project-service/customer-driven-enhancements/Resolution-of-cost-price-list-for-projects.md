@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="resolution-of-multi-currency-cost-price-list-on-projects"></a>Fortolkning af kostprisliste med flere valutaer på projekter 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service fortolker prislisten for omkostningssatser på projekter ved at sammenligne valutaen i den afdeling, der ejer projektet, med prislistens valuta. I det tilfælde, hvor en prisliste kan have priser i flere valutaer, forventes det, at der er én masterprisliste med omkostningssatslinjer i flere valutaer, og at denne prisliste vil blive brugt af alle projekter globalt. 
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="configure-dependent-option-sets"></a>Konfigurere afhængige grupperede indstillinger
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Ved at oprette afhængige grupperede indstillinger kan du nemt fastsætte regler mellem grupperede indstillinger for at sikre, at de valgte værdier giver mening. Du kan for eksempel oprette grupperede indstillinger som **Land/område** og **Stater**. Hvis en bruger vælger **USA** i rullemenuen for den første grupperede indstilling, bør rullemenuen for den anden grupperede indstilling kun vise de stater, der ligger i det land/område. Du kan sørge for, at dataene stemmer overens og er korrekte ved at definere denne struktur på objektniveau til anvendelse i alle apps.
 

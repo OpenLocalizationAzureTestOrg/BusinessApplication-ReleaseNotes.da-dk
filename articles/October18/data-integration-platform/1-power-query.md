@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="simpler-smarter-transformation-and-integration-of-enterprise-data-with-power-query-and-data-integration-platform"></a>Forenklet, smartere transformering og integration af virksomhedsdata med Power-forespørgsel og dataintegrationsplatformen
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Vi har gjort det nemmere at håndtere typiske dataintegrationsproblemer i virksomheder ved at udvikle:
 

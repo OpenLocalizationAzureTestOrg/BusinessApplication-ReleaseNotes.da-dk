@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="overview-of-dynamics-365-for-sales-october-18-release"></a>Oversigt over Dynamics 365 for Sales-produktfrigivelsen fra oktober 2018
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Dynamics 365 for Sales muliggør digital transformering ved at skabe produktivitet i stort omfang og analyser baseret på kunstig intelligens og ved at modernisere salgsteamets samarbejde via bedre fælles integration på tværs af Microsoft-økosystemet.
 

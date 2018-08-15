@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a>Administrere brugeroplevelsers tilgængelighed på Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Nye og eksisterende brugere kan få adgang til vigtige kommandoer under Unified Interface-kørsel. Administratorer kan slå disse oplevelser til og fra for deres brugere på organisationsniveau. 
 

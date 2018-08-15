@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-the-service-october-18-release"></a>Oversigt over Service-produktfrigivelsen fra oktober 2018 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 Produktfrigivelsen fra oktober 2018 introducerer nye investeringer i serviceområder, herunder Customer Service, Field Service og Dynamics 365 Portal.
 

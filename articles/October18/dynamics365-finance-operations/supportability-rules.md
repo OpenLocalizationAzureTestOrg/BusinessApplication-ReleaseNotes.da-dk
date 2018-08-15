@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="supportability-rules"></a>Regler for mulig understøttelse
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Yderligere regler for identificering og justering af installations- og konfigurationsindstillinger, der ikke er optimale, er blevet føjet til systemet. Eksemplerne omfatter: slette forsendelsesbetingelser, der aldrig er anvendt, slette betalingsbetingelser, der aldrig har været brugt, og periodisk oprydning af handelsaftaler om priser og rabatsalg og køb, der er udløbet, eller som aldrig har været brugt.
 

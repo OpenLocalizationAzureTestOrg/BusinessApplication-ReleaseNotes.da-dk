@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="push-notifications"></a>Pushmeddelelser
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 Vores mobilprogram giver nu som standard serviceteknikere mulighed for at modtage pushmeddelelser, hver gang de tildeles en reservation, en af deres reservationer er ændret, eller når de er ankommet til stedet for en arbejdsordre (hvis adressen deles). Hvornår og hvordan pushmeddelelser udløses kan konfigureres helt og kan tilpasses ethvert brugsmønster. Påmindelser i pushmeddelelser kan forbedre teknikernes punktlighed og nøjagtigheden af logføringen.
 

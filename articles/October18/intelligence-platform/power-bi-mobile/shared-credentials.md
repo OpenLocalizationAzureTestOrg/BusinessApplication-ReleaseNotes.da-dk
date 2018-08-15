@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="mobile-shared-credentials-ios-and-android"></a>Mobildelte legitimationsoplysninger (iOS og Android)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Med delte legitimationsoplysninger kan Power BI-mobilbrugere (iOS og Android) logge på uden problemer ved at dele de samme legitimationsoplysninger med Office-apps, der allerede er godkendt.
 

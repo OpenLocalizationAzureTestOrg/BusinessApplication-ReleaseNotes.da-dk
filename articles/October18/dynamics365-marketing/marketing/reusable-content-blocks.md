@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="reusable-content-blocks"></a>Genanvendelige indholdsblokke
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Med genanvendelige indholdsblokke kan Marketing-brugerne definere og gemme genanvendelige blokke af indhold, der er nemme at tilføje i design af mail og sider. Hvis du f.eks. har oprettet et flot sidehoved til en marketingside, kan du gøre det til et standardelement i designet ved at gemme det som en genanvendelig blok. Du kan også beskytte noget af eller hele en bloks indhold eller design for at begrænse andre brugeres mulighed for at redigere dem. 
 

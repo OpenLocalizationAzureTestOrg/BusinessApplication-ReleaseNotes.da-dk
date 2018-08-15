@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="single-sign-on-for-windows-devices"></a>Enkeltlogon for Windows-enheder 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI kan konfigureres til at tage brugernes legitimationsoplysninger fra Windows-operativsystemet og bruge dem til at logge på Power BI for at give virksomhedens brugere en nem oplevelse. 
 

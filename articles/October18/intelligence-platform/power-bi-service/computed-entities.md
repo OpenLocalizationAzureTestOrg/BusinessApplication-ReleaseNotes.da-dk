@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="computed-entities-public-preview"></a>Beregnede enheder (offentlig prøveversion)  
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Dataflowenheder gemmes i Common Data Model-kompatible mapper (CDM-mapper) i Azure Data Lake Storage Gen2. Når enhederne er blevet indlæst til CDM-mapper, kan du skabe ny indsigt ved at transformere, ændre og forbedre dem og aggregere data i stor skala. Disse nyoprettede enheder gemmes også i CDM-mapper. Statisk analyse af M-udtryk i Power-forespørgsler gør det muligt at identificere afhængigheder mellem enheder automatisk, så de altid er opdaterede i optimal rækkefølge, uden behov for manuel organisering. 
 

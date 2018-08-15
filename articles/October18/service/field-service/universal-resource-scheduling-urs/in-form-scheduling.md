@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="in-form-scheduling"></a>Planlægning i formular
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 Vi har i dag en overbevisende funktion til søgning efter og oprettelse af reservationer med en fleksibel brugergrænseflade. I nogle tilfælde kan det fulde potentiale af ressourceplanlægning dog være rigeligt for en almindelig bruger, der ikke er koordinator eller ressourceadminstrator. En kundeservicemedarbejder, der taler i telefon med en kunde, skal muligvis kun bruge en liste over de tre øverste reservationer, der er at vælge imellem, samtidig med at han eller hun forbliver i flowkonteksten i stedet for at skulle forlade et planlægningsområde.
 Planlægning i formular omfatter en letvægtswidget, hvor brugeren kan vælge imellem de vigtigste muligheder i en simpel liste- eller kalendervisning.

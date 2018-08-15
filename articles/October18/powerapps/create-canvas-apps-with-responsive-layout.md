@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-canvas-apps-with-responsive-layout"></a>Oprette lærred-apps med dynamisk layout
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Normalt skaleres skærmene i en lærred-app, så de passer til den plads, der leveres af appværten.  På denne måde kan du nemt oprette en app og være sikker på, at den vil se korrekt ud på enhver skærm, hvor den bliver anvendt.  Men det har en pris – efterhånden som skærme bliver større og større, kan apps ikke udnytte den ekstra plads.  Mange websteder er i dag "dynamiske" – de tilpasser sig til den størrelse skærm, de bliver vist på – fra små skærme på telefoner til store skærme på stationære computere.  
 

@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="single-resource-optimization"></a>Optimering af enkelt ressource
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 Optimering af enkelt ressource er en hurtig og sikker måde at optimere en valgt ressource på igen for at sikre, at ressourcen stadig har en optimal rute, når en ændring af planlægningen er foretaget i løbet af dagen. En ressource kan f.eks. have overlappende reservationer efter at være tildelt en nødarbejdsordre midt på dagen eller kan måske ikke være klar i tide til en reservation på grund af trafik.
 

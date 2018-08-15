@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="entitlement-management"></a>Berettigelsesstyring
 
+[!include[field-service banner](../../includes/field-service.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Field Service har udvidet den aktuelle berettigelsesfunktionalitet, der anvendes i Customer Service-programmet, til de relevante scenarier. Derved tages de supportniveauer, en kunde er berettiget til at angive i konteksten for den tekniske service, i betragtning. Eksempelberettigelser omfatter firmaer, kontakter, produkter, arbejdsordrer og performanceværdier for arbejdsordrer.
 

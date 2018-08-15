@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="commenting"></a>Kommentering
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Opret kommentarer til rapporter og dashboards for at angive en kontekst og stille spørgsmål. Med @mentions kan du involvere andre i samtalen. Pushmeddelelser og mails kan holdes opdaterede med de nyeste svar, hvor du er nævnt, eller som vedrører dine egne kommentarer.
 

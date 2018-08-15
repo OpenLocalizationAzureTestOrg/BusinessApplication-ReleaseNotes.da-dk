@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="customer-service-health-in-one-admin-center"></a>Kundeservicetilstand i One Admin Center    
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 One Admin Center indeholder oplysninger om netværksbåndbredde, netværksventetid, appstabilitet og målinger af ydeevne, som gør det muligt for organisationer at overvåge tilstanden af deres service. Funktionen indeholder også oplysninger om tidsmålinger for leverede komponenter kontra tilpasninger, som hjælper organisationer og uafhængige softwareleverandører med at vurdere implementeringens kvalitet og overholdelse af standarder.  
 

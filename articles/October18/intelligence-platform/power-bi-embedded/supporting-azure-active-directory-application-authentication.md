@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="azure-active-directory-application-authentication-public-preview"></a>Azure Active Directory-programgodkendelse (offentlig prøveversion)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Vi tilføjer programgodkendelse i Power BI Embedded. Dette forbedrer installationen, sikkerheden og administrationen af programlivscyklus for Power BI Embedded-programmer. På nuværende tidspunkt kræver opbygning af et Power BI Embedded-program oprettelse af en overordnet brugerkonto, lagring af legitimationsoplysninger for den pågældende konto og derefter brug af dem i programkoden for at kunne udføre ikke-interaktiv logon på Power BI. Azure Active Directory har særlig understøttelse af programmer, der godkendes ved hjælp af deres egen identitet uden en brugerkontekst. Denne understøttelse, der alene er udviklet til app-godkendelse, giver større kontrol og sikkerhed, har færre begrænsninger og er den anbefalede fremgangsmåde. 
 

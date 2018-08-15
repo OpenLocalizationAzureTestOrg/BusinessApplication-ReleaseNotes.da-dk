@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="ease-of-data-entry-for-dimension-values"></a>Nemmere dataindtastning for dimensionsværdier
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Når en dimension har en understøttende enhed, f.eks. debitor eller kreditor, bruges den værdi, der er angivet i den tilknyttede formular, som standard for dimensionsværdien. Eksempelvis bliver debitordimensionen automatisk indstillet til den debitorværdi, der bruges, når der oprettes en kunde. Der findes nye indstillinger, som kan bruges til at anvende standardværdien på en eller flere dimensioner. Standardværdien for en afdeling kan f.eks. anvendes, når bæreren er angivet.
 

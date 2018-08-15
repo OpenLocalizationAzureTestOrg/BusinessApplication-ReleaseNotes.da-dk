@@ -19,9 +19,11 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../includes/banner.md)]
+
 
 #  <a name="overview-of-data-integration-platform-october-18-release"></a>Oversigt over produktfrigivelsen fra oktober 2018 til Dataintegrationsplatform
+
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
 Dataintegration indeholder forbindelser og gateways, der gør det muligt at importere eksterne data til CDS (Common Data Service) og gemme dataene i CDM-formularen (Common Data Model). Dette gør det lettere for kunderne at integrere deres data på ét sted for virksomhedsprogrammer og analyser. Dataintegration er baseret på Power-forespørgsel, den samme teknologi, som millioner af mennesker bruger hver dag i Power BI og Excel.
 

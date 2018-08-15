@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="social-listening-for-your-campaigns"></a>Social lytning til dine kampagner
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Moderne marketing er afhængig af signaler fra sociale medier for at fastholde kundeengagementet. Med social lytning i Dynamics 365 for Marketing kan marketingmedarbejdere føje relevante sociale tags til kundekampagneforløb, arrangementer og andre objekter, så de kan få vist de sociale mediers respons på deres marketingtiltag ved siden af anden marketingindsigt.
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="multi-region-support-for-power-bi-embedded-public-preview"></a>Understøttelse af flere områder til Power BI Embedded (offentlig prøveversion) 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI Embedded-kunder kan købe kapacitet i flere områder, herunder andre områder end det, hvor deres hjemlige Power BI-lejer er placeret. Denne funktion giver kunderne styring med, hvor data gemmes, fordi de kan tildele arbejdsområder og alle dataene i arbejdsområdet, så de findes i et bestemt område. På denne måde kan de sikre, at dataene forbliver i området.
 

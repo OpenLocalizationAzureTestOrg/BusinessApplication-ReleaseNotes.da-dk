@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="onedrive-for-business-flow-launch-panel"></a>Flowstartpanel til OneDrive for Business
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 På samme måde som med [Flowstartpanelet i SharePoint](https://flow.microsoft.com/en-us/blog/introducing-flow-launch-panel-in-sharepoint-lists-and-libraries/) kan brugerne køre flows på udvalgte filer fra OneDrive for Business. På denne måde kan den person, der starter aktiveringen, bruge sine egne legitimationsoplysninger, særligt til flows, der kan være oprettet af it, og få prompts om kørselsinput som Godkender eller Meddelelse, der kan være af typen tekst, fil, mail, boolesk værdi eller tal. 
 

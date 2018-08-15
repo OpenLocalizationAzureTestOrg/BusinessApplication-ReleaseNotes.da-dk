@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="suggest-similar-cases"></a>Forslag til lignende sager  
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 Løsning af et kundeserviceproblem under den første kontakt og med minimalt tidsforbrug hjælper organisationer med at øge kundetilfredsheden og reducere driftsomkostningerne.  I en kundeserviceorganisation vil erfarne kundeservicemedarbejdere eller fageksperter typisk løse problemer hurtigere ud fra viden og erfaring, der er indhentet under løsning af andre lignende problemer. Hvis helpdesk-medarbejdere får en sag, der ligger uden for deres fagområde, vil overdragelse af sagen til eller rådgivning fra en fagekspert øge kundens indsats og forlænge ekspeditionstiden, hvilket reducerer kundetilfredsheden.  
 

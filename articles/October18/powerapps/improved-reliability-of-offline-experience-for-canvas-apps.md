@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-reliability-of-offline-experience-for-canvas-apps"></a>Offlineoplevelse med forbedret pålidelighed for lærred-apps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Lærred-apps på enheder, der bruger SaveData/LoadData, er mere pålidelige i offlinescenarier. Appudviklere kan lagre op til 20 MB data eller 20 billeder offline i en enkelt celle, hvilket gør udviklere i stand til at oprette mere robuste apps til teknisk service.
 

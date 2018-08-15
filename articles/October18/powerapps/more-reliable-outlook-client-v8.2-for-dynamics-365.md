@@ -19,8 +19,10 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="more-reliable-outlook-client-v82-for-dynamics-365"></a>Mere pålidelig Outlook-klient v8.2 til Dynamics 365
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Den nye version af Dynamics 365 for Outlook indeholder forbedringer af ydeevnen, der kan løse opstartsproblemer, hvor Outlook fryser på grund af opdatering af metadatacachen.
 

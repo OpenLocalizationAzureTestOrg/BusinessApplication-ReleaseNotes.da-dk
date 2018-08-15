@@ -19,7 +19,9 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="sharing-enhancements-for-canvas-apps"></a>Deling af forbedringer for lærred-apps
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
+
+
 
 Deling af lærred-apps er blevet nemmere, fordi brugerne kan få vist de datakilder, som en app bruger, hvilket gør det lettere at indstille særskilte brugertilladelser, der giver adgang til disse data. 
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="admin-analytics"></a>Analyse for administratorer
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Efterhånden som Microsoft Flow bruges i flere og flere virksomheder, har kunder udtrykt behov for større indsigt i, hvordan deres organisation bruger Microsoft Flow. Administratorer kan til en start udforske analyser, der er relateret til kørsler, forbrug, deling og fejloplysninger. Der vil blive tilføjet flere datavisualiseringer, som vil omfatte connectorer og ydeevne.
 

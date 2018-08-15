@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="background-location-sharing"></a>Deling af placering i baggrunden
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 Vores mobilprogram giver nu mulighed for, at teknikere kan dele deres aktuelle placering, hvilket medfører, at der sendes en lokationsdatastrøm til Dynamics 365 for Field Service, som viser teknikerens placering i planlægningsområdet, og muliggør, at hændelser kan udløses, baseret på teknikerens aktuelle placering. Når teknikere f.eks. ankommer til arbejdsstedet, kan der sendes en pushmeddelelse med en påmindelse om, at de skal opdatere deres status. Dette åbner også for scenarier, hvor vi kan registrere, at en tekniker er forsinket i forhold til en arbejdsordre, baseret på den aktuelle placering, og hvor vi derfor kan tildele arbejdsordren til en anden tekniker i nærheden.
 

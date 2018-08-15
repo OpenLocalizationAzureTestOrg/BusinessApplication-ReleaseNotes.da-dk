@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="opting-into-new-features"></a>Tilvalg af nye funktioner
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Appudviklere kan tilvælge nye funktioner i deres aktuelle apps, når de er klar. De nye funktioner er tilgængelige i en begrænset tidsperiode, før funktionerne automatisk føjes til alle apps. Dette giver appudviklere mulighed for at afprøve funktionerne i eksisterende apps og udføre de nødvendige ændringer, før de rulles ud globalt. De nye apps, der oprettes, udnytter alle de nye tilgængelige funktioner.
 

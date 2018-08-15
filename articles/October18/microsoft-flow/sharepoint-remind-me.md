@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="sharepoint-remind-me"></a>SharePoint – Påmind mig
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Hvis en liste eller et bibliotek har en kolonne til dato/klokkeslæt, kan brugerne hurtigt klargøre en proces, der sender påmindelser, som er baseret på kommende aftaler i den valgte kolonne. 
 

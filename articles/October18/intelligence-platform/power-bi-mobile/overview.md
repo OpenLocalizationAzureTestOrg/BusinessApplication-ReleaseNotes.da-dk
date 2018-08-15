@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-mobile"></a>Power BI – Mobil
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI – Mobil-apps leverer data og indsigt til alle enheder (Windows, iOS og Android), så det er sikkert for forretningsbrugere at åbne livevisninger af Power BI-dashboards og -rapporter.
 

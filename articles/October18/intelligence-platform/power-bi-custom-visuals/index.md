@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="power-bi-custom-visuals"></a>Brugerdefinerede Power BI-visualiseringer
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI-visualiseringer muliggør udviklingen af entydige visuals, der kan bruges på samme måde som enhver anden indbygget Power BI-visualisering.
 

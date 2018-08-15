@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="simplified-lookup-field-creation-on-entities"></a>Mere simpel oprettelse af opslagsfelter på objekter
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Opslagsfelter bliver i øjeblikket oprettet som en del af definitionen af en mange til én-relation. Dette understøttes fortsat med denne funktion, men brugerne vil kunne oprette samme type relation og opslagsfelt ved blot at føje et opslagsfelt til et objekt, på samme måde som det i dag gøres i SharePoint eller Access.
 

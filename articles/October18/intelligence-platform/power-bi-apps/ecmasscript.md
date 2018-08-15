@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="ecmascript-support"></a>Understøttelse af ECMAScript
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Produktfrigivelsen fra oktober 2018 introducerer understøttelse af ECMAScript 2015 SU06 i udviklerværktøjer, der giver en mere detaljeret understøttelse af eksterne pakker.
 

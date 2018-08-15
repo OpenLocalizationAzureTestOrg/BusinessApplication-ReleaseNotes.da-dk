@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enterprise-grade-hybrid-connectivity-using-the-on-premises-data-gateway"></a>Hybridforbindelser for virksomheder via datagateway i det lokale miljø
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Denne produktfrigivelse indeholder flere opdateringer, der er relateret til forbedring af datagatewayen i det lokale miljø.
 

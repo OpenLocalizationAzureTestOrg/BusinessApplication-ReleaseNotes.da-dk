@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="build-intelligent-sales-applications-and-business-processes-powered-by-linkedin-insights"></a>Udvikle intelligente salgsprogrammer og forretningsprocesser på basis af LinkedIn-indsigt
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dynamics 365-programmer, der udnytter LinkedIn-indsigt, løftes op til et nyt niveau ved at kombinere modulære **LinkedIn Sales Navigator-kontrolelementer**, som kan tilpasses, med effektive og fleksible **Dynamics 365-forretningsprocesforløb**. Enhver forretningsproces, herunder salgsscenarier, kan oprettes eller udvides med LinkedIn-indsigt om personer og virksomheder, hvilket gør det nemmere for informationsmedarbejdere at afslutte faser og trin hurtigt og nøjagtigt, og i sidste ende bidrager det til at fremme et positivt udfald af salg og andre handelsprocesser. Denne form for indsigt omfatter:

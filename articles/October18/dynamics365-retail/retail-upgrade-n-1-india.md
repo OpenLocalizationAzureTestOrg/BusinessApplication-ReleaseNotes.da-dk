@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="support-for-upgrade-and-n-1-for-india"></a>Understøttelse af opgradering og N-1 for Indien
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
+
 
 Eksisterende Microsoft Dynamics AX 2012 R3-kunder i Indien kan nu opgradere deres Retail-løsninger til Dynamics 365 for Retail. Derudover kan kunderne drage fordel af N-1-understøttelsen, som gør det muligt for butikker, der kører AX 2012 R3 POS, at arbejde med Retail Headquarters på Dynamics 365 for Retail efter en opgradering.
 

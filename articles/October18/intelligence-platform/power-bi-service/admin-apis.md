@@ -20,5 +20,7 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="admin-apis-and-powershell-module"></a>Admin-API'er og PowerShell-moduler
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
 Med Power BI Admin-API'er sammen med et .NET SDK og PowerShell-moduler kan administratorer registrere artefakter i deres Power BI-lejer samt udføre administrative handlinger. Disse nye funktioner vil give administratorer nye muligheder, der ligger ud over det, der i øjeblikket er tilgængeligt på Power BI-administrationsportalen. Med tiden forventer vi også at inkorporere nogle af disse funktioner i Power BI-administrationsportalen for at muliggøre almindelige scenarier uden brug af PowerShell.
 

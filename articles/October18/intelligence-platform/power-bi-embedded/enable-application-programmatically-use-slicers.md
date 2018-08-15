@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enable-an-application-to-programmatically-use-slicers"></a>Muliggøre brug af udsnitsværktøj i et program via programmering
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Udsnitsværktøj-API'en giver programmet styring gennem hele sessionen med det udsnitsværktøj, en bruger arbejder med. API'en kommer til at fungere som filter-API'en – nemt og intuitivt for udvikleren. Følgende funktioner understøttes:
 

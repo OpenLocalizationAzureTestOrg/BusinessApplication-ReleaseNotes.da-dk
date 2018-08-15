@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="export-to-excel"></a>Eksport til Excel
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Ansættelseschefer kan eksportere alle vejledninger, de opretter eller bidrager til, til en Excel-fil, der kan bruges til rapportering og Power BI.
 

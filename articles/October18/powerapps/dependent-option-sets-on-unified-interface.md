@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dependent-option-sets-on-unified-interface"></a>Afhængige grupperede indstillinger på Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Ved hjælp af dette kontrolelement på Unified Interface kan du gøre det muligt for brugerne at indtaste data hurtigere og mere præcist.
 

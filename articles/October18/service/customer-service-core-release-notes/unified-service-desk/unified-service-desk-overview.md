@@ -20,7 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-unified-service-desk-october-18-release"></a>Oversigt over produktfrigivelsen fra oktober 2018 til Unified Service Desk
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[unified-service-desk banner](../../../includes/unified-service-desk.md)]
+[!include[customer-service-core-release-notes banner](../../../includes/customer-service-core-release-notes.md)]
+
+
 
 Unified Service Desk til Dynamics 365 indeholder en konfigurerbar struktur til hurtig udvikling af programmer til callcentre, så Helpdesk medarbejdere kan få en samlet oversigt over de kundedata, der er gemt i Dynamics 365. Med produktfrigivelsen fra oktober 2018 kan du bl.a.:
 

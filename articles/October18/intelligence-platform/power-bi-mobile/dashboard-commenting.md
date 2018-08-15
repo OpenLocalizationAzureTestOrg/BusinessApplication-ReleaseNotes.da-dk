@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dashboard-level-commenting"></a>Kommentering på dashboardniveau
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Gør det muligt for forretningsbrugere at starte og deltage i samtaler om deres data direkte fra deres mobilapp. Samtalen kan knyttes til et dashboard eller et felt, og alle brugere, der har adgang, der kan bidrage til samtalen. Brugerne kan også modtage pushmeddelelser, når en person omtaler dem i en samtale, så de hurtigt kan blive opdateret og deltage i samtalen fra deres mobiltelefon.
 

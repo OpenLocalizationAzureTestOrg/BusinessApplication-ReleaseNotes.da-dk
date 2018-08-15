@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="paginated-reports-public-preview"></a>Sideinddelte rapporter (offentlig prøveversion)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Sideinddelte rapporter bliver førsteklasses artefakter i Power BI. Brugerne vil kunne oprette sideinddelte rapporter og publicere dem til Power BI-tjenesten. Mobilbrugere vil kunne se sideinddelte rapporter, der er publiceret i Power BI, i deres app.
  

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="configure-a-unit-of-time-for-estimating-work-on-project-tasks"></a>Konfiguration af en tidsenhed til forkalkulation af arbejdet på projektopgaver
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service bruger *time* som den eneste tidsenhed til forkalkulation af arbejdsindsatsen for en projektopgave. I mange områder af verden foretages forkalkulation i "arbejdsdage", hvor hvert land eller område har sin særskilte definition af, hvor mange timer en typisk arbejdsdag består af. Afhængigt af hvilken afdeling der ejer leveringen af projektet, skal den enhed, der anvendes til forkalkulation i projektet, derfor som standard være denne afdelings definition af en arbejdsdag. 
 

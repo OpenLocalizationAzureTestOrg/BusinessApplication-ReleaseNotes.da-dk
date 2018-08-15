@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="update-an-existing-power-bi-app-in-appsource"></a>Opdatere en eksisterende Power BI-app i AppSource
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Administrationen af programlivscyklus (ALM) indeholder følgende funktioner:
 

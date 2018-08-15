@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="installing-power-bi-apps-for-dataflows"></a>Installation af Power BI-apps til dataflows
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI-brugerne kan jumpstarte deres løsninger ved at installere de Power BI-programmer, der leveres af Microsoft og partnere som standard. Power BI-apps er udviklet ved hjælp af forskellige Power BI-artefakter fra de dataforbindelser, der bruges til at udfylde et dataflow, til de rapporter, der visualiserer data for brugerne. 
 

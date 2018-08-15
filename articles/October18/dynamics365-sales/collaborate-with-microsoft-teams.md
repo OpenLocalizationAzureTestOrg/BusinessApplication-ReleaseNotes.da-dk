@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="transform-sales-team-collaboration-through-tight-integration-with-microsoft-teams"></a>Transformere salgsteamets samarbejde via tæt integration med Microsoft Teams
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Dagens sælgere er med i dobbelt så mange teams som for fem år siden. De arbejder med gennemsnitlig seks beslutningstagere og 16 kolleger om at lukke et tilbud. Det moderne salgsmiljø kræver hurtigere samarbejde med flere personer og om flere data. Microsoft Teams-integration med Dynamics 365 samler de funktioner, som sælgere skal bruge for at kunne samarbejde mere effektivt
  

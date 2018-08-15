@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="service-scheduling-powered-by-universal-resource-scheduling"></a>Serviceplanlægning leveret af Universal Resource Scheduling  
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Serviceplanlægning giver organisationer effektiv planlægning af komplekse kombinationer af ressourcer ved at tage tilgængeligheden af medarbejdere, faciliteter og udstyr i betragtning. Den gavner organisationer ved at forbedre servicekvaliteten og forhindre overplanlægning med forudsigelige arbejdsbelastninger for medarbejdere og sikrer samtidig pålidelige tidsestimater for kunder og klienter. 
 

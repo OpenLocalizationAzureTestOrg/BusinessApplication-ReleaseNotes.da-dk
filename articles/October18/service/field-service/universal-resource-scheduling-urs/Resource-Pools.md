@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="resource-pools"></a>Ressourcepuljer
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 Knyt ressourcer til ressourcepuljer, så planlæggere kan reservere krav til en generisk pulje uden behov for at bestemme, hvilken ressource der rent faktisk skal udføre arbejdet.
 

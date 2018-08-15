@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="faster-load-times-with-parallel-data-loading-in-canvas-apps"></a>Hurtigere indlæsning med parallel dataindlæsning i lærred-apps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 For at få en bedre ydeevne vil mange udviklere af lærred-apps forudindlæse flere tabeller og objekter, når deres app starter. I dag gøres dette serielt, én indlæsning ad gangen, og ofte i appens **OnStart**-formular. 
 

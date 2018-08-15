@@ -20,6 +20,8 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="test-automation-support"></a>Teste understøttelse af automatisering
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 En administrator eller funktionel superbruger kan udarbejde, køre og administrere en automatiseret testregressionspakke, der er baseret på opgaveregistreringer, hvilket markant reducerer effekten og omkostningerne ved validering af opdateringer i Dynamics 365 for Finance and Operations-miljøer. Disse test kan køres på UAT-miljøer.

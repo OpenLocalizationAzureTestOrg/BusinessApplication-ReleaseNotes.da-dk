@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="onboarding-teams"></a>Onboarde teams
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Afdelingsledere kan definere deres team- eller afdelingsmedlemmer for at strømline rapportering, samarbejde og deling af indhold.
 

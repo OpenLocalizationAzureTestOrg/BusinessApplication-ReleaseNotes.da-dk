@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="south-america"></a>Sydamerika
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Sydamerika som område er nu tilgængeligt for Microsoft Flow. Det betyder, at du kan oprette miljøer i Sydamerika, og alle strømme af kundedata vil udelukkende blive vedligeholdt i Nord- og Sydamerika. Du kan få flere oplysninger om vores forpligtelser til opbevaring af data i [Microsofts center for sikkerhed og rettigheder for Microsoft Flow](https://www.microsoft.com/en-us/TrustCenter/CloudServices/business-application-platform/data-location).
 

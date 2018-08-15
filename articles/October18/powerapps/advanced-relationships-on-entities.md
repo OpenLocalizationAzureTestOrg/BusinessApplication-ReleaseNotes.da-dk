@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="advanced-relationships-on-entities"></a>Avancerede relationer på objekter
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 I PowerApps kan appudviklere ikke kun oprette én til mange-, mange til én- og mange til mange-relationer, men udviklerne kan også aktivere hierarkier og konfigurere tilknytning mellem objekter som en hjælp i forbindelse med indsættelse af standardværdier for felter, når poster skal relateres til hinanden. Mere avancerede indstillinger kræver brug af Løsningsoversigt.
 

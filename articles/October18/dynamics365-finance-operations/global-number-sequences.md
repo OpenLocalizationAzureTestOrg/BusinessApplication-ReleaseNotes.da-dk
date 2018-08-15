@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="global-number-sequences"></a>Globale nummerserier
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Globale nummerserier for kunder og kundegrupper giver forretningsbrugere mulighed for at kopiere disse data fra én juridisk enhed til en anden. Når kopieringsfunktionen er fuldført, deles kundenummer og kundeoplysninger i de to juridiske enheder. Dette forbedrer anvendeligheden i scenarier internt i virksomheder. Denne funktion er også tilgængelig for leverandører og leverandørgrupper.

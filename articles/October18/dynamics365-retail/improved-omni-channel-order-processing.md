@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="improved-omni-channel-order-processing"></a>Forbedret ordrebehandling via alle kanaler
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Retail Modern POS- og Cloud POS-brugere kan yde bedre og mere effektiv kundeservice ved at returnere produkter fra flere transaktioner, når de returnerer med kvittering eller fra købshistorik. Tidligere krævede dette en anden returtransaktion for det enkelte oprindelige salg, hvilket øgede antallet af processer og betalingstiden.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-dynamics-365-portal-october-18-release"></a>Oversigt over produktfrigivelsen fra oktober 2018 til Dynamics 365 Portal
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 Med Dynamics 365 Portal kan organisationer nemt udvide objekter, egenskaber og funktioner i Dynamics 365 til at gælde eksterne målgrupper som kunder og partnere. 
 

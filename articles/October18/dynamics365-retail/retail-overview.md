@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-dynamics-365-for-retail-october-18-release"></a>Oversigt over Dynamics 365 for Retail-produktfrigivelsen fra oktober 2018
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dynamics 365 for Retail-produktfrigivelsen fra oktober 2018 omfatter følgende temaer: 

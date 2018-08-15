@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="powerapps-sample-app"></a>PowerApps-eksempelapp
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 Vi leverer en PowerApps-standardeksempelapp til URS, som kan interagere med søge-API for ressourcetilgængelighed og returnere oplysninger for at oprette en reservation.
 

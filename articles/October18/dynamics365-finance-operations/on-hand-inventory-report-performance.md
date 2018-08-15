@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="on-hand-inventory-report-performance"></a>Resultat af rapportering om disponibel lagerbeholdning
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 For kunder med store produkt- og transaktionsmængder kan det være en udfordring at sikre prompte oplysninger om lagerbeholdning, fordi det aktuelle design kræver betydelig behandling i realtid. Omstrukturering af beregnings- og rapporteringsmetoden for lagerbeholdninger gør det muligt at få en oplevelse, der er langt hurtigere.
 

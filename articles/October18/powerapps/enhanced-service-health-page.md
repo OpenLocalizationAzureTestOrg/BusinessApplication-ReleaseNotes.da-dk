@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="enhanced-service-health-page"></a>Forbedret Service Health-side
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Alle kan se tjenesten på et højt niveau, og Administration viser detaljerede oplysninger om kundens ressourcer.
 

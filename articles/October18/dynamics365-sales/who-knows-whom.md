@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="get-introduced-to-prospects-with-the-who-knows-whom-connection-graph"></a>Få en introduktion til kundeemner med Hvem kender hvem-forbindelsesgrafen
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 En sælgers formål er at indgå flere handler for at opfylde eller overgå sin kvote.  Med Hvem kender hvem kan sælgerne nemt identificere kolleger i deres organisation, som kan introducere dem til kundeemner eller kontakter.  Varme introduktioner øger svarprocenten og interessen med hundredvis af procent.  Disse varme introduktioner øger salgsresultaterne og forbedrer konverteringsprocenten af kundeemne til salgsmulighed, som senere afslutter handelen.  Hvem kender hvem gør det muligt for sælgerne at øge salgskonverteringen ved at udnytte deres firmanetværk til at blive introduceret til kundeemner og konvertere et telefonsalg til et varmt engagement.

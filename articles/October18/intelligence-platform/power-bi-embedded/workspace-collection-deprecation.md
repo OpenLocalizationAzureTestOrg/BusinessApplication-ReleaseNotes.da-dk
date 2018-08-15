@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="workspace-collections-deprecation"></a>Udfasning af Workspace Collections
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Tjenesten Power BI Workspace Collections vil nu udgå. Du kan nu integrere flere Power BI-funktioner i dine apps ved hjælp af Power BI Embedded. Fra og med 30. juni 2018 kan visuelle elementer, der er integreret ved hjælp af Power BI Workspace Collections, ikke længere ses i dine apps. Programdata vil være tilgængelige i tjenesten Power BI Workspace Collections i seks måneder. Med overflytningen til Power BI Embedded kan brugerne af dine apps stadig kunne se integrerede visuelle elementer, og du kan fortsat få adgang til dine data. Eventuelle Power BI Workspace Collections-kunder med EA, der er signeret inden 30. juni 2017, vil ophøre på samme dato, som deres EA udløber.
 

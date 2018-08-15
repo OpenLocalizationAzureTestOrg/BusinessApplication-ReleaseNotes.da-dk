@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="improved-extensibility"></a>Forbedrede udvidelsesmuligheder 
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Der er tilføjet flere brugergrænseflade- og API-udvidelsesmuligheder til Retail Headquarters, POS (Retail Modern POS) og Cloud POS og Commerce run-time (CRT), så miljøer med tilpasning nemt kan vedligeholdes og opdateres, uden at det påvirker kerneprogrammet.
 

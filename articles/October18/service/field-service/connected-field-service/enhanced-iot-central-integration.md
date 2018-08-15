@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="cfs---integration-with-iot-central"></a>CFS – Integration med IoT Central
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 I den første fase af integrationen foregår integrationsløsningen primært via Microsoft Flow. Dette er en envejskommunikation fra IoT Central til Connected Field Service. IoT Central overvåger eksterne enheder, og alle mål, der overskrider de tærskelværdier, der er defineret i IoT Central, udløser en handling, der starter en advarsel i CFS. Field Service-chefer kan gruppere disse advarselsbeskeder efter kriterier, f.eks. kundeaktiv og hændelsestype.
 

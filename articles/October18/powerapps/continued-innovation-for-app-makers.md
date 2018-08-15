@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="capabilities-for-app-creators"></a>Funktioner for appudviklere
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Som en opfølgning på produktfrigivelsen fra april 2018 er oplevelsen med at udvikle modelbaserede og lærred-apps samt Common Data Service til apps blevet betydeligt opdateret. Disse opdateringer aktiverer en lang række brugsmønstre for produktivitetsapps gennem Office 365 samt tilpasning og udvikling af forretningsapps med Dynamics 365.
 

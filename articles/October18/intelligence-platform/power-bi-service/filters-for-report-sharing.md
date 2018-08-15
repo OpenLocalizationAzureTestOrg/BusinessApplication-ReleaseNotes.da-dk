@@ -20,6 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="filters-for-report-sharing"></a>Filtre til rapportdeling
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
 Når du deler en rapport, bruges de aktuelt anvendte filtre i en rapport, så du kan oprette personligt tilpassede visninger, der er skræddersyet til forskellige målgrupper.
 
 Skærmbilledet nedenfor viser f.eks., hvordan en bruger kan vælge at dele ved hjælp af de aktuelle rapportfiltre.

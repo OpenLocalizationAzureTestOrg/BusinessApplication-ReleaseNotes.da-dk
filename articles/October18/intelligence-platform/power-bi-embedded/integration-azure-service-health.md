@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="power-bi-embedded-integration-with-azure-service-health"></a>Power BI Embedded-integration med Azure Service Health 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Vi tilføjer muligheden for at bruge Azure Service Health til at spore tilgængeligheden af Power BI Embedded-ressourcer. Når problemer i Azure-tjenester påvirker dine vigtige ressourcer, giver Azure Service Health dig og dine teams besked. Det hjælper dig med at forstå konsekvenserne af problemet og holder dig opdateret, mens problemet løses. Det hjælper dig også med at forberede planlagt vedligeholdelse og ændringer, der kan påvirke tilgængeligheden af ressourcer. 
 

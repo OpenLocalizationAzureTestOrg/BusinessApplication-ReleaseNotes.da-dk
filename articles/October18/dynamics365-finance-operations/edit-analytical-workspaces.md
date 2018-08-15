@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="edit-analytical-workspaces-in-the-client"></a>Redigere analysearbejdsområder i klienten
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Slutbrugerne kan selv ændre færdige analysearbejdsområder (herunder økonomiske rapporter) uden at skulle forlade klienten eller hyre udviklere. Denne funktion gælder alle foruddefinerede økonomiske rapporter samt alle andre rapporter i analysearbejdsområder.
 

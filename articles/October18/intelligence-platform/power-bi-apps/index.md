@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="power-bi-apps"></a>Power BI-apps
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI-apps gør det muligt for Power BI-partnere at bygge Power BI-apps uden brug af kode eller med lav kodning og udgive dem i AppSource til brug for alle Power BI-kunder. Platformen kan hjælpe vores partnere med at opbygge, markedsføre, sælge og udvikle deres virksomhed hurtigere.
 

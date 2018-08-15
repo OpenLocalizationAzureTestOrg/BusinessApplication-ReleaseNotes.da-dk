@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-desktop"></a>Power BI Desktop
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI Desktop leverer løbende nye funktioner til brugerne. Et stærkt fokus på de grundlæggende funktioner har åbnet for nye scenarier for store virksomheder – herunder nemmere adgang til rapportering og fortsat investering i forbedringer af SAP-forbindelsen.
 

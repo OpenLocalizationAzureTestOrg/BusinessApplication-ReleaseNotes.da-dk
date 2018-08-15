@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="scheduled-guide-send"></a>Planlagt afsendelse af vejledning
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Send automatisk guider til nyansatte før, på eller efter deres startdato med et enkelt klik. Reducer gnidninger for administratorer ved at sikre, at alle guider sendes.
 

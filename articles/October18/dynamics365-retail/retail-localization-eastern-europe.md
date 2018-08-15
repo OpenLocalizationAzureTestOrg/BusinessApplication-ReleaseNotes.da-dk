@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="retail-localizations-for-eastern-europe"></a>Retail-lokaliseringer til Østeuropa
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
+
 
 
 Microsoft Dynamics 365 for Retail understøtter nu obligatorisk overholdelse af lovgivningsmæssige krav i Retail-området for seks østeuropæiske lande: Tjekkiet, Estland, Ungarn, Letland, Litauen og Polen. De lokale funktioner omfatter behandling af kontantbetalinger i regnskaber i henhold til lokale lovbestemmeler, der som standard benytter salgsdatoer i Retail--fakturaer, erstatning af momsgrupper i Retail--returneringstransaktioner, nummerering af Retail-fakturaer og behandling af fremskudte fakturaer for indbetaling af kundeordrer. Lokaliseringen af call center-funktionerne for disse lande vil være tilgængelig i nyere opdateringer. 

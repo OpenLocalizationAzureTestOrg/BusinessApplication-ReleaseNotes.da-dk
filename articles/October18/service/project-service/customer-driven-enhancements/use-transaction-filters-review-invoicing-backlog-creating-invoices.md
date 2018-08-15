@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="use-transaction-filters-to-review-invoicing-backlog-when-creating-invoices"></a>Bruge transaktionsfiltre til at gennemgå fakturering af ordrebeholdning under oprettelse af fakturaer 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service opretter fakturaer ud fra alle ikke-fakturerede faktiske salgstal, der er registreret på et projekt. Denne funktion vil introducere en visning, hvor du kan filtrere faktiske tal ved hjælp af de indbyggede XRM-filterfunktioner og markere de transaktioner, der er klar til fakturering. Det giver projektledere bedre styring af, hvad kunden skal faktureres for i hver periode.
 

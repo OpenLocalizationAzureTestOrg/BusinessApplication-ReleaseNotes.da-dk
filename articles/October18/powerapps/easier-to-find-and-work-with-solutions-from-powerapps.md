@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easier-to-find-and-work-with-solutions-from-powerapps"></a>Lettere finde og arbejde med løsninger fra PowerApps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Du kan lettere arbejdere med løsninger ved at bruge løsningslisten i PowerApps. Du kan finde den løsning, du har brug for, åbne den og søge efter en løsningskomponent i løsningsoversigten. Du behøver ikke at få adgang til den klassiske løsningsoversigt for at administrere komponenterne i en løsning.
 

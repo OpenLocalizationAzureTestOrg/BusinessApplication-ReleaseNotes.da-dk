@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="accessibility-support-for-custom-visuals"></a>Tilgængelighedsunderstøttelse af brugerdefinerede visualiseringer
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Brugerdefineret visualiseringer understøtter stor kontrast og tastaturnavigation med henblik på tilgængelighed gennem tilføjelse af understøttelse af brugerdefinerede visualiseringer [farvetemaer](https://docs.microsoft.com/power-bi/desktop-report-themes).
 

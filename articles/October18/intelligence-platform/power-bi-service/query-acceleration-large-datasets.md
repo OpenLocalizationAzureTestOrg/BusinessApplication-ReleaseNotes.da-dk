@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="query-acceleration-for-large-datasets-public-preview"></a>Acceleration af forespørgsler til store datasæt (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Brugerne kan oprette [DirectQuery](https://docs.microsoft.com/power-bi/desktop-directquery-about)-modeller over datakilder af enhver størrelse, f.eks. Spark og Azure SQL Data Warehouse, og derefter fremskynde almindelige forespørgsler ved at oprette aggregeringer over nogle af dataene i hukommelsen. Almindelige forespørgsler bruger den aggregerede cache til at returnere resultater i et brøkdel af et sekund i stedet for direkte forespørgsler til kilden. Brugerne kan oprette datasæt af omfattende størrelse og stadig benytte interaktive forespørgsler.
 

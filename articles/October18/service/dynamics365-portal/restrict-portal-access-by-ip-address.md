@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="restrict-portal-access-by-ip-address"></a>Begrænse portaladgang efter IP-adresse
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 Sikkerhed er yderst vigtigt for programmer, og det er endnu mere afgørende for et eksternt orienteret program som f.eks. Dynamics 365 Portal. Som en del af denne frigivelse tilføjer vi muligheder, så kunderne kan begrænse adgangen til deres portaler fra visse IP-adresser. Det gør det nemmere for organisationer, der har brug for at begrænse deres portaler fra faste lokationer på samme måde som interne firmanetværk. Desuden hjælper det kunder, der er i udviklingsfasen og ønsker at sikre, at deres data ikke bliver lækket på grund af en forkert konfiguration.

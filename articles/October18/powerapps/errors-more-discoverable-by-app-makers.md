@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="errors-more-discoverable-by-app-makers"></a>Lettere for appudviklere at finde fejl
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Fejlfindingsværktøjet hjælper udviklere med at finde fejl i deres apps ved at give dem en samlet liste over identificerede problemer i hele programmet. Appudviklere kan gå direkte fra listen over fejl til skærmen og tjekke, hvor fejlen er. Listen over fejl indeholder detaljerede oplysninger om fejlen, og hvordan den kan rettes, samt links til ekstra ressourcer.
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="build-model-driven-apps-of-higher-quality-with-solution-checker"></a>Oprette modelbaserede apps i en højere kvalitet med løsningskontrol
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Løsningskontrol gør det muligt at oprette modelbaserede apps i en højere kvalitet ved at hjælpe appudviklere med at følge bedste praksis, når de tilpasser og udvider PowerApps-platformen. Ved at køre kontrollen kan appudviklere besvare spørgsmål som:
 

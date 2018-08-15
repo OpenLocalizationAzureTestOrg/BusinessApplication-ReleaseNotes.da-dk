@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-powerapps-authoring-for-makers-of-all-abilities"></a>Forbedret PowerApps-oprettelse for udviklere på alle niveauer
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Integrerede oprettelsesoplevelser på PowerApps.com overholder Microsofts standarder for tilgængelighed, hvilket gør flere personer i stand til at oprette apps og giver appudviklere mulighed for at oprette apps mere effektivt.
 

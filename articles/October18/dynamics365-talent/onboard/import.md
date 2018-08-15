@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="import"></a>Import
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Ansættelseschefer kan importere indhold fra andre vejledninger eller skabeloner for at sikre, at det nyeste indhold altid afspejles. Det hjælper deres nyansatte med at komme hurtigt i gang og gør det nemmere at medtage det nyeste indhold fra deres leder eller afdelingsleder.
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="dual-currency"></a>Dobbelt valuta
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Rapporteringsvalutaen får nyt formål som en anden faktisk regnskabsvaluta. Rapporteringsvalutaen skal fortsat beregnes for alle transaktioner, der bogføres i finans.  Nogle finansprocesser udvides, og der tilføjes en ny kladde, der kan bruges til at bogføre posteringer i rapporteringsvalutaen. For forskellige reskontrokladder, f.eks. anlægsaktiver, sker der større ændringer. For anlægsaktiver begynder vi at vedligeholde alle posteringer i reskontrokladden til rapporteringsvalutaen. Når du kører afskrivning, afskrives beløb i rapporteringsvalutaen ved hjælp af afskrivningsmetoderne, ligesom med regnskabsvalutaen. Andre berørte reskontrokladdemoduler er Kreditorer, Debitorer og Likviditetsstyring.
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="upgrade-automation"></a>Automatisering af opgradering
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Hvis du er en kunde, der kører Dynamics 365 for Finance and Operations, Enterprise edition, vil du kunne anvende en overordnet versionsopgradering (f.eks. 7.1 til 7.2) uden at involvere Microsofts driftsteam.
 Organiseringen af opgraderingstrin, herunder udarbejdelse af et stadieinddelt område, opgradering af data og anvendelse af nye versioner, udføres via en automatiseret proces. Microsofts driftsteam er klar på standby-basis for at hjælpe med forespørgsler eller undtagelser, men du kan planlægge og udføre hele processen med minimal nedetid, og som det passer dig.

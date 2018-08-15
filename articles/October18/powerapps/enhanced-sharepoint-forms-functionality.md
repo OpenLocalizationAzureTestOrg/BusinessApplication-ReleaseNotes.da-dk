@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="enhanced-sharepoint-forms-functionality"></a>Forbedret funktionalitet for SharePoint-formularer
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Formularer tilpasset med PowerApps i SharePoint er nu lettere at oprette, og deres udseende er forbedret. Med temaindstillinger kan du få brugerdefinerede formularer til at fremstå, som om de hører til i SharePoint. Med PowerApps er det nemmere at designe, uploade billeder og redigere RTF samt dokumentbiblioteker, overlappende rullemenuer og synlighed af betingede felter. Gæster på dit websted kan også bruge brugerdefinerede formularer.
 

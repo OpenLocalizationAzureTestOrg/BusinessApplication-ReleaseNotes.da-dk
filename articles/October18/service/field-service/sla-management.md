@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="sla-management"></a>SLA-administration
 
+[!include[field-service banner](../../includes/field-service.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Field Service har også muliggjort, at funktionen for serviceaftale (SLA) kan oprette SLA'er for kunder og udfylde SLA-detaljer i arbejdsordrer. Det betyder, at de planlægningsfunktionen kan medtage rammeaftaler, der er baseret på SLA'er.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="consolidation-of-planned-orders-during-parallel-firming"></a>Konsolidering af planlagte ordrer under parallel autorisation
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Varedisponering udvides til at understøtte konsolidering af planlagte ordrer – f.eks. efter en leverandør – når den automatiske autorisation af ordrer er konfigureret til at køre parallelt med flere tråde.
 

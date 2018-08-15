@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="integration-with-dynamics-365-for-field-service--inventory-and-projects"></a>Integration med Dynamics 365 for Field Service – lager og projekter
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Integration med CDS-dataintegration tilføjes for at understøtte scenarier, hvor Field Service-aktiviteter udføres uden for Dynamics 365 for Finance and Operations.
 

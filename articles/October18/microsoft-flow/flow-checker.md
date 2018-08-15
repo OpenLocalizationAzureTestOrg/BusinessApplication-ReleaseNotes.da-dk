@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-checker"></a>Flowkontrol
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Funktionen **Flowkontrol** kan hjælpe dig, mens du bygger dine flows. Funktionen kontrollerer for fejl i designfasen og søger også efter eventuelle fejl, der kan være opstået under tidligere kørsler. 
 

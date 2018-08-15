@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="microsoft-bot-framework-integration"></a>Integration med Microsoft Bot Framework
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Det meste tekniske servicearbejde omfatter en række trin, der gentages i ethvert givent job: opdatere status for en arbejdsordre til rejser, åbne instruktionerne til en arbejdsordre, se på serviceopgaverne til en arbejdsordre osv. Disse opgaver kan strømlines via samtaleoplevelser, der endda kan være automatiserede, i stedet for at teknikere skal klikke i et mobilprogram. 
 

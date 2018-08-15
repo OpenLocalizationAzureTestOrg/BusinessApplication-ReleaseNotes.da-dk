@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="consistent-validation-actions"></a>Ensartede valideringshandlinger
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Valideringen for kladder vil blive forbedret for at kontrollere for nøjagtigt samme valideringer, som foretages på bogføringstidspunktet.

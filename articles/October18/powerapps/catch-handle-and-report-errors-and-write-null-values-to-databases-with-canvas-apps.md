@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps"></a>Identificere, håndtere og rapportere fejl og skrive Null-værdier til databaser med lærred-apps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Der vil opstå fejl.  Lærred-apps har standardindstillinger, der anvendes, når fejl opstår, men det er ikke nødvendigvis de indstillinger, du vil bruge.  Med denne funktion kan du identificere, søge efter oplysninger om, udløse, undertrykke, logge og give besked om fejl til dine brugere.
 

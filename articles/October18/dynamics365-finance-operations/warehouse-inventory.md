@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 
 # <a name="general-enhancements-in-operations-functionality"></a>Generelle forbedringer i driftsfunktionalitet
-[!include[banner](../../includes/banner.md)]
+
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
 
 Denne frigivelse inkluderer forbedringer af lagerstedområdet, herunder:
 

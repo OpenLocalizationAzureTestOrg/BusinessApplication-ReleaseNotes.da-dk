@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="custom-visual-support-for-bookmarks"></a>Understøttelse af brugerdefineret visualisering til bogmærker
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Brugerdefinerede visualiseringer understøtter funktionen [Bogmærke](https://docs.microsoft.com/power-bi/desktop-bookmarks) i Power BI. Udviklere kan tilføje kode i de brugerdefinerede visualiseringer for at håndtere oprettelse og hentning af bogmærker.
 

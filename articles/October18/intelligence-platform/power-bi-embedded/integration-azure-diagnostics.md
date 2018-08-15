@@ -20,10 +20,12 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="power-bi-embedded-integration-with-azure-diagnostics"></a>Power BI Embedded-integration med Azure Diagnostics 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Vi integrerer Power BI Embedded med Azure Diagnostics for at aktivere diagnosticering af Power BI Embedded sammen med andre Azure-ressourcer, der bruges af programmet. Azure Diagnostics er den funktion i Azure, der gør det muligt at indsamle data til diagnosticering i et installeret program. Udvidelsen til Azure Diagnostics kan overføre disse data til en Azure-lagerkonto eller sende dem til tjenester som Application Insights. Dataene kan bruges til fejlfinding i forbindelse med måling af ydeevne, overvågning af ressourceforbrug, trafikanalyse og kapacitetsplanlægning og overvågning. 
 

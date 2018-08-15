@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="self-service-data-prep-with-dataflows"></a>Selvbetjening af dataforberedelse med dataflows 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI introducerer dataflows, så organisationer kan samle data fra forskellige kilder og forberede dem til modellering. Analytikere kan nemt oprette dataflows ved hjælp af velkendte selvbetjeningsværktøjer. Dataflows bruges til at indtage, transformere, integrere og forbedre big data ved at definere datakildeforbindelser, ETL-logik, opdateringsplaner og meget mere. Data gemmes som enheder i Common Data Model-kompatible mapper i Azure Data Lake Storage Gen2. Dataflows oprettes og administreres i apparbejdsområder ved hjælp af Power BI-tjenesten.   
 

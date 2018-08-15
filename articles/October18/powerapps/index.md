@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="overview-of-microsoft-powerapps-october-18-release"></a>Oversigt over Microsoft PowerApps-produktfrigivelsen fra oktober 2018
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 PowerApps er en tjeneste, som du kan bruge til at oprette forretningsapps, der kører i en browser eller på en telefon eller tablet, og som ikke kræver erfaring med koder. Brug dokumentationen til PowerApps [dokumentation](https://docs.microsoft.com/powerapps/) til at få oplysninger fra brancheeksperter og de svar, du behøver, uanset hvordan du bruger PowerApps.

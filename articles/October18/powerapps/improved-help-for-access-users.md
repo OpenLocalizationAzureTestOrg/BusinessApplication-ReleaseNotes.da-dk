@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-help-for-access-users"></a>Forbedret hjælp til Access-brugere
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Access-brugere kan lære mere om, hvordan de kan bruge PowerApps til at udvikle mobil- og webapps, der har forbindelse til over 200 datakilder. Disse brugere kan modtage relevant mailindhold for at holde sig opdateret om nyskabelser i PowerApps samt få adgang til hvidbøger, casestudier og eksempelapps, som gør det lettere at forstå de kombinerede funktioner i Access og PowerApps.
 

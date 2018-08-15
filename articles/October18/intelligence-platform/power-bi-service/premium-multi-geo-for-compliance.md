@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="multi-geo-for-compliance-public-preview"></a>Multi-Geo til overholdelse (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI lagrer i dag data for en organisation i et enkelt geografisk område. For mange kunder, især multinationale selskaber, har de forskellige datterselskaber eller afdelinger bestemte krav til dataopbevaring i henhold til lokale love eller kontraktmæssige krav til deres egne kunder.
 

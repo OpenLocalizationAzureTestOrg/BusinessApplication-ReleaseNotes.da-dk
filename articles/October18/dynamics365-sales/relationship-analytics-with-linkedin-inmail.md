@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="relationship-analytics-now-with-linkedin-inmail"></a>Relationsanalyser nu med LinkedIn InMail
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Relationsanalyser er nu endnu smartere med LinkedIn InMail. Relationsanalyser kan hjælpe sælgere med at administrere salgsmulighedernes pipeline ved at analysere interaktioner for at syntetisere tilstanden af kunderelationer.  Ved at kombinere engagementsdataene fra Dynamics 365, Exchange Online og LinkedIn InMail kan relationsanalyser give en mere nøjagtig visning af salgshandlers tilstand i pipelinen for salgsmuligheder. It-medarbejdere kan drage fordel af en holistisk analyse af deres engagementer på tværs af flere kanaler og kan udnytte den beregnede tilstandsscore til at forbedre salgseffektiviteten via bedre prioritering af deres tidsforbrug på de handler, der kræver mest opmærksomhed.

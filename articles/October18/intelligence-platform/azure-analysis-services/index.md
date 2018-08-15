@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="azure-analysis-services"></a>Azure Analysis Services
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Azure Analysis Services giver adgang til det gennemprøvede analyseprogram i SQL Server Analysis Services som en komplet styret værtstjeneste. 
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="customer-service-admin-settings"></a>Customer Service-administratorindstillinger 
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Et af de vigtigste mål for Dynamics 365-kunder er en hurtig udrulning af deres forretningsprocesser. Modulet Servicestyring hjælper kundeservicechefer med at automatisere forskellige kundeserviceprocesser, reducerer den tid, Helpdesk medarbejderne bruger på opgaveløsning, og giver større kundetilfredshed. Med Servicestyring får administratorer mulighed for at konfigurere og administrere kundeserviceopgaver, f.eks. konfiguration af offentlige og private køer, konfiguration af indstillinger for overordnede-underordnede sager, konfiguration af ruteregler, konfiguration af automatisk oprettelse af poster og opdateringsregler samt konfiguration af serviceaftaler (SLA'er) og andre funktioner.
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="powerapps-supports-intune"></a>PowerApps understøtter Intune
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Apps i PowerApps på Android og iOS er nu integreret med Intune og understøtter Intune-politikker for administration af mobilapps, hvilket giver kunderne mulighed for at have bedre styring og sikkerhed med deres data.
 

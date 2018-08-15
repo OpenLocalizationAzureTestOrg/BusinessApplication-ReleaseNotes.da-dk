@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-designer-enhancements"></a>Forbedringer af flowdesigner
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 En ny, omfattende HTML-baseret teksteditor hjælper dig med at skrive HTML-baserede mails, HTML-indhold til dine Yammer-indlæg, tweets og meget mere.
 

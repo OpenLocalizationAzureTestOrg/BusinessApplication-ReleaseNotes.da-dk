@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="deeper-powerapps-integration-in-power-bi"></a>Dybere PowerApps-integration i Power BI
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 BI-udviklere kan bruge PowerApps i deres Power BI-rapporter i produktionsløsninger. Rapportudviklere kan opdatere deres Power BI-rapporter fra PowerApps, og derved kan de udføre transaktioner på deres datalagersteder i rapporter på flere måder.  BI-udviklere har også gjort delingsindstillinger mere simple med deres apps og rapporter.
 

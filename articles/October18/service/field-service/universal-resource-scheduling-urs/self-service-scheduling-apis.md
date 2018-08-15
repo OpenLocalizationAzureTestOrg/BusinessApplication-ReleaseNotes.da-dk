@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="self-service-scheduling-apis"></a>Planlægnings-API'er til selvbetjening
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Planlægnings-API'erne til selvbetjening i Universal Resource Scheduling giver organisationer mulighed for at integrere en planlægnings-widget i deres eget webprogram, så deres kunder kan søge efter ledige tidspunkter og indgå aftaler. Vi har naturligvis formål med opbygningen af denne widget, men det primære fokus er udstyre vores partneres og kunders økosystemer med API'erne, så de kan oprette deres egne visuals.
 

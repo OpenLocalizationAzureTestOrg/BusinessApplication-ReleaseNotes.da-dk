@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="performance-improvements"></a>Forbedringer af ydeevnen
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Indlæsningstider for brugerdefinerede visualiseringer, både enkelte og flere visualiseringer, bliver nu i samme størrelsesorden som kernevisualiseringer.
 

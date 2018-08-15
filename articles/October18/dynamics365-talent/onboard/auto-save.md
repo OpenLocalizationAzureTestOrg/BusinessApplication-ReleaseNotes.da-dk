@@ -20,9 +20,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="auto-save"></a>Automatisk lagring
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 Du behøver ikke at tænke på at gemme eller miste dit arbejde igen. Dine onboardingvejledninger og skabeloner bliver gemt automatisk, når du arbejder.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="upgraded-workspaces-public-preview"></a>Opgraderede arbejdsområder (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Fjern begrænsninger fra arbejdsområder ved at fjerne tilknytningen til Office 365 Grupper og dele data via sikkerhedsgrupper. Vi vil tilføje understøttelse af alle eksisterende API'er til arbejde med arbejdsområder samt grupper af hensyn til bagudkompatibiliteten. Dette arbejde vil gøre overgangen problemfri og gennemskuelig for udviklere.
 

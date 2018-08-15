@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="model-driven-view-designer-enhancements"></a>Forbedringer af modelbaseret visningsdesigner
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 En forbedret visningsdesigner med PowerApps giver apptilpassere mulighed for at gennemse ændringerne direkte, mens de anvender avanceret filtrerings- og sorteringslogik. Derudover har vi tilføjet forenklet sortering og sortering via kolonneoverskrifter som i SharePoint og Excel, så du hurtigere kan få den visning, du ønsker.
 

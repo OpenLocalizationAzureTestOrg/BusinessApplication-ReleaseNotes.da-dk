@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="dynamics-365-for-talent-onboard"></a>Dynamics 365 for Talent: Onboard
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Afhængigt af kundefeedback er Onboard blevet forbedret med funktioner til samarbejde, så flere brugere kan oprette og implementere onboardingoplevelser. Onboard indeholder nu også arbejdsprocesser til oprettelse af skabeloner for at muliggøre udrulning af skabelonopdateringer til alle forekomster, der er instantieret fra skabelonen.
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="leverage-device-signals-on-mobile-devices"></a>Udnyttelse af enhedssignaler på mobilenheder
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Som [denne ide](https://powerusers.microsoft.com/t5/Flow-Ideas/Microsoft-Forms-Trigger-Geo-Fencing/idi-p/69825) viser, kan kunder nu bruge deres placering som forbindelse. Funktionen gør det muligt for brugerne at udarbejde et placeringsområde, der udløser en proces, når en mobilenhed bringes ind i eller ud af det. Det betyder, at visse flows udføres automatisk, uden at det kræver brugeraktivering, hvilket yderligere øger mobilprogrammets effektivitet.
 

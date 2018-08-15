@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="microsoft-dynamics-365-for-finance-and-operations---regulatory-services-configuration-service"></a>Microsoft Dynamics 365 for Finance and Operations – Lovpligtige tjenester, Konfigurationstjeneste 
 
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Konfigurationstjenesten Microsoft Dynamics 365 for Finance and Operations - Lovpligtige tjenester er udviklingen af det lovpligtige konfigurationsværktøj (også kaldet Elektronisk rapportering). Med konfigurationstjenesten kan partnere og kunder, der bruger flere versioner af Microsoft Dynamics 365 for Finance and Operations og tidligere versioner af Microsoft Dynamics AX (f.eks. AX 2012 og AX 2009 for Indien), konfigurere lovpligtige funktioner én gang og bruge én fælles tjeneste. Konfigurationstjenesten er baseret på programmering uden kode, hvilket giver superbrugere mulighed for at konfigurere krav, der ændres ofte, til lovpligtige rapporter, e-fakturaer, betalingsformater og momsregler i stedet for at skrive kode i flere programmer. 
 

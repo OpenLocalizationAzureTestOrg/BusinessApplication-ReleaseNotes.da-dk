@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="manage-sharepoint-documents"></a>Styre SharePoint-dokumenter
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 Denne funktion udvider dokumentstyringsfunktionerne i Dynamics 365-programmer til portaler for at give en ensartet oplevelse, hvor kunderne kan udnytte deres eksisterende investering i SharePoint sammen med Dynamics 365 til dokumentstyring.

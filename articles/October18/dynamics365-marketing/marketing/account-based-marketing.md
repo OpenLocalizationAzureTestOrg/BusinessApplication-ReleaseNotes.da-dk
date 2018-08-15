@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="account-based-marketing"></a>Firmabaseret marketing
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Med firmabaseret marketing kan B2B-marketingmedarbejdere (business-to-business) målrette deres arbejde i Dynamics 365 for Marketing og behandle hver enkelt forretningskonto som én enhed. På denne måde kan de skabe øget integration og justering mellem salgs- og marketingafdelinger.
 

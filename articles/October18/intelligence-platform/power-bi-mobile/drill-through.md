@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="drillthrough"></a>Detaljeadgang
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Med denne funktion kan brugerne få detaljeadgang til en anden rapportside med tilsvarende filterkontekst, som indeholder flere detaljerede oplysninger. 
 

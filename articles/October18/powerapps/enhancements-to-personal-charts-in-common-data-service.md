@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="end-users-can-create-charts-and-share-them-with-other-users-and-teams"></a>Slutbrugere kan oprette diagrammer og dele dem med andre brugere og teams
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Opret personlige diagrammer for at visualisere data i realtid. Du kan dele disse diagrammer med andre brugere og teams i din organisation. Disse diagrammer kan i høj grad tilpasses – du kan tilføje flere serier, og du kan vælge mellem en række visualiseringer og aggregeringer.
 

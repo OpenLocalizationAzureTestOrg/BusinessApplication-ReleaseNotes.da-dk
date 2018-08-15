@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="paginated-reports-in-power-bi-public-preview"></a>Sideinddelte rapporter i Power BI (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Publicer SQL Server Reporting Services-rapporter (SSRS) (\*.rdl-format) til et Power BI Premium-arbejdsområde, og få vist rapporter i Power BI-webappen. Rapporterne kan deles eller publiceres som en del af Power BI-apps.
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="troubleshoot-document-routing-agent"></a>Fejlfinding af dokumentruteagent
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Dokumentruteagenten bruges til at administrere store udskriftsjob, der sendes til lokale printere. Fejlfinding af problemer i forbindelse med udskrivning er nu blevet nemmere. Med omfattende fejlrapportering og diagnosticering kan it-administratorer opdage og rette fejl uden at skulle kontakte Support.
 

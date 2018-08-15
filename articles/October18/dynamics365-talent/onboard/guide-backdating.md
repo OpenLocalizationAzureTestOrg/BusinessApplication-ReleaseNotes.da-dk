@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="guide-backdating"></a>Tilbagedatering af vejledning
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Opret onboardingvejledninger til nyansatte, der har en startdato i fortiden. 
 

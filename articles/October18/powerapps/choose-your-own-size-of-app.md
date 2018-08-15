@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="choose-your-own-size-of-app"></a>Vælge din egen appstørrelse
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Når du opretter eller opdaterer en lærred-app, kan du nemt tilpasse dens bredde og højde. Du kan for eksempel konfigurere en app til brug på 4K-monitorer eller integreret i en række programmer i Office- og Dynamics-produkter.
 

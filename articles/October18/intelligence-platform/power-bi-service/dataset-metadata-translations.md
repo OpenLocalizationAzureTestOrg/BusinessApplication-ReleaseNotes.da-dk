@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="dataset-metadata-translations"></a>Oversættelser af metadata for datasæt
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI-brugere kan se datasætfelter på deres klients landestandard eller sprog, når oversættelser er defineret i datasættet eller Analysis Services-modellen.
 

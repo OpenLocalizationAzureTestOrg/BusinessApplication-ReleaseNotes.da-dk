@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-power-bi-reports-using-data-in-common-data-service-for-apps"></a>Oprette Power BI-rapporter ved hjælp af data i Common Data Service til apps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Power BI er et særdeles effektivt værktøj til visualisering og rapportering af data. Med connectoren til Power BI kan appudviklere oprette direkte forbindelse til deres miljø, navigere blandt relationer og opbygge overbevisende rapporter og dashboards ud fra deres data.
 

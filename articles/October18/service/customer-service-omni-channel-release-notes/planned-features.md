@@ -21,7 +21,7 @@ ms.lasthandoff: 07/27/2018
 #  <a name="summary-of-whats-new-for-dynamics-365-omni-channel-engagement-hub"></a>Oversigt over nyheder i Dynamics 365 Omni-channel Engagement Hub
 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 
 

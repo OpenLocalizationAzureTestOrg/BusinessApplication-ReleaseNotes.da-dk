@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="consuming-reports-with-shared-filters-bookmarks"></a>Forbrug af rapporter med delte filtre (bogmærker)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Deling af indsigt kræver undertiden, at brugerne kan se og dele rapportdata, der er filtreret på en bestemt måde, som viser indsigt. I dag kan brugere kun dele rapporter med en standardtilstand, som defineret af rapportens forfatter. Med bogmærker kan brugerne dele en filtreret (og/eller opdelt) rapport i en anden tilstand, som giver bedre samarbejde om data, der kræver brugerens opmærksomhed. 
 

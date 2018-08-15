@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="sync-specific-appointments-to-exchange"></a>Synkronisere specifikke aftaler med Exchange
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Slutbrugere kan oprette aftaler i Dynamics 365 og gemme dem som kladder uden at synkronisere med Exchange.
 

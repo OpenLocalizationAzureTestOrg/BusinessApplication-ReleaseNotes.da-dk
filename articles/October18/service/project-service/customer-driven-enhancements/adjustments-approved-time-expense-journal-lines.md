@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="adjustments-to-approved-time-expense-and-journal-lines"></a>Reguleringer af godkendte tids-, udgifts- og kladdelinjer 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Denne funktion giver projektadministratorer en tiltrængt mulighed for at foretage ændringer af godkendte tids- og udgiftsposter. De fleste projektbaserede virksomheder bruger midlertidige koder til projekter, opgaver og andre attributter som f.eks. arbejdskategorier og overlader det til konsulenter at logge tid ud fra disse mellemliggende referencer, indtil de permanente koder er oprettet i systemet. 
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="unit-aware-expense-category-pricing-for-setup-estimation-and-actuals"></a>Enhedsbaseret prissætning for udgiftskategori til konfiguration, forkalkulation og faktiske tal 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Med denne funktion vil Project Service understøtte en enhedsbaseret prissætningsmetode for udgiftskategorier. Dette vil muliggøre scenarier som følgende:
 

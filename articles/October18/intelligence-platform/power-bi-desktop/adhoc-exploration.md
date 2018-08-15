@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="ad-hoc-exploration-public-preview"></a>Ad hoc-udforskning (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Mange rapport- eller dashboardbrugere har opfølgende spørgsmål til de visuals, de kan se. De har brug for hurtigt at kunne se et diagram langs en anden akse, i et andet format eller med et nyt anvendt filter. Ad hoc-udforskningsområdet giver denne bruger den nødvendige fleksibilitet til, at han eller hun kan besvare disse spørgsmål uden at blive overvældet med den fulde rapportudarbejdelsesoplevelse og uden at skulle have redigeringstilladelse til rapporten. 
 

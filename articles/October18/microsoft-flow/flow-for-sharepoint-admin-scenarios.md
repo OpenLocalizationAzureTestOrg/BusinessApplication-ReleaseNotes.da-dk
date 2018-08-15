@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-for-sharepoint-admin-scenarios"></a>Flow for SharePoint-administrationsscenarier
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Som det fremgår af [denne ide](https://powerusers.microsoft.com/t5/Flow-Ideas/Approval-of-SharePoint-Site-getting-joined-with-a-Hub-Site/idi-p/122808), bliver ejere af websteder bedt om at oprette og køre en godkendelsesproces, når de vil oprette forbindelse til et hubwebsted i deres lejer.  Desuden kan brugere i organisationer, der har deaktiveret selvbtjeningsoprettelse af websteder, nu anmode om, at et websted bliver klargjort, hvilket starter en anmodning til SharePoint-administratorer før klargøringen. 
 

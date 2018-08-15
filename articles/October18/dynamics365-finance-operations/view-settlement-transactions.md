@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="productivity-to-view-settlement-transactions"></a>Produktivitet for visning af udligningsposteringer
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Opnå forbedret visning af udligninger ved at få vist alle transaktioner, der er relateret til en udligning. Vedligehold flere faner, så brugerne kan se den oprindelige kontekst af transaktionen, de udlignede poster og de relaterede bilag på en enkelt formular. Denne forbedring vil fritage brugerne for besværet med at have flere åbne formularer for at kunne se de korrelerede oplysninger.

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="assignee-placeholders"></a>Pladsholdere for modtagere
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Skabeloner på afdelingsniveau gøres så generelle som muligt, så de kan genbruges mest muligt. Forfaldsdatoer angives f.eks. i forhold til den nyansattes startdato (f.eks. to uger efter startdatoen). Der kan også på samme måde anvendes generaliseringer for modtagerne ved at lade opgaver, der skal tildeles til en pladsholder, blive tilknyttet ved kørslen.
 

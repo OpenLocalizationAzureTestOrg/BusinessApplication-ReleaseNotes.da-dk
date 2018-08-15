@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easier-to-configure-cascading-dropdowns-and-conditional-field-visibility"></a>Lettere konfigurering af overlappende rullemenuer og synlighed af betinget felt
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Med forbedringer, der gør sortering og filtrering af data nemmere, kan tilpassere af SharePoint-formularer nu bedre fuldføre sofistikerede formularer som f.eks. overlappende rullemenuer og vise eller skjule felter ud fra forhold. Udviklere kan bruge en brugergrænseflade til at fuldføre disse eksempler eller fortsætte med at skrive formularer.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dataflow-refresh-public-preview"></a>Opdatering af dataflows (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI understøtter funktioner til opdatering af avancerede dataflows, herunder opdatering af trinvise dataflows, med henblik på at strømline og gøre dataflowopdateringen hurtigere og understøtte inkorporering af større datasæt. Kræver Power BI Premium.
 

@@ -20,9 +20,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="undo-redo"></a>Fortryd/Annuller Fortryd
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 
 Du kan hurtigt fortryde og gendanne ændringer, mens du arbejder med skabeloner eller vejledninger. Undgå problemer for administratorer ved at gøre det nemmere at rette fejl.

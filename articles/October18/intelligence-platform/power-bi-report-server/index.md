@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-report-server"></a>Power BI-rapportserver
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Med Power BI-rapportserver kan kunder opfylde deres egne styrings- og installationskrav og samtidig få fordelen af moderne Power BI-rapporter. I opdateringen til Power BI-rapportserver fra oktober 2018 kan kunderne udnytte de mange funktioner, der er frigivet i Power BI Desktop i de foregående måneder, herunder detaljeadgang til målinger og betinget formatering, der er baseret på en anden kolonne. 
 

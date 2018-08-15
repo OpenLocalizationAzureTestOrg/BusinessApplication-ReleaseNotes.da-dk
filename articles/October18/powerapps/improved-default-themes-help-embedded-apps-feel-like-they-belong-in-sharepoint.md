@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-default-themes-help-embedded-apps-look-like-they-belong-in-sharepoint"></a>Forbedrede standardtemaer får integrerede apps til at se ud, som om de hører til i SharePoint
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Appudviklere kan anvende alle otte Office-temaer til deres lærred-apps og formularer. Disse nye temaer forbedrer integrerede scenarier i SharePoint ved at tilpasse dem til standardtemaerne i SharePoint.
 

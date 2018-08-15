@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="be-more-productive-with-quick-actions"></a>Vær mere produktiv med hurtige handlinger
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Få intelligensindsigt i din app, mens du tager noter for dine kunder. Hurtige handlinger analyserer dine interaktioner med kunderne og foreslår handlinger, du kan udføre. Forslagene kan være alt fra oprettelse af en opgave, der skal følges op på med kunden, til oprettelse af en aftale om at mødes med dem.

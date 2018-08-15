@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="integrated-experiences"></a>Integrerede oplevelser
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Flow er tæt integreret med andre Microsoft-programmer, hvilket muliggør transformation af forretningsprocesser der, hvor de allerede finder sted i dag.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="error-event-logging"></a>Logføring af fejlhændelser
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 I produktfrigivelsen fra oktober 2018 giver vi Power BI Embedded-udviklere en måde at foretage fejlfinding på ved at logføre detaljerede fejlhændelser til konsollen på anmodning eller til deres telemetri. Den forbedrede oplevelse omfatter bedre fejlmeddelelser, der angiver rodårsagen, og bedre dokumentation, der forklarer fejlkoderne, og hvornår det er nødvendigt at udstede en supportanmodning.
 

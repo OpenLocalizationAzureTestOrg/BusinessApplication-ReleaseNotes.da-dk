@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="formula-bar-enhanced"></a>Forbedret formellinje 
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Lærred-apps fungerer ved at sammensætte funktioner, f.eks. filtrerings- og sorteringsfunktioner, for at skabe meget effektive formler. Resultatet indsættes ofte direkte i et kontrolelement, f.eks. et galleri, hvor det kan fortolkes yderligere.
 

@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="create-groups-of-requirements-for-scheduling"></a>Opret kravgrupper til planlægning
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 Opret kravgrupper bestående af flere krav, og planlæg teams af ressourcer. Der kan defineres ressourcekrav for en given kravgruppe ved hjælp af et gitterbaseret kontrolelement, hvor krav kan organiseres hierarkisk med alle givne betingelser.
 

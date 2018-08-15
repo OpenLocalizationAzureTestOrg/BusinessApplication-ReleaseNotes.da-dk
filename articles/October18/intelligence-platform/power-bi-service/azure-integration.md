@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="azure-integration-public-preview"></a>Azure-integration (offentlig prøveversion) 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Azure Data Lake Storage Gen2 er inkluderet i alle Power BI-betalingsabonnementer (10 GB pr. bruger, 100 TB pr. P1-node). Så det er nemt at komme i gang med at forberede selvbetjeningsdata på Azure Data Lake.  
 

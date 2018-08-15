@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="empower-sellers-with-playbooks-guided-by-event-driven-sales-activities"></a>Give sælgere strategiplaner, der baseret på hændelsesbaserede salgsaktiviteter
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dynamics 365 for Sales introducerer **Strategiplaner**, en ny funktion, der kan hjælpe virksomheder med at automatisere gentagne salgsaktiviteter og reagere på eksterne hændelser.
