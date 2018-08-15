@@ -3,7 +3,8 @@ title: Flowkontrol
 description: "Forbedret validerings- og fejlrettelsesoplevelse. Brugerne får kontekstafhængig hjælp til, hvordan de kan løse fejl, og får hjælp til at oprette flows, der ikke svigter."
 author: sunayv
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 4d7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: sunayv
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ad042ffc0ceb6b703399d6f5cd48ddc9f4cd627e
+ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
+ms.openlocfilehash: 91620c92f1f2e025e3653b1a56638f0d62ec2ffb
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="flow-checker"></a><span data-ttu-id="84895-104">Flowkontrol</span><span class="sxs-lookup"><span data-stu-id="84895-104">Flow checker</span></span>

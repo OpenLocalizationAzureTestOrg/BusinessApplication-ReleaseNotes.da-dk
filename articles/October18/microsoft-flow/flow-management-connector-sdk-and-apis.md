@@ -3,7 +3,8 @@ title: Flowstyringsconnector, SDK og API'er
 description: Alle SDK'er og API'er bliver dokumenteret i Flow, f.eks. muligheden for at integrere en IFrame til Flow-godkendelse i et program eller oprette eller slette flows via programmering.
 author: KentWeareMSFT
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 417e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: keweare
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c11e6460b6b7dc120e4b64a47a6e20e2229dee57
+ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
+ms.openlocfilehash: c96153d8ed2e23d669c43a1730dd274c45cebbef
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="flow-management-connector-sdk-and-apis"></a><span data-ttu-id="5890c-103">Flowstyringsconnector, SDK og API'er</span><span class="sxs-lookup"><span data-stu-id="5890c-103">Flow management connector, SDK, and APIs</span></span>

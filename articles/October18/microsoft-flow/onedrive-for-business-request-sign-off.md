@@ -3,7 +3,8 @@ title: Godkendelse af OneDrive for Business-anmodning
 description: "OneDrive for Business får integreret godkendelse af anmodninger svarende til oplevelsen i SharePoint"
 author: Mhade
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 349e1b68-aa74-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: mhade
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: fb3bad0b6b5cb298a5a9cdd3534071cab9e4b1f7
+ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
+ms.openlocfilehash: 8da2396b6108d468e1415d0cb38bd583d721cf9d
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="onedrive-for-business-request-sign-off"></a><span data-ttu-id="669bb-103">Godkendelse af OneDrive for Business-anmodning</span><span class="sxs-lookup"><span data-stu-id="669bb-103">OneDrive for Business request sign-off</span></span>
