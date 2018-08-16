@@ -3,7 +3,8 @@ title: Forbedringer af akkumuleringsvisninger i Unified Interface
 description: Aktivering af funktioner til akkumuleringsvisning for objekter ud over aktiviteter
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 821c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="enhancements-to-roll-up-views-in-unified-interface"></a>Forbedringer af akkumuleringsvisninger i Unified Interface
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Med forbedret akkumuleringsvisning kan du se en akkumulering af poster, f.eks. relaterede firmaer og kontaktpersoner, ud over aktiviteter.
 

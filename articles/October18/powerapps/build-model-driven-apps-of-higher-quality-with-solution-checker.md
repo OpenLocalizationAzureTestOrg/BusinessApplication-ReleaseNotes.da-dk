@@ -3,7 +3,8 @@ title: "Oprette modelbaserede apps i en højere kvalitet med løsningskontrol"
 description: "Følg bedste praksis for at tilpasse og udvide PowerApps-platformen"
 author: aheaney
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 041c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="build-model-driven-apps-of-higher-quality-with-solution-checker"></a>Oprette modelbaserede apps i en højere kvalitet med løsningskontrol
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Løsningskontrol gør det muligt at oprette modelbaserede apps i en højere kvalitet ved at hjælpe appudviklere med at følge bedste praksis, når de tilpasser og udvider PowerApps-platformen. Ved at køre kontrollen kan appudviklere besvare spørgsmål som:
 

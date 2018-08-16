@@ -3,7 +3,8 @@ title: Optimeringer af formularer i Unified Interface
 description: "Forbedringer af datatæthed i formularer og gitre er blevet tilføjet"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 6c1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="unified-interface-form-optimizations"></a>Optimeringer af formularer i Unified Interface
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Forbedringer af datatæthed i formularer og gitre giver brugerne mulighed for at se flere data uden at rulle. Disse forbedringer er nyttige til objektformularer med mange sektioner og felter.
 

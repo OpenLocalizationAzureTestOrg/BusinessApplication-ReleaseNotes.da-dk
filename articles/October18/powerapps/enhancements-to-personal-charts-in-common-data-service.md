@@ -3,7 +3,8 @@ title: Slutbrugere kan oprette diagrammer og dele dem med andre brugere og teams
 description: Slutbrugere kan oprette diagrammer, dele dem med andre og oprette visuals
 author: prsi
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 721c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="end-users-can-create-charts-and-share-them-with-other-users-and-teams"></a>Slutbrugere kan oprette diagrammer og dele dem med andre brugere og teams
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Opret personlige diagrammer for at visualisere data i realtid. Du kan dele disse diagrammer med andre brugere og teams i din organisation. Disse diagrammer kan i høj grad tilpasses – du kan tilføje flere serier, og du kan vælge mellem en række visualiseringer og aggregeringer.
 

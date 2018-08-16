@@ -3,7 +3,8 @@ title: "Understøttelse af brugerdefinerede meddelelser"
 description: "Unified Interface-kørsel understøtter brugerdefinerede meddelelser"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 7d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="support-for-custom-messages"></a>Understøttelse af brugerdefinerede meddelelser
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Kunder vil kunne tilpasse meddelelser for ethvert objekt, der er en del af en løsning, der importeres til deres forekomst. Denne brugerdefinerede meddelelse vil blive understøttet under Unified Interface-kørsel
 

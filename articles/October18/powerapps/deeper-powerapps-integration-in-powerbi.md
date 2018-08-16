@@ -3,7 +3,8 @@ title: Dybere PowerApps-integration i Power BI
 description: "PowerApps-visual til Power BI er gjort generelt tilgængelig"
 author: chmoncay
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 161c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="deeper-powerapps-integration-in-power-bi"></a>Dybere PowerApps-integration i Power BI
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 BI-udviklere kan bruge PowerApps i deres Power BI-rapporter i produktionsløsninger. Rapportudviklere kan opdatere deres Power BI-rapporter fra PowerApps, og derved kan de udføre transaktioner på deres datalagersteder i rapporter på flere måder.  BI-udviklere har også gjort delingsindstillinger mere simple med deres apps og rapporter.
 

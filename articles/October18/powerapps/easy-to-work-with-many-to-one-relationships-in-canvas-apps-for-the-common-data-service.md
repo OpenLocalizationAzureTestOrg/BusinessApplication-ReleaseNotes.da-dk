@@ -1,9 +1,10 @@
 ---
 title: "Nemt arbejde med mange til én-relationer i lærred-apps for Common Data Service til apps"
 description: "Det er ikke længere nødvendigt at sammenføje eller slå op manuelt. PowerApps udvider automatisk mange til én-relationer, så de nødvendige oplysninger kun er et klik væk."
-author: gregli
+author: gregli-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 421c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easy-to-work-with-many-to-one-relationships-in-canvas-apps-for-common-data-service-for-apps"></a>Nemt arbejde med mange til én-relationer i lærred-apps for Common Data Service til apps
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Det er afgørende for de fleste virksomhedsprogrammer at kunne arbejde med relationsdata. Men det kan være kedeligt at skrive forespørgsler om de nødvendige oplysninger, sammenkæde med fremmede nøgler og kontrollere projektionen.
 

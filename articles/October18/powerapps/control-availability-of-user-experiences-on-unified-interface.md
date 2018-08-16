@@ -3,7 +3,8 @@ title: "Administrere brugeroplevelsers tilgængelighed på Unified Interface"
 description: "Kunder kan slå nye brugeroplevelser fra på Unified Interface"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 671c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a>Administrere brugeroplevelsers tilgængelighed på Unified Interface
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Nye og eksisterende brugere kan få adgang til vigtige kommandoer under Unified Interface-kørsel. Administratorer kan slå disse oplevelser til og fra for deres brugere på organisationsniveau. 
 

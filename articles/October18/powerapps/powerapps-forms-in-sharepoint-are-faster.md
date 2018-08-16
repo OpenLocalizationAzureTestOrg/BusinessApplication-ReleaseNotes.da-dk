@@ -3,7 +3,8 @@ title: PowerApps-formularer i SharePoint er hurtigere
 description: Med integrerede PowerApps-formularer i SharePoint vil slutbrugere og appudviklere opleve en bedre ydeevne
 author: yifwang
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 021c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="powerapps-forms-in-sharepoint-are-faster"></a>PowerApps-formularer i SharePoint er hurtigere
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Flere forbedringer af ydeevnen er tilgængelige i SharePoint, når du bruger integrerede PowerApps-formularer, herunder:
 

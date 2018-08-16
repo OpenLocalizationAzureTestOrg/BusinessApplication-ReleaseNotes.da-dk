@@ -2,8 +2,9 @@
 title: "Deling af forbedringer for lærred-apps"
 description: "Det bliver lettere at dele lærred-apps og deres data med den integrerede oplevelse."
 author: litran
-manager: kvivek
-ms.date: 7/22/2018
+manager: AnnBe
+ms.date: 8/10/2018
+ms.assetid: 3c1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,9 +20,8 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="sharing-enhancements-for-canvas-apps"></a>Deling af forbedringer for lærred-apps
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
+[!include[banner](../../includes/banner.md)]
 
 Deling af lærred-apps er blevet nemmere, fordi brugerne kan få vist de datakilder, som en app bruger, hvilket gør det lettere at indstille særskilte brugertilladelser, der giver adgang til disse data. 
 

@@ -3,7 +3,8 @@ title: "Modelbaserede mobilapps er blevet mere pålidelige"
 description: "Forbedringer af hastighed og fejlmeddelelser, der kan handles på, gør mobiloplevelsen bedre"
 author: sarafankit
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: fb1b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="model-driven-mobile-applications-are-more-reliable"></a>Modelbaserede mobilapps er blevet mere pålidelige
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Mobilapps kører hurtigere og fryser ikke. Brugerne kan handle på enhver fejl, de oplever, for at gøre det muligt selv at løse problemerne eller sende relevante oplysninger til Microsoft for hurtig support.
 

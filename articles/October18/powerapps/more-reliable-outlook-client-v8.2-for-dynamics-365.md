@@ -3,7 +3,8 @@ title: "Mere pålidelig Outlook-klient v8.2 til Dynamics 365"
 description: "Forbedringer af pålidelighed og ydeevne i Outlook COM-tilføjelsesprogrammet version 8.2"
 author: srihas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 841c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="more-reliable-outlook-client-v82-for-dynamics-365"></a>Mere pålidelig Outlook-klient v8.2 til Dynamics 365
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Den nye version af Dynamics 365 for Outlook indeholder forbedringer af ydeevnen, der kan løse opstartsproblemer, hvor Outlook fryser på grund af opdatering af metadatacachen.
 

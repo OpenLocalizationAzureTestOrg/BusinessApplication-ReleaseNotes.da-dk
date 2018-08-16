@@ -3,7 +3,8 @@ title: Mere simpelt feltvalg og binding af galleri, formular og datatabel
 description: "Formularer og gallerier vil bruge forslag om felter fra dine datakilder samt give forbedret søgning og filtrering."
 author: clwesene
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 321c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="simplified-gallery-form-and-data-table-field-selection-and-binding"></a>Mere simpelt feltvalg og binding af galleri, formular og datatabel
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Feltlistens brugervenlighed er også blevet forbedret for at gøre det lettere at arbejde med data i gallerier, formularer og datatabeller. 
 

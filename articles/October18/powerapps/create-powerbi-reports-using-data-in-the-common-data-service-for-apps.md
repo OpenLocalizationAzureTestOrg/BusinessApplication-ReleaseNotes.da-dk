@@ -3,7 +3,8 @@ title: "Oprette Power BI-rapporter ved hjælp af data i Common Data Service til 
 description: "Appudviklere kan oprette rapporter i Power BI Desktop ved hjælp af den opdaterede Power BI-connector til Common Data Service til apps."
 author: clwesene
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 181c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-power-bi-reports-using-data-in-common-data-service-for-apps"></a>Oprette Power BI-rapporter ved hjælp af data i Common Data Service til apps
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Power BI er et særdeles effektivt værktøj til visualisering og rapportering af data. Med connectoren til Power BI kan appudviklere oprette direkte forbindelse til deres miljø, navigere blandt relationer og opbygge overbevisende rapporter og dashboards ud fra deres data.
 

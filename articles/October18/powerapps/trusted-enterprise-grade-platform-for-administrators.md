@@ -1,9 +1,10 @@
 ---
 title: Bedre platform til administratorer
 description: "Administratoroplevelser er afgørende for anvendelsen af enhver pålidelig platform."
-author: JamesO
+author: jamesol-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 09a2bcdc-3b73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="better-platform-for-administrators"></a>Bedre platform til administratorer
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Microsoft PowerApps gør det lettere end nogensinde før at vedligeholde og administrere apps på tværs af din organisation. Med lanceringen af den nye Administration får administratorer og partnere en mere pålidelig, ensartet oplevelse i forbindelse med administration af lagerkapacitet, miljøer og udrulninger. Administratorer kan nemmere løse problemer ved hjælp af den integrerede hjælp og support-oplevelse i Administration.
 

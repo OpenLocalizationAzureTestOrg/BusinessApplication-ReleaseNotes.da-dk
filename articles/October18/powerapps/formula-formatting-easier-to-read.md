@@ -3,7 +3,8 @@ title: "Lettere at læse formatering af formler"
 description: "Appudviklere kan aktivere autoformat for at gøre komplekse formler lettere at forstå"
 author: lanced
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 531c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="formula-formatting-easier-to-read"></a>Lettere at læse formatering af formler
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Forbedringer af editoren af formellinjen gør det muligt at formatere formler og gør det lettere for appudviklere at læse og forstå dem. Eftersom appudviklere opretter mere og mere komplekse virksomhedsprogrammer til deres slutbrugere, gør denne formatering det muligt for flere appudviklere at samarbejde om apps.
 

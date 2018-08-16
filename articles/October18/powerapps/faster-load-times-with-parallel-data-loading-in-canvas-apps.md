@@ -1,9 +1,10 @@
 ---
 title: "Hurtigere indlæsning med parallel dataindlæsning i lærred-apps"
 description: "Appudviklere kan indlæse flere data på samme tid, hvilket reducerer den samlede ventetid for appbrugere."
-author: gregli
+author: gregli-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 4b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="faster-load-times-with-parallel-data-loading-in-canvas-apps"></a>Hurtigere indlæsning med parallel dataindlæsning i lærred-apps
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 For at få en bedre ydeevne vil mange udviklere af lærred-apps forudindlæse flere tabeller og objekter, når deres app starter. I dag gøres dette serielt, én indlæsning ad gangen, og ofte i appens **OnStart**-formular. 
 

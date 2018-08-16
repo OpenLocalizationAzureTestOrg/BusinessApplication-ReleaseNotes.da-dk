@@ -3,7 +3,8 @@ title: Forbedret formellinje
 description: "Se resultater af formler og underformler direkte i formellinjen i lærred-apps"
 author: gregli-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 4d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -17,12 +18,10 @@ ms.contentlocale: da-dk
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="formula-bar-enhanced"></a>Forbedret formellinje 
-
-[!include[powerapps banner](../includes/powerapps.md)]
+# <a name="formula-bar-enhanced"></a>Forbedret formellinje
 
 
-
+[!include[banner](../../includes/banner.md)]
 
 Lærred-apps fungerer ved at sammensætte funktioner, f.eks. filtrerings- og sorteringsfunktioner, for at skabe meget effektive formler. Resultatet indsættes ofte direkte i et kontrolelement, f.eks. et galleri, hvor det kan fortolkes yderligere.
 

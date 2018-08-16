@@ -3,7 +3,8 @@ title: "Forbedret hjælp til Access-brugere"
 description: "Access-brugere kan lære mere om mulighederne for at udvikle apps med PowerApps"
 author: shpareek
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: f51b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-help-for-access-users"></a>Forbedret hjælp til Access-brugere
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Access-brugere kan lære mere om, hvordan de kan bruge PowerApps til at udvikle mobil- og webapps, der har forbindelse til over 200 datakilder. Disse brugere kan modtage relevant mailindhold for at holde sig opdateret om nyskabelser i PowerApps samt få adgang til hvidbøger, casestudier og eksempelapps, som gør det lettere at forstå de kombinerede funktioner i Access og PowerApps.
 

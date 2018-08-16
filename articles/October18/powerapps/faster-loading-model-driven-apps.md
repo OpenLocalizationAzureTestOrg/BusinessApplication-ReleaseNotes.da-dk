@@ -3,7 +3,8 @@ title: "Hurtigere indlæsning af modelbaserede apps"
 description: Modelbaserede apps, der anvender Unified Interface, er optimeret for at give bedre ydeevne
 author: richdi
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: fd1b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="faster-loading-model-driven-apps"></a>Hurtigere indlæsning af modelbaserede apps
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Siderne i modelbaserede apps indlæses betydeligt hurtigere, eftersom synlige regioner gengives først og er optimeret til forskellige browsere. Brugerne vil også opleve en bedre ydeevne i Internet Explorer 11 og Edge-browsere med Unified Interface.
 

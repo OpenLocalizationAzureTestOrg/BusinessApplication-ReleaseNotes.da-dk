@@ -3,7 +3,8 @@ title: "Lettere finde og arbejde med løsninger fra PowerApps"
 description: "Løsningsliste og løsningsoversigt er tilgængelige i PowerApps."
 author: litran
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 351c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easier-to-find-and-work-with-solutions-from-powerapps"></a>Lettere finde og arbejde med løsninger fra PowerApps
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Du kan lettere arbejdere med løsninger ved at bruge løsningslisten i PowerApps. Du kan finde den løsning, du har brug for, åbne den og søge efter en løsningskomponent i løsningsoversigten. Du behøver ikke at få adgang til den klassiske løsningsoversigt for at administrere komponenterne i en løsning.
 
