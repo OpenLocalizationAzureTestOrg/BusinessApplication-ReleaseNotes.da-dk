@@ -11,16 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f91fb79ee70b320fe1c9513ebe80252913c532b4
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 3642d7d240bd342aee345a46c970bb461e9dd048
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="dashboards-and-notifications"></a><span data-ttu-id="db105-103">Dashboards og meddelelser</span><span class="sxs-lookup"><span data-stu-id="db105-103">Dashboards and notifications</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="db105-104">Dashboard fører rekrutteringsmedarbejdere og ansættelseschefer til relevante handlinger.</span><span class="sxs-lookup"><span data-stu-id="db105-104">Dashboard will guide recruiters and hiring managers to relevant actions.</span></span> <span data-ttu-id="db105-105">Med en omfattende søgeoplevelse kan brugerne hurtigt navigere i systemet.</span><span class="sxs-lookup"><span data-stu-id="db105-105">An in-depth search experience will help users quickly navigate the system.</span></span>
 <span data-ttu-id="db105-106">Meddelelser giver brugeren supplerende oplysninger til strømlining af ansættelsesprocessen.</span><span class="sxs-lookup"><span data-stu-id="db105-106">Notifications will provide the user with supplemental information to streamline the recruitment process.</span></span>

@@ -11,16 +11,16 @@ ms.technology:
 ms.author: riluan
 audience: Admin, developer, end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 120d810cfc70af7011425956e65ebe20e91b04b6
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: ea29bc0cd30547ca822daab7547c614f27eba18d
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="globalization--enhanced-configurability"></a><span data-ttu-id="2d19d-103">Globalisering – forbedrede konfigurationsmuligheder</span><span class="sxs-lookup"><span data-stu-id="2d19d-103">Globalization – enhanced configurability</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="2d19d-104">Med muligheder for at konfigurere funktioner kan partnere og kunder oprette udvidelser og tilpasninger uden kodning.</span><span class="sxs-lookup"><span data-stu-id="2d19d-104">Configurability of features lets partners and customers do extensions and customizations without coding.</span></span> <span data-ttu-id="2d19d-105">Vi fortsætter med at udvide konfigurationsmulighederne i både dybden og bredden og har tilføjet følgende nye muligheder på dette område:</span><span class="sxs-lookup"><span data-stu-id="2d19d-105">We continue to extend both the depth and the breadth of configurability and added the following new capabilities in this area:</span></span>
 

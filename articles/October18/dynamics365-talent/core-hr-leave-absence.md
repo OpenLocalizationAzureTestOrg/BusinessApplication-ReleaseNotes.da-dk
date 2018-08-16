@@ -11,16 +11,16 @@ ms.technology:
 ms.author: josaw
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1a56b91f243972e07ada4b498dfdf6ed16898493
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: bc284fb2bdfb698be0b6288df7f6eb4eb8b87d59
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="leave-and-absence-management"></a><span data-ttu-id="4db5b-103">Administration af orlov og fravær</span><span class="sxs-lookup"><span data-stu-id="4db5b-103">Leave and absence management</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="4db5b-104">Effektiv orlovs- og fraværsadministration er vigtig, ikke kun for kompatibilitet, men også for at få en engageret arbejdsstyrke.</span><span class="sxs-lookup"><span data-stu-id="4db5b-104">Effective leave and absence management is key to not only being compliant, but also to having an engaged workforce.</span></span> <span data-ttu-id="4db5b-105">Forbedringer af dette område af Talent gør det muligt for organisationer fortsat at strømline administrationen af orlovs- og fraværsplaner, for ledere at håndtere fraværsplaner og for medarbejdere at afbalancere arbejde og fritid.</span><span class="sxs-lookup"><span data-stu-id="4db5b-105">Enhancements in this area of Talent allow for organizations to continue streamlining the administration of leave and absence plans, allow managers to take care of time-off schedules, and help employees to balance work and home life.</span></span>
 

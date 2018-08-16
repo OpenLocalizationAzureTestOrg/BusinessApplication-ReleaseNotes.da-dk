@@ -11,17 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f5e6b730b8487ce96c4cb1493c49c68b482aecb0
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: d3981f81e15215bd8e2688e721c0da61916f50d7
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="offer-management"></a><span data-ttu-id="61b57-103">Tilbudsadministration</span><span class="sxs-lookup"><span data-stu-id="61b57-103">Offer management</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="61b57-104">Rekrutteringsmedarbejdere og ansættelseschefer kan oprette og godkende jobtilbud ved hjælp af organisationens definerede pakkeskabeloner.</span><span class="sxs-lookup"><span data-stu-id="61b57-104">Recruiters and hiring managers can create and approve offers using their organization's defined package templates.</span></span> <span data-ttu-id="61b57-105">De kan også give kandidaterne DocuSign- og Adobe Sign-branchestandardfunktioner for at se og acceptere deres tilbud og begynde at onboarde dem i organisationen.</span><span class="sxs-lookup"><span data-stu-id="61b57-105">They also can provide candidates with the industry standard DocuSign and Adobe Sign capabilities to view and accept their offers and begin their onboarding into the organization.</span></span>
 

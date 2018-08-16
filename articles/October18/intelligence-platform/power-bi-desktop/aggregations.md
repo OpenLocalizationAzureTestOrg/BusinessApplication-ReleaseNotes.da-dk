@@ -11,17 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: developer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 40cbd22fb19eb8a5799b6ccb8a9ea5eec6a1576f
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: ec6fc313ef498181725c0e131d0e2ec1a91a90ce
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="aggregations-public-preview"></a><span data-ttu-id="121f6-103">Aggregeringer (offentlig prøveversion)</span><span class="sxs-lookup"><span data-stu-id="121f6-103">Aggregations (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="121f6-104">Store datamængder kræver nye måder at lagre oplysninger på for at afveje behovet for en detaljeret interaktiv analyse med rapportering på detaljeringsniveau.</span><span class="sxs-lookup"><span data-stu-id="121f6-104">Massive volumes of data require new ways of storing information to balance the needs of slice-and-dice interactive analysis with deep, detail-level reporting.</span></span> <span data-ttu-id="121f6-105">Med aggregeringer kan modeludviklere vise cachelagrede værdier på et højt niveau til interaktiv analyse, men brugerne kan stadig analysere ned til de detaljerede data, der forespørges på fra de underliggende data.</span><span class="sxs-lookup"><span data-stu-id="121f6-105">Aggregations allow model developers to surface cached values at a high level for interactive analysis, but still let users drill down to detailed data that is queried from the underlying data.</span></span>
 

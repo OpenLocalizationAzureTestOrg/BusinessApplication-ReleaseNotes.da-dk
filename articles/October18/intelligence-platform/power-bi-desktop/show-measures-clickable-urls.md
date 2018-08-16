@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0ae8e309078c1aea0a4b24abe8eb4b253db34b29
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 3b3db487a5e105bae80656d20640059c915a8bf2
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="show-measures-as-clickable-urls"></a><span data-ttu-id="eb34d-103">Vise målinger som klikbare URL-adresser</span><span class="sxs-lookup"><span data-stu-id="eb34d-103">Show measures as clickable URLS</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="eb34d-104">Slutbrugerne skal nemt kunne navigere mellem rapporter eller fra rapporter til andre programmer, mens de stadig bevarer konteksten af de data, de ser på.</span><span class="sxs-lookup"><span data-stu-id="eb34d-104">End users need an easy way to navigate between reports, or from reports to other applications, while still retaining the context of the data they were looking at.</span></span> <span data-ttu-id="eb34d-105">Målinger kan generere URL-adresser for at tillade navigation og kan vises som links, der gør det nemt at flytte mellem rapporter eller programmer.</span><span class="sxs-lookup"><span data-stu-id="eb34d-105">Measures can generate URLs to allow navigation, and can be shown as hyperlinks that make it easy to move between reports or applications.</span></span>
 

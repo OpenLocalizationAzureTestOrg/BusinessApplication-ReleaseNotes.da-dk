@@ -11,16 +11,16 @@ ms.technology:
 ms.author: dkrame
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 316acef163f66f740f02cd3fc2a01a36b2c935ba
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 87751b6c50bfca5ea12709180eaaa3361eaee470
 ms.contentlocale: da-dk
-ms.lasthandoff: 08/03/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="company-based-jobs-and-positions"></a><span data-ttu-id="e380a-103">Virksomhedsbaserede job og stillinger</span><span class="sxs-lookup"><span data-stu-id="e380a-103">Company-based jobs and positions</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="e380a-104">Fleksibilitet under definition af en virksomheds organisation er meget vigtigt.</span><span class="sxs-lookup"><span data-stu-id="e380a-104">Flexibility in defining a company’s organization is very important.</span></span> <span data-ttu-id="e380a-105">Job kan have universelle beskrivelser og jobserier, mens kompensation, nødvendige kvalifikationer, uddannelse og andre data kan variere, afhængigt af den virksomhed eller det område som jobbet eller stillingen findes i.</span><span class="sxs-lookup"><span data-stu-id="e380a-105">Jobs may have universal descriptions and job families, while compensation, skills required, education, and other data may differ based on the company or region within which the job or position resides.</span></span> <span data-ttu-id="e380a-106">Virksomhedsbaserede job- og stillingsdata giver et svar på begge scenarier.</span><span class="sxs-lookup"><span data-stu-id="e380a-106">Company-based job and position data provides an answer to both scenarios.</span></span>
 

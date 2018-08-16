@@ -11,17 +11,16 @@ ms.technology:
 ms.author: atrukawk
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 46a4f8f033af5d95e0c398fbbb14c94aeb9e3039
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 8c7a861abccfc1aa959a4eaa2244148022ed6fb6
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
-
-[!include[banner](../../includes/banner.md)]
-
 # <a name="vat-reporting-functionality-for-united-arab-emirates"></a><span data-ttu-id="1eb74-103">Momsindberetningsfunktion for De Forenede Arabiske Emirater</span><span class="sxs-lookup"><span data-stu-id="1eb74-103">VAT reporting functionality for United Arab Emirates</span></span>
+
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="1eb74-104">Moms blev introduceret i De Forenede Arabiske Emirater den 1. januar 2018.</span><span class="sxs-lookup"><span data-stu-id="1eb74-104">Value added tax (VAT) was introduced in the United Arab Emirates on January 1, 2018.</span></span> <span data-ttu-id="1eb74-105">Den udstedte føderale lov nr.</span><span class="sxs-lookup"><span data-stu-id="1eb74-105">The issued Federal Decree Law No.</span></span> <span data-ttu-id="1eb74-106">(8) af 2017 om moms anfører omfanget af moms, satsen, momsansvar og levering af varer og serviceydelser i alle situationer.</span><span class="sxs-lookup"><span data-stu-id="1eb74-106">(8) of 2017 on Value Added Tax outlines the tax scope, rate, responsibility for tax, and supply of goods and services in all cases.</span></span> <span data-ttu-id="1eb74-107">Du kan finde flere oplysninger om momsreglerne, i [Føderale momsmyndigheder i De Forenede Arabiske Emirater](https://government.ae/en/information-and-services/finance-and-investment/taxation/valueaddedtaxvat).</span><span class="sxs-lookup"><span data-stu-id="1eb74-107">For more details on VAT regulations, see [Federal Tax Authorities of United Arab Emirates](https://government.ae/en/information-and-services/finance-and-investment/taxation/valueaddedtaxvat).</span></span>
 

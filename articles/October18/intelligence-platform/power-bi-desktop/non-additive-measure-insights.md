@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 5459d93f61f016f72d82beed1d6609adeb2c55d1
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 0652b0518dd221755d2c4b0c0372ac6fef3ac32d
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="quick-insights-for-non-additive-measures-public-preview"></a><span data-ttu-id="2f200-103">Hurtig indsigt via ikke-additive målinger (offentlig prøveversion)</span><span class="sxs-lookup"><span data-stu-id="2f200-103">Quick Insights for non-additive measures (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="2f200-104">Hurtig indsigt indeholder automatiserede forklaringer på tendenser, ændringer og fordelinger i brugerdata.</span><span class="sxs-lookup"><span data-stu-id="2f200-104">Quick Insights provides automated explanations for trends, changes, and distributions in users' data.</span></span> <span data-ttu-id="2f200-105">Med understøttelse af ikke-additive målinger kan denne indsigt opnås via metrikværdier, der bruger kompleks forretningslogik, f.eks. lager- og brugeranalyse.</span><span class="sxs-lookup"><span data-stu-id="2f200-105">Support for non-additive measures means these insights can be provided over metrics that use complex business logic such as inventory and user analytics.</span></span> 
 

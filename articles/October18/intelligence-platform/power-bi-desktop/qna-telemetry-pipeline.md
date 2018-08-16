@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: developer, application developer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: e9925bf0c2bf740e0a7d14e48ab3485536f3f527
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 976b32ec1b3ad9ce7ff80cdfb82c72f386dc3c37
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="qa-telemetry-pipeline-public-preview"></a><span data-ttu-id="da62a-103">Telemetripipeline for spørgsmål og svar (offentlig prøveversion)</span><span class="sxs-lookup"><span data-stu-id="da62a-103">Q&A Telemetry Pipeline (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="da62a-104">Partnere, der opretter Power BI-apps, kan udnytte forbrugsdata til spørgsmål og svar i deres app, så de får hjælp til at forbedre deres sproglige skema og Spørgsmål og svar-resultater på basis af faktisk forbrug.</span><span class="sxs-lookup"><span data-stu-id="da62a-104">Partners creating Power BI apps can consume usage data on Q&A in their app, helping them learn how to improve their linguistic schema and Q&A results based on actual usage.</span></span>
 

@@ -11,17 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1dd938dc3081174f1946df2c9f7541a59e7fcabd
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 327c4a545a5490e60d3a84df325969f397ef9587
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="relevant-jobs-and-candidates"></a><span data-ttu-id="0749c-103">Relevante job og kandidater</span><span class="sxs-lookup"><span data-stu-id="0749c-103">Relevant jobs and candidates</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="0749c-104">Rekrutteringsmedarbejdere kan blive overvældet i forsøget på at finde ud af, hvilke kandidater de skal fokusere på.</span><span class="sxs-lookup"><span data-stu-id="0749c-104">Recruiters can be overwhelmed by trying to determine which candidates to focus on.</span></span>
 <span data-ttu-id="0749c-105">Attract fremhæver automatisk kandidatprofiler, der matcher jobkravene, så rekrutteringsmedarbejderen sparer tid og hurtigere får besat ledige stillinger, fordi de kan fokusere på de mest relevante kandidater.</span><span class="sxs-lookup"><span data-stu-id="0749c-105">Attract automatically highlights candidate profiles that match the job requirements, saving time for the recruiter and helping them close their positions faster by being able to focus on the most relevant candidates.</span></span>

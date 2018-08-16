@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: developer, citizen developer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 3256b373787e8c32a7ef80faad85e2ebd5f3634e
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: f32678967b820a258a7ad9a37325f99bf11a6cc7
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="composite-models-public-preview"></a><span data-ttu-id="19ca4-103">Sammensatte modeller (offentlig prøveversion)</span><span class="sxs-lookup"><span data-stu-id="19ca4-103">Composite models (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="19ca4-104">Med sammensatte modeller kan du blande importkilder og DirectQuery-kilder i tabelformat og have flere DirectQuery-kilder i tabelformat.</span><span class="sxs-lookup"><span data-stu-id="19ca4-104">Composite models allow you to mix import and tabular direct query sources as well as have multiple tabular DirectQuery sources.</span></span> <span data-ttu-id="19ca4-105">På denne måde kan du udvide din virksomheds datamodeller med importerede tabeller.</span><span class="sxs-lookup"><span data-stu-id="19ca4-105">This lets you augment your enterprise data models with imported tables.</span></span> 
 

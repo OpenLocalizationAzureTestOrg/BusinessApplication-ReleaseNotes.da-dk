@@ -11,16 +11,16 @@ ms.technology:
 ms.author: aolson
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4f6aa2fca76cfd5f050ffe7ccda7e43f1bbef7fd
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 1143913758670c05d6b51a335d253cd06a9614e5
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="revenue-recognition"></a><span data-ttu-id="c31af-103">Indtægtsføring</span><span class="sxs-lookup"><span data-stu-id="c31af-103">Revenue recognition</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="c31af-104">Administration af indtægtsføring giver automatisering, der kan hjælpe bogholdere og økonomimedarbejdere med at overholde International Financial Reporting Standard (IFRS) 15 og Accounting Standards Codification (ASC) 606.</span><span class="sxs-lookup"><span data-stu-id="c31af-104">Revenue recognition management provides automation to help accounting and finance professionals comply with International Financial Reporting Standard (IFRS) 15 and Accounting Standards Codification (ASC) 606.</span></span> 
 
