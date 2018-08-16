@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="revenue-recognition"></a>Indtægtsføring
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Administration af indtægtsføring giver automatisering, der kan hjælpe bogholdere og økonomimedarbejdere med at overholde International Financial Reporting Standard (IFRS) 15 og Accounting Standards Codification (ASC) 606. 
 

@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="leave-and-absence-management"></a>Administration af orlov og fravær
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 Effektiv orlovs- og fraværsadministration er vigtig, ikke kun for kompatibilitet, men også for at få en engageret arbejdsstyrke. Forbedringer af dette område af Talent gør det muligt for organisationer fortsat at strømline administrationen af orlovs- og fraværsplaner, for ledere at håndtere fraværsplaner og for medarbejdere at afbalancere arbejde og fritid.
 

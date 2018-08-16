@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="composite-models-public-preview"></a>Sammensatte modeller (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Med sammensatte modeller kan du blande importkilder og DirectQuery-kilder i tabelformat og have flere DirectQuery-kilder i tabelformat. På denne måde kan du udvide din virksomheds datamodeller med importerede tabeller. 
 

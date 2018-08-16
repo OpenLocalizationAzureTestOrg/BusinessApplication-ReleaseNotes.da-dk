@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="theming-general-availability"></a>Temaer for generel tilgængelighed
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Manuel redigering af alle visuelle elementer i en rapport, så de f.eks. stemmer overens med virksomhedens retningslinjer for mærkning, kan være en opslidende og tidskrævende proces. I Power BI Desktop kan du anvende en temafil på dine rapporter for automatisk at anvende typografier og formateringsegenskaber.
 

@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="aggregations-public-preview"></a>Aggregeringer (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Store datamængder kræver nye måder at lagre oplysninger på for at afveje behovet for en detaljeret interaktiv analyse med rapportering på detaljeringsniveau. Med aggregeringer kan modeludviklere vise cachelagrede værdier på et højt niveau til interaktiv analyse, men brugerne kan stadig analysere ned til de detaljerede data, der forespørges på fra de underliggende data.
 

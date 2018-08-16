@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="dashboards-and-notifications"></a>Dashboards og meddelelser
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Dashboard fører rekrutteringsmedarbejdere og ansættelseschefer til relevante handlinger. Med en omfattende søgeoplevelse kan brugerne hurtigt navigere i systemet.
 Meddelelser giver brugeren supplerende oplysninger til strømlining af ansættelsesprocessen.

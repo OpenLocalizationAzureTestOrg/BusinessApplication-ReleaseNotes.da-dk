@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="globalization--enhanced-configurability"></a>Globalisering – forbedrede konfigurationsmuligheder
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Med muligheder for at konfigurere funktioner kan partnere og kunder oprette udvidelser og tilpasninger uden kodning. Vi fortsætter med at udvide konfigurationsmulighederne i både dybden og bredden og har tilføjet følgende nye muligheder på dette område:
 

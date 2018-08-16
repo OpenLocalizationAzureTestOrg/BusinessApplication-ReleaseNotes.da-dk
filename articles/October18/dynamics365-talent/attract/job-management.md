@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="job-and-process-enhancements"></a>Job- og procesforbedringer
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Administration af job og processer formaliserer rekrutteringsprocessen ved at forbedre de strukturerede data, der skal bruges til at spore en åbning fra oprettelse til opfyldelse.
 Disse funktioner skal desuden give en bedre integration mellem Core HR-systemer og Attract ved at udnytte data, der publiceres på Common Data Service til apps.

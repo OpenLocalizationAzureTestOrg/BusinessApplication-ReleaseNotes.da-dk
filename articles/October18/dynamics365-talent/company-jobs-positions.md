@@ -20,7 +20,7 @@ ms.lasthandoff: 08/03/2018
 
 # <a name="company-based-jobs-and-positions"></a>Virksomhedsbaserede job og stillinger
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 Fleksibilitet under definition af en virksomheds organisation er meget vigtigt. Job kan have universelle beskrivelser og jobserier, mens kompensation, nødvendige kvalifikationer, uddannelse og andre data kan variere, afhængigt af den virksomhed eller det område som jobbet eller stillingen findes i. Virksomhedsbaserede job- og stillingsdata giver et svar på begge scenarier.
 

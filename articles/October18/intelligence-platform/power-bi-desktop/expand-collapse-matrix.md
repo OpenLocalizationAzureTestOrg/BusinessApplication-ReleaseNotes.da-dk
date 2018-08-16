@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="expand-and-collapse-in-matrix-visual-public-preview"></a>Udvide og skjule data i matrixvisuals (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Slutbrugere, der kender til pivottabeloplevelsen i Excel, har brug for en lignende oplevelse i matrixvisuals i Power BI. Brugerne kan udvide elementer i matrixen for at se detaljer og stadig se oplysninger på et højere niveau.
 

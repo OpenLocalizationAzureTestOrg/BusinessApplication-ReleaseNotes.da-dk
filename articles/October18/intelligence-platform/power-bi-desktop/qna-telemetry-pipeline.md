@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="qa-telemetry-pipeline-public-preview"></a>Telemetripipeline for spørgsmål og svar (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Partnere, der opretter Power BI-apps, kan udnytte forbrugsdata til spørgsmål og svar i deres app, så de får hjælp til at forbedre deres sproglige skema og Spørgsmål og svar-resultater på basis af faktisk forbrug.
 

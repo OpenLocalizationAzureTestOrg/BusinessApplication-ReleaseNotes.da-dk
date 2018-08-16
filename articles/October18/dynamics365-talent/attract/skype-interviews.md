@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="skype-interviews"></a>Skype-samtaler
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Denne funktion muliggør indbygget integration med Skype-samtaleplatformen til eksterne screeninger og samtaler. I dag understøtter vi muligheden for screeninger og samtaler, der kan oprettes og gennemføres via Skype for Business. Med denne funktion kan brugerne vælge mellem Skype for Business eller Skype-samtaler.
 

@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="theming-over-report-level-and-visual-container-styles"></a>Temaer over rapportniveau og typografier for visuelle objektbeholdere
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Rapportforfattere skal anvende fælles formatering på alle deres rapporter. Power BI gør det muligt at oprette temaer, der definerer formateringsindstillinger for hvert visuelle element, og nu også for rapporters og visuelle objektbeholderes typografier.
 

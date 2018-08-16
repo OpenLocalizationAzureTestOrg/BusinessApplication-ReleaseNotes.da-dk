@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="extensibility"></a>Udvidelsesmuligheder
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Vi ved, at organisationer har deres helt egen ansættelsesproces, som er designet til at fremhæve organisationens særlige egenskaber. For at kunne understøtte disse behov er det vigtigt at have mulighed for at udvide det oprindelige program. Vi tilføjer udvidelser, som gør det muligt for organisationer at inkorporere PowerApps, Microsoft Flow, Power BI, Office Forms, Microsoft Stream og flere andre. Dette åbner for specialiserede aktiviteter og udvidelse af kernedataene og kerneprocessen.
 

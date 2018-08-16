@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="russian-localization"></a>Russisk lokalisering
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Microsoft Dynamics 365 for Finance and Operations understøtter nu obligatorisk overholdelse af lovgivningsmæssige krav i Rusland (kun til lokal installation). Produktfrigivelsen fra oktober 2018 af den russiske lokalisering dækker følgende funktionsområder: kreditor/debitor, forskudshavere, bank og kontant, faste aktiver, finans, økonomirapportering, elektronisk rapportering, lager, momsregistre, adresser/FIAS og moms. 
 

@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="expression-based-formatting"></a>Udtryksbaseret formatering
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Rapportforfattere kræver fleksible løsninger på, hvordan deres visualiseringer kan formateres. Ud over at definere formatering via formateringsruden kan et [DAX](https://docs.microsoft.com/power-bi/desktop-quickstart-learn-dax-basics)-udtryk bruges til at angive formateringen og give fuld kontrol over den forretningslogik, der bruges til at formatere visualiseringen.
 

@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="show-measures-as-clickable-urls"></a>Vise målinger som klikbare URL-adresser
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Slutbrugerne skal nemt kunne navigere mellem rapporter eller fra rapporter til andre programmer, mens de stadig bevarer konteksten af de data, de ser på. Målinger kan generere URL-adresser for at tillade navigation og kan vises som links, der gør det nemt at flytte mellem rapporter eller programmer.
 

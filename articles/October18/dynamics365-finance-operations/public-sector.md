@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="public-sector-enhancements"></a>Forbedringer til den offentlige sektor
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Der tilføjes nye funktioner for den offentlige sektioner til regnskabs- og økonomimedarbejdere i produktfrigivelsen fra oktober 2018, f.eks. forbedrede rapporteringer og forespørgsler, ny budgetteringsfunktionalitet, forbedringer af behæftelse, forbedringer af leverandørsamarbejde, 1099-kreditoropdateringer og rentefordeling, der er periodiseret på kassesaldi.
 

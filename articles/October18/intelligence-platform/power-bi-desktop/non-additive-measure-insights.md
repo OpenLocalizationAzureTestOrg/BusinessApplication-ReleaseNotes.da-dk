@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="quick-insights-for-non-additive-measures-public-preview"></a>Hurtig indsigt via ikke-additive målinger (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Hurtig indsigt indeholder automatiserede forklaringer på tendenser, ændringer og fordelinger i brugerdata. Med understøttelse af ikke-additive målinger kan denne indsigt opnås via metrikværdier, der bruger kompleks forretningslogik, f.eks. lager- og brugeranalyse. 
 

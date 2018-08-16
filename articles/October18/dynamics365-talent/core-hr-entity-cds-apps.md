@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="extended-core-hr-entity-scope-on-common-data-service-for-apps"></a>Udvidet Core HR-objektomfang i Common Data Service til apps
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 Kunder har brug for på effektiv vis at fremme den digitale transformering af deres HR- og Talent-oplevelser for at tiltrække og fastholde vigtige talenter. En enkelt og ensartet visning af personer er et vigtigt grundlag for at opnå dette.
 De fleste Core HR-objekter findes allerede i Common Data Service til apps. De resterende områder gøres nu også tilgængelige for denne digitale transformation.

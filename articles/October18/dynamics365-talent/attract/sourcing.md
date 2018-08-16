@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="sourcing"></a>Forsyning
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Med denne funktion kan rekrutteringsmedarbejdere og ansættelseschefer få indsigt i forsyningspipelinen ved at give mulighed for at spore jobkandidater, overføre jobkandidater fra LinkedIn Recruiter ved hjælp af Recruiter System Connect og oprette en samlet profil for en kandidat, som indeholder de oplysninger, der kendes fra LinkedIn (med kandidattilmelding).
 

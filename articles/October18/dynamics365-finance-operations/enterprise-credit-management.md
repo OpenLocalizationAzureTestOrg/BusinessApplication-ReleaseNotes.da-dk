@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="enterprise-credit-management"></a>Virksomhedskreditstyring
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Virksomhedskreditstyring indeholder funktioner til automatisering af kreditstyringsprocessen for bogholderi- og regnskabsmedarbejdere.
 

@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="offer-management"></a>Tilbudsadministration
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Rekrutteringsmedarbejdere og ansættelseschefer kan oprette og godkende jobtilbud ved hjælp af organisationens definerede pakkeskabeloner. De kan også give kandidaterne DocuSign- og Adobe Sign-branchestandardfunktioner for at se og acceptere deres tilbud og begynde at onboarde dem i organisationen.
 

@@ -18,10 +18,9 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-
-[!include[banner](../../includes/banner.md)]
-
 # <a name="vat-reporting-functionality-for-united-arab-emirates"></a>Momsindberetningsfunktion for De Forenede Arabiske Emirater
+
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Moms blev introduceret i De Forenede Arabiske Emirater den 1. januar 2018. Den udstedte føderale lov nr. (8) af 2017 om moms anfører omfanget af moms, satsen, momsansvar og levering af varer og serviceydelser i alle situationer. Du kan finde flere oplysninger om momsreglerne, i [Føderale momsmyndigheder i De Forenede Arabiske Emirater](https://government.ae/en/information-and-services/finance-and-investment/taxation/valueaddedtaxvat).
 

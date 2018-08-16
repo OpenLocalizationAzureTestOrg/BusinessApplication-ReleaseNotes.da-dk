@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="custom-fonts-public-preview"></a>Brugerdefinerede skrifttyper (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Virksomhedens temaer indeholder ofte specifikke skrifttyper, der er distribueret til og bruges i hele virksomheden. Du kan bruge disse skrifttyper i dine Power BI-rapporter.
 

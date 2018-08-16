@@ -21,21 +21,21 @@ ms.lasthandoff: 07/18/2018
 
 I dette emne beskrives de funktioner, der er planlagt til frigivelse i Microsoft Dynamics 365 Business Central mellem oktober 2018 og marts 2019.
 
-[!include[banner](../../includes/banner.md)]
 
-| Funktion | Frigivelsestype | Målmåned for frigivelse |
-|------------|----------|--------|
-| [Produktivitetsfunktioner til pc-brugere](high-productivity-user-experience.md) | Generel tilgængelighed | Oktober 2018  |
-| [Tilgængelighedsfunktioner til pc-brugere](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#accessibility) |  Generel tilgængelighed |  Oktober 2018  |
-| [Opdateret oplevelse på større pc-skærme](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#refreshed-desktop-experience) |  Generel tilgængelighed |   Oktober 2018  |
-| [Business Central overalt](business-central-everywhere.md)|  Generel tilgængelighed  |  Oktober 2018  |
-| [Kombineret mobilapp/medfølgende app til Business Central](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#access-from-anywhere) |  Generel tilgængelighed | Oktober 2018    |
-| [Forbedret Power BI-integrationsoplevelse](enhanced-power-bi-embed-experience.md)  | Generel tilgængelighed    | Oktober 2018   |
-| [Rettighedssæt kan redigeres](editablepermissionsets.md)  | Generel tilgængelighed    | Oktober 2018   |
-| [Lejeradministration for VAR-forhandlere](var-tenant-administration.md)  | Generel tilgængelighed    | Oktober 2018   |
-| [Forbedret AL-oplevelse af Visual Studio-kode](visual-studio-code-improvements.md)  | Generel tilgængelighed    | Oktober 2018   |
-| [Lokaliserings- og oversættelsesapps](localization.md)      |  Generel tilgængelighed  |  Oktober 2018   |
-| [Intelligent edge for Dynamics GP, Dynamics SL og Dynamics NAV](dynamics-intelligent-edge.md)   | Generel tilgængelighed  |  Oktober 2018|
-| Yderligere produktivitetsfunktioner til pc-brugere |     | Ikke-planlagt |
-| Opdateret oplevelse på flere pc-skærme |     | Ikke-planlagt |
+
+| Funktion | Frigivelsestype  |Målmåned for frigivelse |
+|------------|----------|-------------|
+| [Produktivitetsfunktioner til pc-brugere](high-productivity-user-experience.md) | Generel tilgængelighed |      Oktober 2018  |
+| [Tilgængelighedsfunktioner til pc-brugere](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#accessibility) |  Generel tilgængelighed |       Oktober 2018  |
+| [Opdateret oplevelse på større pc-skærme](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#refreshed-desktop-experience) |  Generel tilgængelighed |        Oktober 2018  |
+| [Business Central overalt](business-central-everywhere.md)|  Generel tilgængelighed  |       Oktober 2018  |
+| [Kombineret mobilapp/medfølgende app til Business Central](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#access-from-anywhere) |  Generel tilgængelighed |      Oktober 2018    |
+| [Forbedret Power BI-integrationsoplevelse](enhanced-power-bi-embed-experience.md)  | Generel tilgængelighed    |      Oktober 2018   |
+| [Rettighedssæt kan redigeres](editablepermissionsets.md)  | Generel tilgængelighed    |      Oktober 2018   |
+| [Lejeradministration for VAR-forhandlere](var-tenant-administration.md)  | Generel tilgængelighed    |      Oktober 2018   |
+| [Forbedret AL-oplevelse af Visual Studio-kode](visual-studio-code-improvements.md)  | Generel tilgængelighed    |Oktober 2018   |
+| [Lokaliserings- og oversættelsesapps](localization.md)      |  Generel tilgængelighed  |       Oktober 2018   |
+| [Intelligent edge for Dynamics GP, Dynamics SL og Dynamics NAV](dynamics-intelligent-edge.md)   | Generel tilgængelighed  |       Oktober 2018|
+| Yderligere produktivitetsfunktioner til pc-brugere |           |Ikke-planlagt |
+| Opdateret oplevelse på flere pc-skærme |           |Ikke-planlagt |
 

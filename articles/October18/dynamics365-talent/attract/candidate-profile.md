@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="candidate-profile-connection"></a>Forbindelse til kandidatprofil
 
-
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Det er vigtigt, at du har så mange oplysninger som muligt om dine kandidater, så du kan evaluere og udvælge den rette person. Hvis kandidatprofilen udvides yderligere, er det muligt at spore og håndtere flere oplysninger. På denne måde kan kandidatdataene også bruges af andre funktioner, f.eks. relevans og søgning.
 

@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="relevant-jobs-and-candidates"></a>Relevante job og kandidater
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Rekrutteringsmedarbejdere kan blive overvældet i forsøget på at finde ud af, hvilke kandidater de skal fokusere på.
 Attract fremhæver automatisk kandidatprofiler, der matcher jobkravene, så rekrutteringsmedarbejderen sparer tid og hurtigere får besat ledige stillinger, fordi de kan fokusere på de mest relevante kandidater.

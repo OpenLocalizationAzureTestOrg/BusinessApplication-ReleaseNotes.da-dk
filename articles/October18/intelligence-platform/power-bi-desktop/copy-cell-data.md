@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="copy-data-from-table-and-matrix-visuals-public-preview"></a>Kopiere data fra tabel- og matrixvisuals (offentlig prøveversion)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Du kan kopiere data fra en tabel- eller matrixvisual til andre programmer. Markér de data, du vil kopiere, højreklik på visualiseringen, og vælg **Kopiér data** for at kopiere dataene til systemets Udklipsholder. 
 

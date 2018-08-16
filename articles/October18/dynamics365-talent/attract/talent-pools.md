@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="talent-pools"></a>Talentpuljer
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Rekrutteringsmedarbejdere kan organisere og vedligeholde deres liste over jobkandidater i talentpuljer. Talentpuljer kan være private eller delte mellem rekrutteringsmedarbejdere.
 
