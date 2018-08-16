@@ -1,9 +1,10 @@
 ---
 title: "Nemt arbejde med mange til én-relationer i lærred-apps for Common Data Service til apps"
 description: "Det er ikke længere nødvendigt at sammenføje eller slå op manuelt. PowerApps udvider automatisk mange til én-relationer, så de nødvendige oplysninger kun er et klik væk."
-author: gregli
+author: gregli-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 421c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: gregli
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: bdd0b30bfa06bf223e9a64f838ed4b16a62dcc44
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: e930566a1ea39365f2ba2ab649585879eb7b5cd8
 ms.contentlocale: da-dk
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="easy-to-work-with-many-to-one-relationships-in-canvas-apps-for-common-data-service-for-apps"></a><span data-ttu-id="d35a8-104">Nemt arbejde med mange til én-relationer i lærred-apps for Common Data Service til apps</span><span class="sxs-lookup"><span data-stu-id="d35a8-104">Easy to work with many-to-one relationships in canvas apps for Common Data Service for Apps</span></span>
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="d35a8-105">Det er afgørende for de fleste virksomhedsprogrammer at kunne arbejde med relationsdata.</span><span class="sxs-lookup"><span data-stu-id="d35a8-105">Working with relational data is key to most business applications.</span></span> <span data-ttu-id="d35a8-106">Men det kan være kedeligt at skrive forespørgsler om de nødvendige oplysninger, sammenkæde med fremmede nøgler og kontrollere projektionen.</span><span class="sxs-lookup"><span data-stu-id="d35a8-106">Yet it can be tedious to write queries that pull in the necessary information, join on foreign keys, and control the projection.</span></span>
 

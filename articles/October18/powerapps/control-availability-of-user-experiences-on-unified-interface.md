@@ -3,7 +3,8 @@ title: "Administrere brugeroplevelsers tilgængelighed på Unified Interface"
 description: "Kunder kan slå nye brugeroplevelser fra på Unified Interface"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 671c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: shilpas
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 8bb07cf9f01c4d588c12c5860ced8154a15b26c6
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: 17797d18635af9118ff8d714be5182fc19ebb3d5
 ms.contentlocale: da-dk
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a><span data-ttu-id="04f84-103">Administrere brugeroplevelsers tilgængelighed på Unified Interface</span><span class="sxs-lookup"><span data-stu-id="04f84-103">Control availability of user experiences on Unified Interface</span></span>
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="04f84-104">Nye og eksisterende brugere kan få adgang til vigtige kommandoer under Unified Interface-kørsel.</span><span class="sxs-lookup"><span data-stu-id="04f84-104">New and existing end users can access core commands during Unified Interface runtime.</span></span> <span data-ttu-id="04f84-105">Administratorer kan slå disse oplevelser til og fra for deres brugere på organisationsniveau.</span><span class="sxs-lookup"><span data-stu-id="04f84-105">Admins can, at the organization level, turn these experiences on or off for their users.</span></span> 
 
