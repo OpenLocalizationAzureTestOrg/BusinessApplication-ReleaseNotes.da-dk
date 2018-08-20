@@ -2,7 +2,7 @@
 title: Flowkontrol
 description: "Forbedret validerings- og fejlrettelsesoplevelse. Brugerne får kontekstafhængig hjælp til, hvordan de kan løse fejl, og får hjælp til at oprette flows, der ikke svigter."
 author: sunayv
-manager: AnnBe
+manager: KVivek
 ms.date: 8/10/2018
 ms.assetid: 4d7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
@@ -10,22 +10,21 @@ ms.prod:
 ms.service: business-applications
 ms.technology: 
 ms.author: sunayv
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: fd5732d9f38f3a6b0b75a9903616a9d252428cf1
+ms.sourcegitcommit: 8a89a9ef9d7a84980eeebc44f72692acacc7e744
+ms.openlocfilehash: 884f863d02593a5e2d5a9af030abd0a2fb0b0395
 ms.contentlocale: da-dk
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/20/2018
 
 ---
 # <a name="flow-checker"></a><span data-ttu-id="84895-104">Flowkontrol</span><span class="sxs-lookup"><span data-stu-id="84895-104">Flow checker</span></span>
 
-[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="84895-105">Funktionen **Flowkontrol** kan hjælpe dig, mens du bygger dine flows.</span><span class="sxs-lookup"><span data-stu-id="84895-105">The **Flow checker** feature will help you while you build your flows.</span></span> <span data-ttu-id="84895-106">Funktionen kontrollerer for fejl i designfasen og søger også efter eventuelle fejl, der kan være opstået under tidligere kørsler.</span><span class="sxs-lookup"><span data-stu-id="84895-106">It will check for errors at design time and will also look for errors that may have occurred on past runs.</span></span> 
 
 <span data-ttu-id="84895-107">Flowkontrol angiver også fremgangsmåder for, hvordan du kan afhjælpe fejl, der forekommer ofte, sammen med links til nyttige artikler og dokumentation om bedste praksis.</span><span class="sxs-lookup"><span data-stu-id="84895-107">Flow checker will also provide remediation steps for commonly faced errors, along with links to helpful articles and documentation on best practices.</span></span>
+
 
