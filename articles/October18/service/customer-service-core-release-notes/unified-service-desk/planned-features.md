@@ -23,6 +23,5 @@ ms.lasthandoff: 07/18/2018
 
 | Funktion                                                                                                                                                                                       | Frigivelsestype   | Målmåned for frigivelse |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------------|
-| [Brug af Edge-proces som vært for webprogrammer i Unified Service Desk](unified-service-desk-using-edge-process-hosting-web-applications-unified-service-desk.md) | Offentlig prøveversion | Oktober 2018          |
 | [Unified Service Desk-administrationsoplevelse på Unified-klient](unified-service-desk-admin-experience-on-unified-client.md)                                                                     | Generel tilgængelighed             | Oktober 2018          |
 

@@ -51,7 +51,6 @@
 
 ### [Unified Service Desk](service/customer-service-core-release-notes/unified-service-desk/unified-service-desk-overview.md)
 #### [Oversigt over nyheder](service/customer-service-core-release-notes/unified-service-desk/planned-features.md)
-#### [Brug af Edge-proces som vært for webprogrammer i Unified Service Desk](service/customer-service-core-release-notes/unified-service-desk/unified-service-desk-using-edge-process-hosting-web-applications-unified-service-desk.md)
 #### [Unified Service Desk-administrationsoplevelse på Unified-klient](service/customer-service-core-release-notes/unified-service-desk/unified-service-desk-admin-experience-on-unified-client.md)
 
 ### [Dynamics 365 Portal](service/dynamics365-portal/index.md)
