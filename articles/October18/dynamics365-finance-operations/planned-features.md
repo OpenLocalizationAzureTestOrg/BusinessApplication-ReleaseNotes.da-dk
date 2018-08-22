@@ -78,7 +78,6 @@ I dette emne beskrives de funktioner, der er planlagt til frigivelse i Microsoft
 > [!div class="mx-tableFixed"]
 > | Funktion   | Frigivelsestype   | Målmåned for frigivelse |
 > |-----------|----------------|----------------------|
-> |[Opdateringer af anvendelighed og produktivitet](usability-productivity.md) | Generel tilgængelighed|Oktober 2018|
 > |[Forbedringer af brugertilpasning](personalization-improvements.md) | Generel tilgængelighed|Oktober 2018|
 > |[Yderligere demodata](additional-demo-data.md) | Generel tilgængelighed|Oktober 2018|
 > |[Dataresidente abonnementer](data-resident-subscription.md) | Generel tilgængelighed|Oktober 2018|
