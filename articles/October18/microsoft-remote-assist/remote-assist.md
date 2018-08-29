@@ -18,22 +18,22 @@ audience:
 - business analyst
 - IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 5734780e8716ed091b9354a083c55e96cc4f0edd
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: a40c29f90259e9a0883da066cbabe545b8cbfcd5
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="overview-of-microsoft-remote-assist-october-18-release"></a>Oversigt over Microsoft Remote Assist i produktfrigivelsen fra oktober 2018
 
-[!include[banner](../../includes/banner.md)]
+
 
 Med Microsoft Remote Assist kan du oprette forbindelse til og samarbejde omkring varslinger, håndfrie videoopkald, billeddeling og mixed reality-anmærkninger. Medarbejdere i forreste linje bruger HoloLens til at dele, hvad de ser, med eksperter på Microsoft Teams og er på forkant med at løse problemer og udføre opgaver sammen, hurtigere. Med støtte fra sikkerhed på virksomhedsniveau muliggør Microsoft Remote Assist kommunikation med ro i sindet.
 
 ## <a name="may-18--public-preview"></a>Maj 2018 – Offentlig prøveversion
 
-Den offentlige prøveversion er den første udsendte version af Microsoft Remote Assist.  Det er den gratis og offentligt tilgængelige kerne i Remote Assist-erfaringen på HoloLens, som vi vil udvide i fremtiden.
+Offentlig prøveversion er den første udsendte version af Microsoft Remote Assist.  Det er den gratis og offentligt tilgængelige kerne i Remote Assist-erfaringen på HoloLens, som vi vil udvide i fremtiden.
 
 På HoloLens:
 
@@ -59,8 +59,6 @@ I Microsoft Teams på et pc-skrivebord:
 -   Del din skærm, og præsenter oplysninger for brugeren af HoloLens.
 
 ## <a name="important-links"></a>Vigtige links
-
-[Hent og installer Microsoft Remote Assist](../hololens/hololens-microsoft-remote-assist-app)
 
 [Ofte stillede spørgsmål til Microsoft Remote Assist](https://support.microsoft.com/help/4294428/windows-10-microsoft-remote-assist-faq)
 

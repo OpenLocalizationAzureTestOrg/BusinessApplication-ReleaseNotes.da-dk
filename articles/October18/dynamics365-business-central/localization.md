@@ -11,16 +11,18 @@ ms.technology:
 ms.author: ivkoleti
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 92800544a2b166ba93ca355893553d2172b975b8
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f1ce9cd6acb99d621466fb5e79b144f638630abb
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="making-business-central-available-in-new-markets"></a>Business Central gøres tilgængeligt på nye markeder
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 Business Central har en kombineret lokaliseringsstrategi, som omfatter både Microsoft-styrede og partnerstyrede modeller. Vi tager fortsat partnerstyrede scenarier i betragtning og forventer, at flere lande kommer til at indgå via udvidelser af lokaliseringsapps i Microsoft AppSource. Derudover leverer Microsoft i denne produktfrigivelse en oversat version af Business Central på følgende markeder:
 
@@ -46,5 +48,5 @@ No regional restrictions.
 -->
 
 ## <a name="tell-us-what-you-think"></a>Fortæl os, hvad du synes
-Hjælp os med at forbedre Dynamics 365 Business Central ved at diskutere ideer, stille forslag og give feedback. Brug Business Central-forummet på https://aka.ms/businesscentralfeedback.
+Hjælp os med at forbedre Dynamics 365 Business Central ved at diskutere ideer, stille forslag og give feedback. Brug Business Central-forummet på https://aka.ms/businesscentralideas.
 

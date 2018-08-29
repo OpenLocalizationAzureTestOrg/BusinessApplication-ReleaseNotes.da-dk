@@ -1,29 +1,29 @@
 ---
 title: Berettigelsesstyring
 description: Field Service har udvidet den aktuelle berettigelsesfunktionalitet, der anvendes i Customer Service-programmet, til de relevante scenarier.
-author: MargoC
+author: shellyhaverkamp
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/16/2018
 ms.assetid: 0733f83d-bc07-436b-8af3-1ee4340f611d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: jacoh
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b25a4e0e5b629a63f6b9e3ffbfd9d3f3724d8c20
+ms.sourcegitcommit: 9d939e87e6e747b4cdcadb7acb5958736f547145
+ms.openlocfilehash: 6d2db42406bb27539fc7c57ccca51367a81fdb4f
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="entitlement-management"></a>Berettigelsesstyring
 
 [!include[field-service banner](../../includes/field-service.md)]
 
+Med denne version omfatter Field Service-programmet muligheden for at definere berettigelser og knytte dem til arbejdsordrer, når der er brug for teknisk service. Berettigelser hjælper servicemedarbejdere til at forstå servicebetingelser, der gælder for kunder.
 
+Denne funktion hjælper serviceorganisationer med at sikre, at kunderne får den relevante onsite-support, der svarer til deres tilladte berettigelser, og at kunder opkræves ud fra deres aftalte betingelser.
 
-
-Field Service har udvidet den aktuelle berettigelsesfunktionalitet, der anvendes i Customer Service-programmet, til de relevante scenarier. Derved tages de supportniveauer, en kunde er berettiget til at angive i konteksten for den tekniske service, i betragtning. Eksempelberettigelser omfatter firmaer, kontakter, produkter, arbejdsordrer og performanceværdier for arbejdsordrer.
 

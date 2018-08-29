@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8bd0b2bfcb632e855c73c73050a72ab08f153d0d
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: e523a6bbfc92d129f1c58869769e8054099b0fe4
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="relevance-search-for-knowledge-management"></a>Relevanssøgning til vidensstyring 
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Kontrolelementet Søg i Dynamics 365-videnbasen giver viden om sammenhængen i forbindelse med sagsstyring. Den er nu styret af relevanssøgning for at levere resultater med forbedret ydeevne og præcision. 
 
@@ -29,6 +31,6 @@ Denne funktion hjælper medarbejderne med at udvælge de mest relevante artikler
 
 Medarbejderne kan bruge det forbedrede kontrolelement til KB-søgning som standard, når organisationen er aktiveret til relevanssøgning. Dette kræver ikke nogen yderligere konfiguration.
 
-Denne mulighed er nu tilgængelig i appen Kundeservicehub til Unified-klient i tillæg til webklienten, hvor den allerede er tilgængelig.
+Denne mulighed er nu tilgængelig i appen Kundeservicehub til Unified Interface i tillæg til webklienten, hvor den allerede er tilgængelig.
  
 

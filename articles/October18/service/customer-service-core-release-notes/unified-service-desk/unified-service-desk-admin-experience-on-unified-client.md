@@ -11,17 +11,20 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: dd2decb5f23785b5c81d1ff2d78b35ca9d6c9dde
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1d5005760a6eb074011a6c4aa159e2447bd4d968
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-#  <a name="unified-service-desk-admin-experience-on-unified-client"></a>Unified Service Desk-administrationsoplevelse på Unified-klient
+#  <a name="unified-service-desk-admin-experience-on-unified-interface"></a>Unified Service Desk-administrationsoplevelse på Unified Interface
+
+[!include[unified-service-desk banner](../../../includes/unified-service-desk.md)]
+[!include[customer-service-core-release-notes banner](../../../includes/customer-service-core-release-notes.md)]
 
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 Unified Service Desk til Dynamics 365 indeholder en struktur til hurtig konfiguration af programmer til callcentre, så helpdesk-medarbejdere kan få en samlet oversigt over kunder fra Dynamics 365 og fra andre virksomhedsprogrammer.  
 

@@ -3,27 +3,24 @@ title: Oversigt over Microsoft Dynamics 365 for Finance and Operations-produktfr
 description: Oversigt over Microsoft Dynamics 365 for Finance and Operations-produktfrigivelsen fra oktober 2018
 author: MargoC
 manager: AnnBe
-ms.date: 07/22/2018
-ms.topic: article
+ms.date: 08/16/2018
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: margoc
 audience: Admin, end-user, developer
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 7841e50443ffac2e0a4a86a002ca1f2c922c9c63
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: 362355fb385f518f4824ee7789ccf5d995bf05ca
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-finance-and-operations-october-18-release"></a>Oversigt over Dynamics 365 for Finance and Operations-produktfrigivelsen fra oktober 2018
 
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-
-
-I dette emne beskrives temaområderne i Finance and Operations-produktfrigivelsen fra oktober 2018. 
+I dette emne beskrives temaområderne i Finance and Operations-produktfrigivelsen fra oktober 2018. (Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet ændres muligvis eller kan muligvis ikke afsendes (se [Microsofts politik](https://go.microsoft.com/fwlink/p/?linkid=2007332).)
 
 ## <a name="focus-on-fundamentals"></a>Fokus på det grundlæggende
 

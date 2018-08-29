@@ -3,26 +3,26 @@ title: Oversigt over de nyeste funktioner i Service
 description: "Få et hurtigt overblik over de nye funktioner og engagementer i Service"
 author: MargoC
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/15/2018
 ms.assetid: 557af355-3198-4b9d-b0e2-49b9533df482
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0f091b969e66062c6daf7b2378f999c5dcdcde9a
+ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
+ms.openlocfilehash: 597744da4a07d43ac6f00b197d4404463b188194
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 #  <a name="overview-of-the-service-october-18-release"></a>Oversigt over Service-produktfrigivelsen fra oktober 2018 
 
 
 
-Produktfrigivelsen fra oktober 2018 introducerer nye investeringer i serviceområder, herunder Customer Service, Field Service og Dynamics 365 Portal.
+Produktfrigivelsen fra oktober 2018 introducerer nye investeringer i serviceområder, herunder Customer Service, Field Service og Dynamics 365 Portal. (Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet kan ændres eller kan ikke afsendes (se [Microsoft-gruppepolitik](https://go.microsoft.com/fwlink/p/?linkid=2007332)).)
 
 Den nyeste **Dynamics 365 for Customer Service**-produktfrigivelse muliggør et holistisk kundeengagement på tværs af forskellige kontaktpunkter og forbedrer samtidig driften og produktiviteten i organisationen. Blandt de nye funktioner er serviceplanlægning, som er baseret på Universal Resource Scheduling.
 

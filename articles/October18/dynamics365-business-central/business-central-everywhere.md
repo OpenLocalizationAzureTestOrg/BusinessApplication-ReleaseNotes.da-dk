@@ -12,16 +12,17 @@ ms.technology:
 ms.author: blazkote
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4f87f64d2e3170f64036af2f350020e0acaa7caa
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 8e936dbc95457580f1007f0ed18d81816172118a
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="business-central-everywhere"></a>Business Central overalt
 
-[!include[banner](../../includes/banner.md)]
-[!include[banner](Includes/disclaimer.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 Med produktfrigivelsen fra oktober 2018 bliver Dynamics NAV til Dynamics 365 Business Central til det lokale miljø.  
 
@@ -72,5 +73,5 @@ No regional restrictions. Available in all supported markets for Dynamics 365 Bu
 -->
 
 ## <a name="tell-us-what-you-think"></a>Fortæl os, hvad du synes
-Hjælp os med at forbedre Dynamics 365 Business Central ved at diskutere ideer, stille forslag og give feedback. Brug Business Central-forummet på https://aka.ms/businesscentralfeedback.
+Hjælp os med at forbedre Dynamics 365 Business Central ved at diskutere ideer, stille forslag og give feedback. Brug Business Central-forummet på https://aka.ms/businesscentralideas.
 

@@ -3,7 +3,7 @@ title: Nemmere deling, samling og forbedring af data med Common Data Model-objek
 description: Nemmere deling, samling og forbedring af data med Common Data Model-objekter
 author: shellyhaverkamp
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/16/2018
 ms.assetid: 60626a9d-c022-4a1f-8d3a-0533deba9b45
 ms.topic: article
 ms.prod: 
@@ -12,24 +12,22 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b1ea2a961aae470cf8bcfb239232a11f5d341350
+ms.sourcegitcommit: a1561a448e7906d9509fc41293ac499a4722f458
+ms.openlocfilehash: 907b74b32252754cbfcdfb365f11358d40d80373
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="easier-sharing-unification-and-enrichment-of-data-with-common-data-model-entities"></a>Nemmere deling, samling og forbedring af data med Common Data Model-objekter
 
-[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 **Common Data Model**-definitionen med åben kildekode er blevet forbedret for at levere **integration af forretningsprocesser, programmer og profilforbedringer** på tværs af forretningsfunktioner inden for salg, service, marketing, drift, finans, talent og handel samt kerneobjektprofiler for kunder med henblik på at understøtte dataforbedring og analyse baseret på observation.
 
 Common Data Model (CDM) muliggør samling af data i en velkendt formular med strukturel og semantisk ensartethed på tværs af programmer og udrulninger. Der findes en **stor og voksende samling af løsninger, der arbejder effektivt sammen**, når data er gemt i Common Data Model-formularen. Denne deling af data og indsigt betyder, at du hurtigt kan implementere nye forretningsprocesser, analyseløsninger og nemt få komplet overblik over dine forretningsoperationer.
 
-Siden den første produktfrigivelse fra marts 2018 er GitHub-lageret i Common Data Model [vokset betydeligt](#a-more-expressive-richer-common-data-model) til flere hundrede veldefinerede og modulære forretningsobjekter med udvidelsesmuligheder, herunder store udvidelser til understøttelse af yderligere vertikale brancher i tæt samarbejde med strategiske partnere. Forbedret [dokumentation og indhold i præsentationer](#common-data-model-and-data-integration-community-content) gør det muligt for kunder og partnere bedre at forstå og anvende Common Data Model. Dataintegrations-, transformations- og forbedringsoplevelser med lidt eller ingen kode med Power-forespørgsel [understøtter og implementerer](#built-in-support-for-the-common-data-model) fortsat CDM.
+Siden den første produktfrigivelse fra marts 2018 er [GitHub-lageret](https://github.com/Microsoft/CDM) i Common Data Model [vokset betydeligt](#a-more-expressive-richer-common-data-model) til flere hundrede veldefinerede og modulære forretningsobjekter med udvidelsesmuligheder, herunder store udvidelser til understøttelse af yderligere vertikale brancher i tæt samarbejde med strategiske partnere. Forbedret [dokumentation og indhold i præsentationer](#common-data-model-and-data-integration-community-content) gør det muligt for kunder og partnere bedre at forstå og anvende Common Data Model. Dataintegrations-, transformations- og forbedringsoplevelser med lidt eller ingen kode med Power-forespørgsel [understøtter og implementerer](#built-in-support-for-the-common-data-model) fortsat CDM.
 
 ##  <a name="a-more-expressive-richer-common-data-model"></a>En mere nuanceret og omfattende Common Data Model
 

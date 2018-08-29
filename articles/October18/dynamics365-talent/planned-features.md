@@ -3,27 +3,27 @@ title: Oversigt over planlagte funktioner i produktfrigivelsen fra oktober 2018 
 description: Oversigt over planlagte funktioner i produktfrigivelsen fra oktober 2018 til Microsoft Dynamics 365 for Talent
 author: josaw1
 manager: AnnBe
-ms.date: 07/22/2018
-ms.topic: article
+ms.date: 08/16/2018
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: josaw
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 560aef22ae7d563508bc590895382dc5e122376d
-ms.openlocfilehash: 303dc076773abd5e76e77299ad0709c56e4e7c9e
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: f2561b963a9acc8110ea4d6b8542086d6d731385
 ms.contentlocale: da-dk
-ms.lasthandoff: 08/03/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-talent"></a>Oversigt over nyheder i Dynamics 365 for Talent
 
-[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
-
 I dette emne beskrives de funktioner, der er planlagt til frigivelse i Microsoft Dynamics 365 for Talent mellem oktober 2018 og marts 2019. 
 
-
+Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet kan ændres eller kan ikke afsendes (se [Microsoft-gruppepolitik](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
+    
+For at få en liste over områder, hvor Dynamics 365-virksomhedsprogrammer er tilgængelige, skal du se [Vejledning om international tilgængelighed](https://aka.ms/dynamics_365_international_availability_deck). 
 
 
 ## <a name="attract"></a>Attract

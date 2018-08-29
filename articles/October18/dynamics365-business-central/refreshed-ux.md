@@ -11,18 +11,17 @@ ms.technology:
 ms.author: blazkote
 audience: end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0ab4fdabd59b610bd0fdd02939ee7784cf9b903c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 9979f961a07e1238fad7f6f8e8295413ad456b59
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="refreshed-desktop-experience"></a>Opdateret skrivebordsoplevelse
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-[!include[banner](Includes/disclaimer.md)]
 
 
 En frisk og moderne oplevelse gør det nemmere at tilpasse Dynamics 365 Business Central i din organisation og forenkle læringsforløbet for brugerne. Kunderne får en ny, frisk brugeroplevelse, der hjælper dem med at blive mere produktive, mens Microsoft-partnere vil værdsætte, hvor nemt det er blevet at få produktet ud på markedet og skaffe nye kunder. Den friske opdatering er ikke blot visuel – programoplevelserne er justeret, forenklet og forbedret yderligere.
@@ -56,5 +55,5 @@ No regional restrictions. Available in all Dynamics 365 Business Central support
 -->
 
 ## <a name="tell-us-what-you-think"></a>Fortæl os, hvad du synes
-Hjælp os med at forbedre Dynamics 365 Business Central ved at diskutere ideer, stille forslag og give feedback. Brug Business Central-forummet på https://aka.ms/businesscentralfeedback.
+Hjælp os med at forbedre Dynamics 365 Business Central ved at diskutere ideer, stille forslag og give feedback. Brug Business Central-forummet på https://aka.ms/businesscentralideas.
 

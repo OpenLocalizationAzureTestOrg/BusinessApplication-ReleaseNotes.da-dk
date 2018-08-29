@@ -12,15 +12,17 @@ ms.technology:
 ms.author: danderso
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: bedb0e082bb83e585ba8dd3dea4da5e42f70c1f9
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 2d0118fd46a8b735e88c008b2c9a0677e8db750b
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="tenant-administration-for-vars"></a>Lejeradministration for VAR-forhandlere
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 VAR-forhandlere kan bruge Dynamics 365 Business Central til at administrere livscyklussen i deres kunders løsninger på administrationssiderne.  
 
@@ -37,5 +39,5 @@ No regional restrictions. Available in all Dynamics 365 Business Central support
 -->
 
 ## <a name="tell-us-what-you-think"></a>Fortæl os, hvad du synes
-Hjælp os med at forbedre Dynamics 365 Business Central ved at diskutere ideer, stille forslag og give feedback. Brug Business Central-forummet på https://aka.ms/businesscentralfeedback.
+Hjælp os med at forbedre Dynamics 365 Business Central ved at diskutere ideer, stille forslag og give feedback. Brug Business Central-forummet på https://aka.ms/businesscentralideas.
 

@@ -11,30 +11,23 @@ ms.technology:
 ms.author: pborring
 audience: developer, customizer
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 161da5108c31c88f8e0f254abcf0f4b0fa6e950c
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 5b1d5c818fb0fafa973ed0e337cd9bb67ad9b137
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="improved-visual-studio-code-al-experience"></a>Forbedret AL-oplevelse af Visual Studio-kode
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 Oprettelse af udvidelser er tilpasningsmåden for Business Central. I produktfrigivelsen fra oktober 2018 tilføjes forbedringer af produktiviteten i udviklingsarbejdet samt understøttelse af flere udvidelsesscenarier.
 
 Med forbedringerne af værktøjs- og udvidelsesfunktionerne kan udviklere være mere produktive, når de udvikler og foretager fejlfinding i forbindelse med løsninger, og de får flere muligheder for at imødekomme kundernes tilpasningskrav ved hjælp af udvidelser.
 
-## <a name="sandbox-with-production-data"></a>Sandkasse med produktionsdata
-Et almindeligt scenarie, når du arbejder med sandkasser, især i forbindelse med test eller fejlfinding, er ønsket om at have tilgængelige produktionsdata. Med denne frigivelse tilføjer vi muligheden for at oprette en sandkasse, der er baseret på en kopi af den seneste skysikkerhedskopi af produktionsdataene. For at minimere tværkommunikation med integrationer, der er angivet i produktionsdataene, vil disse integrationer være deaktiveret under oprettelsen af sandkassen. Administratorer kan med forsigtighed aktivere eller omkonfigurere disse integrationer efter behov for at understøtte den tilsigtede sandkassebrug.
-
-## <a name="new-object-extensions"></a>Nye objektudvidelser
-Du kan nu udvide følgende:
-
-- Fasttekster (indstillinger) fra basisprogrammet samt oprettelse af nye, udvidelige fasttekster i dine udvidelser.
-- Rapportdatasæt i udvidelser. Rapportdatalayout er stadig et spørgsmål om erstatning.
-- Feltgrupper.
+## <a name="cloud-sandbox-with-production-data"></a>Skysandkasse med produktionsdata
+Et almindeligt scenarie, når du arbejder med skysandkasser, især i forbindelse med test eller fejlfinding, er ønsket om at have tilgængelige produktionsdata. Med denne frigivelse tilføjer vi muligheden for at oprette en skysandkasse, der er baseret på en kopi af den seneste skysikkerhedskopi af produktionsdataene. For at minimere tværkommunikation med integrationer, der er angivet i produktionsdataene, vil disse integrationer være deaktiveret under oprettelsen af sandkassen. Administratorer kan med forsigtighed aktivere eller omkonfigurere disse integrationer efter behov for at understøtte den tilsigtede skysandkassebrug.
 
 ## <a name="event-discoverability"></a>Registrering af hændelser
 Et kerneaspekt under oprettelse af udvidelser er at abonnere på hændelser. En almindelig udfordring er dog kendskab til, hvilke hændelser der er tilgængelige i en given brugerproces. Fejlfinding kan hjælpe, men vil kun vise hændelser, der allerede abonneres på. For at støtte registreringen af hændelser og udvidelsespunkter er der en ny hændelsessporing i klienten. Med denne kan en brugerproces registreres til at vise hændelser, og udvikleren kan have abonnentkode for den genererede hændelse, som nemt kan kopieres til AL-kode.
@@ -111,5 +104,5 @@ Globally
 -->
 
 ## <a name="tell-us-what-you-think"></a>Fortæl os, hvad du synes
-Hjælp os med at forbedre Dynamics 365 Business Central ved at diskutere ideer, stille forslag og give feedback. Brug Business Central-forummet på [https://aka.ms/businesscentralfeedback](https://aka.ms/businesscentralfeedback).
+Hjælp os med at forbedre Dynamics 365 Business Central ved at diskutere ideer, stille forslag og give feedback. Brug Business Central-forummet på [https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas).
 

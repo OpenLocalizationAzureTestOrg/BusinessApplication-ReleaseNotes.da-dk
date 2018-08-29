@@ -3,27 +3,29 @@ title: Business Central oktober 2018
 description: Nyheder i Business Central oktober 2018
 author: edupont04
 manager: AnnBe
-ms.date: 07/04/2018
+ms.date: 08/16/2018
 ms.assetid: 6f11822b-e716-4f70-9496-541547568920
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: edupont
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 20c918d07662598f11fc58fac701314240ec1da1
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: 23cc2dcc4e22b0c07ba29e678dce5530489fbffa
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 
-[!include[banner](../../includes/banner.md)]
+
 
 #  <a name="overview-of-dynamics-365-business-central-october-18-release"></a>Oversigt over Dynamics 365 Business Central-produktfrigivelsen fra oktober 2018
 
-Med produktfrigivelsen fra oktober 2018 er Dynamics 365 Business Central tilgængelig i skyen, i det lokale miljø og i hybridinstallationer. Vælg din variant af Business Central, eller brug din eksisterende lokale Dynamics GP-, Dynamics NAV- eller Dynamics SL-løsning, og få forbindelse til skyen via Business Central.  
+
+
+Med produktfrigivelsen fra oktober 2018 er Dynamics 365 Business Central tilgængelig i skyen, i det lokale miljø og i hybridinstallationer. Vælg din variant af Business Central, eller brug din eksisterende lokale Dynamics GP-, Dynamics NAV- eller Dynamics SL-løsning, og få forbindelse til skyen via Business Central. (Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet ændres muligvis eller kan muligvis ikke afsendes (se [Microsofts politik](https://go.microsoft.com/fwlink/p/?linkid=2007332).)  
 
 Business Central-partnere får en portal, hvor de kan fremme deres interaktioner med kunderne og administrere livscyklussen for deres programmer og tilpasninger. Forretningsbrugere får en yderligere strømlinet og opdateret brugeroplevelse med mange produktivitetsforbedringer, hvor processen er lettet for brugere med mange eller komplicerede transaktioner. Tjenesten gennemgår også en styrkelsesproces med stærkt forøget fleksibilitet, stabilitet og ydeevne overalt i programmet.
 
@@ -42,7 +44,10 @@ Business Central-partnere administrerer lejerens livscyklus via administrationsc
 Øg din produktivitet, når du udvikler og foretager fejlfinding af udvidelser, med nye og forbedrede udviklingsværktøjer, f.eks. sandkassemiljøer med produktionsdata, forbedret understøttelse af pausepunkter, bedre integreret Hjælp, mulighed for at spore udførte hændelser i et givet brugerscenario, understøttelse af lokale installationers .NET-kompatibilitet, understøttelse af udvidelse af enums, rapportdatasæt og feltgrupper og meget mere.
 
 ## <a name="making-business-central-available-in-new-markets"></a>Business Central gøres tilgængeligt på nye markeder
-Business Central har en kombineret lokaliseringsstrategi, som omfatter både Microsoft-styrede og partnerstyrede modeller. Vi tager fortsat partnerstyrede scenarier i betragtning og forventer, at flere lande kommer til at indgå via udvidelser af lokaliseringsapps i Microsoft AppSource. Derudover vil Microsoft også levere en oversat version af Business Central i Island, Norge og Mexico i denne produktfrigivelse.
+Business Central har en kombineret lokaliseringsstrategi, som omfatter både Microsoft-styrede og partnerstyrede modeller. Vi tager fortsat partnerstyrede scenarier i betragtning og forventer, at flere lande kommer til at indgå via udvidelser af lokaliseringsapps i Microsoft AppSource. Derudover vil Microsoft også levere en oversat version af Business Central i Island, Norge og Mexico i denne produktfrigivelse.  
+
+## <a name="tell-us-what-you-think"></a>Fortæl os, hvad du synes
+Hjælp os med at forbedre Dynamics 365 Business Central ved at diskutere ideer, stille forslag og give feedback. Brug Business Central-forummet på https://aka.ms/businesscentralideas.  
 
 ## <a name="see-also"></a>Se også
 [Oversigt over nyheder i Business Central](planned-features.md)  

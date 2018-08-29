@@ -1,5 +1,5 @@
 ---
-title: "Nye målepunkter for Azure-belastningsovervågning"
+title: "Nye målepunkter for Azure-overvågning af arbejdsbelastning"
 description: "Fire nye målepunkter er blevet tilknyttet for at overvåge Power BI Embedded-ressourceforbruget og udløse handlinger, når konfigurerbare tærskelværdier overskrides."
 author: MargoC
 manager: AnnBe
@@ -12,22 +12,21 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 51b13a358399105084d85e62222aec8339d4b42f
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 38c5ad6fa4ff1160d482cb5d62a7701990bff15a
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
-#  <a name="new-metrics-for-azure-load-monitoring"></a>Nye målepunkter for Azure-belastningsovervågning
+#  <a name="new-metrics-for-azure-workload-monitoring"></a>Nye målepunkter for Azure-overvågning af arbejdsbelastning
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-Fire nye målepunkter er blevet tilknyttet for at overvåge Power BI Embedded-ressourceforbruget og udløse handlinger, når konfigurerbare tærskelværdier overskrides:
 
-- Hukommelsesforbrug
-- Hukommelsesudskiftning
-- CPU-stigninger på over 80 procent
-- Brug af DirectQuery
+
+Da nye opgaver nu er tilgængelige i Power BI-sideinddelte rapporter og dataflow, vil tre nye målepunkter blive tilknyttet for at overvåge Power BI Embedded-ressourceforbruget og udløse handlinger, når de konfigurerbare tærskelværdier overskrides. De nye målepunkter vil afspejle hver af arbejdsbelastningerne i ressourcen. De nye målepunkter er:
+
+•   CPU-forbrug •   Hukommelsesforbrug •   Forbrug af hukommelseallokering (inkl. sideopdeling af hukommelse)
 
 Udviklere kan bruge Azure til at definere tærskelværdier, der udløser bestemte handlinger ved hjælp af påmindelser, f.eks. automatisk opskalering af ressourcen, hver gang en bestemt skærm overskrider en fastlagt grænse.
 

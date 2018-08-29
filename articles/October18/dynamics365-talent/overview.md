@@ -3,28 +3,23 @@ title: Oversigt over produktfrigivelsen fra oktober 2018 til Microsoft Dynamics 
 description: Oversigt over produktfrigivelsen fra oktober 2018 til Microsoft Dynamics 365 for Talent
 author: josaw1
 manager: AnnBe
-ms.date: 07/22/2018
-ms.topic: article
+ms.date: 08/16/2018
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: josaw
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 2d62402092c80c1f2e0d953d379a8385f2e86947
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: d6acc6884fdc61ed68222562ae3ca6986d1f0456
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-talent-october-18-release"></a>Oversigt over Dynamics 365 for Talent-produktfrigivelsen fra oktober 2018
 
-[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
-
-
-
-
-Opdateringen til Dynamics 365 for Talent fra oktober 2018 indeholder funktioner i et ansøgerregistreringssystem (ATS), understøttelse af onboarding i afdelingen og nye funktioner til administration af frynsegoder, arbejdsstyrke og organisation. Denne nyeste frigivelse giver Dynamics-partnere mulighed for at udvide Talent og overføre flere funktioner til Common Data Service (CDS) til apps.
+Opdateringen til Dynamics 365 for Talent fra oktober 2018 indeholder funktioner i et ansøgerregistreringssystem (ATS), understøttelse af onboarding i afdelingen og nye funktioner til administration af frynsegoder, arbejdsstyrke og organisation. Denne nyeste frigivelse giver Dynamics-partnere mulighed for at udvide Talent og overføre flere funktioner til Common Data Service (CDS) til apps. (Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet ændres muligvis eller kan muligvis ikke afsendes (se [Microsofts politik](https://go.microsoft.com/fwlink/p/?linkid=2007332).)
 
 ## <a name="streamlined-intelligent-and-compliant-recruiting"></a>Strømlinet, intelligent og kompatibel rekruttering
 

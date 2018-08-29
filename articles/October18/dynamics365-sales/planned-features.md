@@ -11,16 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6a3589b7fc806a16724781b94f9bdf059c9dafb7
+ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
+ms.openlocfilehash: 47ffc6427b2bf1a73f52722a2c742b0648958315
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="summary-of-whats-new-in-sales"></a>Oversigt over nyheder i Sales
 
-I dette afsnit beskrives de funktioner, der er planlagt til frigivelse mellem oktober 2018 og marts 2019 i Dynamics 365 for Sales og Dynamics 365 AI for Sales-apps. 
+I dette afsnit beskrives de funktioner, der er planlagt til frigivelse mellem oktober 2018 og marts 2019 i Dynamics 365 for Sales og Dynamics 365 AI for Sales-apps. (Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet kan ændres eller kan ikke afsendes (se [Microsoft-gruppepolitik](https://go.microsoft.com/fwlink/p/?linkid=2007332)).)
+
+For at få en liste over områder, hvor Dynamics 365-virksomhedsprogrammer er tilgængelige, skal du se [Vejledning om international tilgængelighed](https://aka.ms/dynamics_365_international_availability_deck). 
+
 
 
 

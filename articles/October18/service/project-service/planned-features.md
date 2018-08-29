@@ -3,23 +3,25 @@ title: Hurtig oversigt over Dynamics 365 for Project Service oktober 2018
 description: Hurtig oversigt over Dynamics 365 for Project Service oktober 2018
 author: krbjoran
 manager: shellyhaverkamp
-ms.date: 7/22/2018
-ms.topic: article
+ms.date: 8/15/2018
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: be1e1d2ac41c9d65bba6eedd7edd3b566a9d80fe
+ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
+ms.openlocfilehash: b346f75f14e0004f353e121d5a5b84ce384d2c14
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 #  <a name="summary-of-whats-new-in-dynamics-365-for-project-service"></a>Oversigt over nyheder i Dynamics 365 for Project Service
 
+Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet kan ændres eller kan ikke afsendes (se [Microsoft-gruppepolitik](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
 
+For at få en liste over områder, hvor Dynamics 365-virksomhedsprogrammer er tilgængelige, skal du se [Vejledning om international tilgængelighed](https://aka.ms/dynamics_365_international_availability_deck). 
 
 
 | Funktion                                                                                                                                                                                                 | Frigivelsestype | Målmåned for frigivelse |

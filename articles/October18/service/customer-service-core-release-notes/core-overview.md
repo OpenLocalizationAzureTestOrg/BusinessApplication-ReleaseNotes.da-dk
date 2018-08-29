@@ -12,10 +12,10 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c876db3795f892f1b8e030673c86f54850813b9e
+ms.sourcegitcommit: 9d939e87e6e747b4cdcadb7acb5958736f547145
+ms.openlocfilehash: fa492b0fec2071ecd3aeb36a5272b5b694c46754
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 # <a name="overview-of-dynamics-365-for-customer-service-october-18-release"></a>Oversigt over Dynamics 365 for Customer Service-produktfrigivelsen fra oktober 2018
@@ -33,7 +33,7 @@ Som en del af den nyeste produktfrigivelse er Customer Service-administrationsop
 
 Intelligent hjælp i form af forslag til lignende sager og videnartikler (der begge udnytter Tekstanalyse-API'en) er med til at give kundeservicemedarbejdere intelligent indsigt og giver hurtigere og mere effektiv sagsløsning, hvilket resulterer i bedre KPI'er.
 
-Med relevanssøgning ved hjælp af UCI-kontrolelementet til søgning i videnbasen kan Helpdesk medarbejdere få resultater fra videnartikler med forbedret ydeevne og nøjagtighed i forbindelse med sagsstyring. 
+Med relevanssøgning ved hjælp af kontrolelementet til søgning i videnbase i Unified Interface kan Helpdesk medarbejdere få resultater fra videnartikler med forbedret ydeevne og nøjagtighed i forbindelse med sagsstyring. 
 
 Med Kundeservicetilstand i One Admin Center får serviceorganisationer værktøjer til effektiv overvågning af servicepålideligheden og -funktionaliteten, så de selv kan løse eventuelle problemer, før de kan nå at påvirke produktiviteten.
 

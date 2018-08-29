@@ -11,18 +11,18 @@ ms.technology:
 ms.author: robadawy
 audience: admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f6c93fabbf746e3521e5a79695191e06391726f3
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 95b8f4ed8f61973de532c513eb8c7f410bc805a5
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="managing-batch-jobs"></a>Administration af batchjob
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-I produktfrigivelsen fra oktober 2018 præsenteres Finance and Operations-administratorer for en række nye funktioner til administration af batchjob.
+I produktfrigivelsen fra oktober 2018 præsenteres Finance and Operations-administratorer for en række nye funktioner til administration af batchjob. Disse funktioner leveres trinvist som en del af månedlige platformsopdateringer.
 
 Produktivitetsværktøjer, der kan hjælpe med at administrere oprettelse, kørsel og undersøgelser af batchjob, er afgørende for, at administratorer kan administrere systemets ydeevne og effektivitet.
 

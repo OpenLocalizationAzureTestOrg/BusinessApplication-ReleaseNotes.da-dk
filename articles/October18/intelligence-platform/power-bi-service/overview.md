@@ -12,15 +12,17 @@ ms.technology:
 ms.author: haydnr
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: dedbbdef280c5697c74c15adff46428402c6a9fa
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 49ef3af21be65a76b9a3ac9776b7d32715731011
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-bi-service"></a>Power BI-tjenesten
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Produktfrigivelsen fra oktober 2018 indeholder nye funktioner på to hovedområder: Arbejde med big data og BI for virksomheder.
 

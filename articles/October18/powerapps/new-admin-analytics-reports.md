@@ -1,9 +1,10 @@
 ---
 title: Nye analyserapporter for administratorer
 description: "Nye PowerApps, Microsoft Flow og Common Data Service til apps-forbrugsrapporter er tilgængelige for alle administratorer"
-author: sashri
+author: saumil-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: a81c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: sashri
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d8d557bc571858c775e08dca4bc4cd3ee6904c80
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: bde3a552e8b23780a39ce08faa8a8406f814e792
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="new-admin-analytics-reports"></a>Nye analyserapporter for administratorer
@@ -22,5 +23,5 @@ ms.lasthandoff: 07/18/2018
 
 [!include[banner](../../includes/banner.md)]
 
-Common Data Service til apps-administratorer behøver ikke længere at installere Org Insights-løsningen i deres miljø, for alle organisationens indsigtsrapporter er tilgængelige (som standard) i Administration.
+For Common Data Service til apps-administratorer er det ikke længere nødvendigt at installere Org Insights-løsningen i deres miljø, for alle Org Insights-rapporter er tilgængelige (som standard) fra [Power Platform-administrationen](https://go.microsoft.com/fwlink/?linkid=875536).
 

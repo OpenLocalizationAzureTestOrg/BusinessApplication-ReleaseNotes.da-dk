@@ -1,29 +1,27 @@
 ---
 title: "Hybridforbindelser for virksomheder via datagateway i det lokale miljø"
 description: "Hybridforbindelser for virksomheder via datagateway i det lokale miljø"
-author: MargoC
+author: shellyhaverkamp
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/16/2018
 ms.assetid: 5b0c45ea-97e4-4e6f-8555-f2bc05ccb336
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a7d7af2618f94a26de1f78a89b253af4d0c4225a
+ms.sourcegitcommit: a1561a448e7906d9509fc41293ac499a4722f458
+ms.openlocfilehash: 29480860b839d38f18ef16541c9f2c3a45c0dff3
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 #  <a name="enterprise-grade-hybrid-connectivity-using-the-on-premises-data-gateway"></a>Hybridforbindelser for virksomheder via datagateway i det lokale miljø
 
-[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Denne produktfrigivelse indeholder flere opdateringer, der er relateret til forbedring af datagatewayen i det lokale miljø.
 
@@ -36,12 +34,7 @@ Understøttelse af brugerdefinerede connectorer i gatewayen giver brugerne mulig
 ![Understøttelse af brugerdefinerede connectorer i datagatewayen i det lokale miljø](media/custom-connectors-support-premises-data-gateway-1.jpg "Understøttelse af brugerdefinerede connectorer i datagatewayen i det lokale miljø")
 
 ## <a name="gateway-multi-geo-support-for-power-bi-premium"></a>Understøttelse af gateway med flere geokoder for Power BI Premium
-
-Som en del af arbejdet med at understøtte flere geokoder i Power BI-tjenesten vil datagatewayen i det lokale miljø give brugerne mulighed for under konfigurationen at vælge et andet område end deres lejers eget område. Dette sikrer, at datakildens data og legitimationsoplysninger forbliver i det valgte område i overensstemmelse med organisationens entydige lovgivningsmæssige krav.
-
-Oplevelser skal opdateres, så brugerne kan udnytte datagatewayen i det lokale miljø i de pågældende områder. En del af denne indsats drejer sig om at sikre, at datakildens oplysninger (for eksempel legitimationsoplysninger) ikke forlader det område, som arbejdsområdet ligger i (for at overholde datasuverænitet).
-
-![Understøttelse med flere geokoder i datagatewayen i det lokale miljø](media/gateway-multi-geo-support-pbi-premium-1.png "Understøttelse med flere geokoder i datagatewayen i det lokale miljø")
+På grund af ændrede prioriteter er tidsrammen for denne funktion ikke fastlagt. Mens undersøgelsen fortsætter, skal du stemme på forslaget på https://ideas.powerbi.com for at hjælpe med at prioritere.
 
 ## <a name="guarantee-high-availability-of-gateways-via-clustering"></a>Sikrer en høj tilgængelighed af gateways via klyngedannelse
 De funktioner vedrørende høj tilgængelighed i datagatewayen i det lokale miljø, som vi frigav i november 2017, er ved at blive overført fra offentlig prøveversion til generel tilgængelighed. En del af denne indsats omfatter flere forbedringer af oplevelser, især hvad angår bedre fejlrapportering og forbedret brugeroplevelse.

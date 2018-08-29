@@ -1,9 +1,10 @@
 ---
 title: "Identificere, håndtere og rapportere fejl og skrive Null-værdier til databaser med lærred-apps"
 description: "Appudviklere kan tage kontrollen over fejl, når de opstår, og som en sidegevinst skrive Null-værdier."
-author: gregli
+author: gregli-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 461c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: gregli
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: e79ea4939906626d448c7a389f7507061bed596b
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: c198c53f04636c4cbef3f6723cfa5246afc06cfa
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
-# <a name="catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps"></a>Identificere, håndtere og rapportere fejl og skrive Null-værdier til databaser med lærred-apps
-
-[!include[powerapps banner](../includes/powerapps.md)]
+# <a name="catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps-public-preview"></a>Identificere, håndtere og rapportere fejl og skrive Null-værdier til databaser med lærred-apps (Offentlig prøveversion)
 
 
-
+[!include[banner](../../includes/banner.md)]
 
 Der vil opstå fejl.  Lærred-apps har standardindstillinger, der anvendes, når fejl opstår, men det er ikke nødvendigvis de indstillinger, du vil bruge.  Med denne funktion kan du identificere, søge efter oplysninger om, udløse, undertrykke, logge og give besked om fejl til dine brugere.
 

@@ -3,29 +3,28 @@ title: Business Intelligence
 description: "Power BI giver dig øget indsigt i og større værdi af dine data. I dokumentationen til Power BI finder du oplysninger fra brancheeksperter og de svar, du behøver, uanset hvordan du bruger Power BI."
 author: HaydnR
 manager: ArunUlag
-ms.date: 7/22/2018
+ms.date: 8/16/2018
 ms.assetid: e45f6b5f-4ba0-45c8-9f11-63331de61a44
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: haydnr
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 224ae069f89ca1ec9bdce1418eaf9a5c6a221b61
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: 297eed37c9baed883c0586722dc9b78580bdbbe6
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 
 # <a name="overview-of-business-intelligence-october-18-release"></a>Oversigt over Business Intelligence-produktfrigivelsen fra oktober 2018
 
-[!include[banner](../../includes/banner.md)]
-
 Med fokus på at levere umiddelbart tilgængelig værdi til forretningsbrugerne har Power BI gjort det muligt for brugerne at opfylde deres egne behov via en kombination af færdigpakket indhold og nem udvikling og deling af rapporter og dashboards. Den indsigt, de derved har fået adgang til, har været en vigtig faktor for, at organisationer har kunnet indføre en databaseret kultur.
 
-Produktfrigivelsen fra oktober 2018 omfatter flere nyskabelser, der fremmer udbredelsen af business intelligence overalt i virksomheden.
+Produktfrigivelsen fra oktober 2018 omfatter flere nyskabelser, der fremmer udbredelsen af business intelligence overalt i virksomheden. (Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet ændres muligvis eller kan muligvis ikke afsendes (se [Microsofts politik](https://go.microsoft.com/fwlink/p/?linkid=2007332).)
+
 
 ## <a name="power-bi-desktop"></a>Power BI Desktop
 
@@ -58,7 +57,7 @@ Produktfrigivelsen fra oktober 2018 indeholder nye funktioner på to hovedområd
 
 -   **Administration af programlivscyklus (ALM)** – Tilføjer nye funktioner til administration af livscyklusser for virksomheder samt fuld API-understøttelse af datasæt via XMLA-protokollen. Dette gør det nemmere for kunderne at oprette forbindelse til en lang række tredjeparts-BI-værktøjer til Power BI og oprette et ensartet semantisk modellager i virksomheden.
 
-## <a name="power-bi-mobile"></a>Power BI – Mobil
+## <a name="power-bi-mobile"></a>Power BI-mobil
 
 Med Power BI – Mobil-apps kan du få data og indsigt på enhver enhed. Forretningsbrugere kan få sikker adgang til og få vist Power BI-dashboards og -rapporter på enhver enhed med mobiloptimerede oplevelser til Windows, iOS og Android. De vigtigste funktioner i produktfrigivelsen fra oktober 2018 omfatter legitimationsoplysninger, der deles med Office-apps, en ny personlig navigations- og landingssideoplevelse og muligheder for at samarbejde om data.
 

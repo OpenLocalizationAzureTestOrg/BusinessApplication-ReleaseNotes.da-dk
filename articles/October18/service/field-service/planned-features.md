@@ -3,23 +3,25 @@ title: Hurtig oversigt over Dynamics 365 for Field Service oktober 2018
 description: Hurtig oversigt over Dynamics 365 for Field Service oktober 2018
 author: krbjoran
 manager: shellyhaverkamp
-ms.date: 7/22/2018
-ms.topic: article
+ms.date: 8/16/2018
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: shellyha
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 057868f9243ae2e2935077a38f0b332da57e2b98
+ms.sourcegitcommit: 435753626044dbdbf7fd0b23ca1af110807c8edc
+ms.openlocfilehash: d8a6d893eb7f97459aa99bae0b87a7c2a8a30f78
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="summary-of-whats-new-for-dynamics-365-for-field-service-october-18"></a>Oversigt over nyheder til Dynamics 365 for Field Service oktober 2018 
 
-
+Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet kan ændres eller kan ikke afsendes (se [Microsoft-gruppepolitik](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
+    
+For at få en liste over områder, hvor Dynamics 365-virksomhedsprogrammer er tilgængelige, skal du se [Vejledning om international tilgængelighed](https://aka.ms/dynamics_365_international_availability_deck).
 
 ## <a name="overall-field-service"></a>Field Service generelt
 

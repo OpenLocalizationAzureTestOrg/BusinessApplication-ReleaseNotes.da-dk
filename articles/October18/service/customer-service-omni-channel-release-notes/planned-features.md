@@ -2,27 +2,28 @@
 title: Oversigt over nyheder i Dynamics 365 Omni-channel Engagement Hub
 description: "Produktbemærkninger til Omni-channel Engagement Hub"
 keywords: 
-ms.date: 7/22/2018
+ms.date: 8/15/2018
 ms.service:
 - business-applications
-ms.topic: article
+ms.topic: summary
 ms.assetid: 71908131-f7b7-e412-506f-17e5fbf0138f
 author: krbjoran
 ms.author: krbjoran
 manager: shellyhaverkamp
 ms.translationtype: HT
-ms.sourcegitcommit: a45285290d8d5ae34bd42817bfebc2bfd0694199
-ms.openlocfilehash: 34848692e8f5af892c95a55094bd14d9c7e7b04c
+ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
+ms.openlocfilehash: 2930fe07c3e18876cdaa4e5c65dc9431e0ef66e0
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 #  <a name="summary-of-whats-new-for-dynamics-365-omni-channel-engagement-hub"></a>Oversigt over nyheder i Dynamics 365 Omni-channel Engagement Hub
 
 
+Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet kan ændres eller kan ikke afsendes (se [Microsoft-gruppepolitik](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
 
-
+For at få en liste over områder, hvor Dynamics 365-virksomhedsprogrammer er tilgængelige, skal du se [Vejledning om international tilgængelighed](https://aka.ms/dynamics_365_international_availability_deck). 
 
 
 | Funktion                                                                                  | Frigivelsestype   | Målmåned for frigivelse |

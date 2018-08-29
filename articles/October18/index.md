@@ -1,39 +1,40 @@
 ---
 title: Oversigt over produktfrigivelsen fra oktober 2018
 description: Oversigt over produktfrigivelsen fra oktober 2018
-author: MargoC
+author: shellyhaverkamp
 manager: AnnBe
-ms.date: 7/27/2018
+ms.date: 7/30/2018
 ms.assetid: 1fb5c3f4-b808-cd82-956a-b51c4e2b061c
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 1e8d8987dacbdd91d21b8947be07138a6a90842a
-ms.openlocfilehash: ead691b8663932c551992574b1e3e6347a94525c
+ms.sourcegitcommit: 9d939e87e6e747b4cdcadb7acb5958736f547145
+ms.openlocfilehash: 8c4e25dbb5b71a07059aee6c179e5235267b95c8
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 
 # <a name="october-18-release-overview"></a>Oversigt over produktfrigivelsen fra oktober 2018
 
-[!include[banner](../includes/banner.md)]
+
 
 [![Baggrundsbillede 1](../media/Landing-page-image-october2018.png)](https://go.microsoft.com/fwlink/p/?linkid=2005971)
 
-[Hent PDF-filen med Produktbemærkninger fra oktober 2018](https://go.microsoft.com/fwlink/p/?linkid=2005971) (sidst opdateret 23-07-2018)
+[Hent PDF-filen med Produktbemærkninger fra oktober 2018](https://go.microsoft.com/fwlink/p/?linkid=2005971) (sidst opdateret 30-07-2018)
 
-Produktfrigivelsen fra oktober 2018 til Virksomhedsprogrammer indeholder vigtige funktioner, som du kan bruge til at transformere din virksomhed. De første af disse nye tjenester og funktioner bliver gjort tilgængelige i begyndelsen af oktober 2018.
+Produktfrigivelsen fra oktober 2018 til Virksomhedsprogrammer indeholder vigtige funktioner, som du kan bruge til at transformere din virksomhed. De første af disse nye tjenester og funktioner bliver gjort tilgængelige i begyndelsen af oktober 2018. (Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet kan ændres eller kan ikke afsendes (se [Microsoft-gruppepolitik](https://go.microsoft.com/fwlink/p/?linkid=2007332)).)
 
 - **Forbedringer af Dynamics 365-programmer** omfatter hundredvis af nye funktioner på tværs af Sales, Marketing, Customer Service, Portals, Omni-channel Engagement Hub, Field Service, Project Service, Social Engagement, Finance and Operations, Talent, Retail og Business Central. Vi introducerer et nyt sæt mixed reality-oplevelser ved hjælp af Microsoft Layout og Microsoft Remote Assist.
 
 - **Nye intelligensprogrammer** udnytter årtiers AI-arbejde, der er udviklet af Microsoft Research, til at gøre Dynamics 365 mere intelligent. Du kan forbedre salgsresultater og -planlægning med det nye Dynamics 365 AI for Sales-program. 
 
 - **Nye funktioner til Power-platform** kombinerer Power BI, PowerApps, Microsoft Flow, Common Data Service til apps og Power BI-dataflows i en overlegen værktøjspakke, der kan udvide, tilpasse og integrere Dynamics 365 og Office 365 i dit miljø. 
+
 
 - **Dataintegration** leverer indbygget forbindelse til Power-platformen og meget mere, med data på tværs af hundredvis af forretningssystemer, som åbner for udbytterige og intelligente oplevelser. Common Data Model giver semantisk ensartethed i kanoniske forretningsobjekter på tværs af Dynamics 365, Common Data Service til apps og Power BI-dataflows med øget "time to value" for programudviklere, uafhængige softwarepartnere og integratorer.
 
@@ -45,6 +46,6 @@ Vi har gjort dette arbejde for at hjælpe jer – vores partnere, kunder og brug
 
 Vi ser frem til at samarbejde med jer, når I begynder at implementere disse nye tjenester og funktioner, og vi gælder os til at høre fra jer, når I for alvor er kommet i gang med produktfrigivelsen fra oktober 2018.
 
-Lad os høre din mening. Send en mail til <a href="mailto:releasenotes@microsoft.com">releasenotes@microsoft.com</a>. Din feedback bruges til at forbedre vores indhold.
+Lad os høre din mening. Dele din feedback om communityforum for [Dynamics 365](https://community.dynamics.com) eller brugere af ["Power"-produktpakken](https://powerusers.microsoft.com/) (Power BI, PowerApps, Flow og streaming). Din feedback bruges til at lave forbedringer.
 
 

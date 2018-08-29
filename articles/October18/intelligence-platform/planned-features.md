@@ -3,26 +3,28 @@ title: Oversigt over planlagte funktioner for Power BI fra oktober 2018
 description: Oversigt over planlagte funktioner for Power BI fra oktober 2018
 author: KumarVivek
 manager: AnnBe
-ms.date: 07/22/2018
+ms.date: 08/16/2018
 ms.assetid: 09feb0b5-1463-4952-8db7-9102711e87a0
-ms.topic: article
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: kvivek
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0291edeb85cbe46956dba170e1c35e009b0bdcf6
+ms.sourcegitcommit: 5d2d0b20482e7a8466673d76148974360b2ad719
+ms.openlocfilehash: 83b681b31d6e7fee227d456d3a8bbe6b4a9c16d0
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/20/2018
 
 ---
 # <a name="summary-of-whats-new-in-business-intelligence"></a>Oversigt over nyheder i business intelligence
 
 I dette emne beskrives de Power BI-funktioner, der er planlagt til frigivelse mellem oktober 2018 og marts 2019. 
 
-[!include[banner](../../includes/banner.md)]
+Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet kan ændres eller kan ikke afsendes (se [Microsoft-gruppepolitik](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
+    
+For at få en liste over områder, hvor Dynamics 365-virksomhedsprogrammer er tilgængelige, skal du se [Vejledning om international tilgængelighed](https://aka.ms/dynamics_365_international_availability_deck).
 
 ## <a name="power-bi-desktop"></a>Power BI Desktop
 
@@ -73,7 +75,7 @@ I dette emne beskrives de Power BI-funktioner, der er planlagt til frigivelse me
 |[XMLA slutpunkt til administration af tredjeparts klientforbindelse og livscyklus (Power BI Premium)](power-bi-service/xmla-endpoint.md)   |Offentlig prøveversion   |Oktober 2018    |
 
 
-## <a name="power-bi-mobile"></a>Power BI - Mobil
+## <a name="power-bi-mobile"></a>Power BI-mobil
 
 |Funktion   |Frigivelsestype   |Målmåned for frigivelse    |
 |----------|---------------|------------------------|
@@ -121,10 +123,7 @@ I dette emne beskrives de Power BI-funktioner, der er planlagt til frigivelse me
 |Funktion   |Frigivelsestype   |Målmåned for frigivelse    |
 |----------|---------------|------------------------|
 |[Anvende og ændre temaer](power-bi-embedded/apply-change-themes.md)   |Generel tilgængelighed   |Oktober 2018    |
-|[Automatisk fuldstændig installation af Power BI Embedded-løsninger](power-bi-embedded/automatic-end-end-deployment-pbi-embedded-solutions.md)   |Generel tilgængelighed   |Oktober 2018    |
-|[Udrulning af et opdateret dashboard eller felt til produktion](power-bi-embedded/deploy-updated-dashboard-or-tile-production.md)   |Generel tilgængelighed   |Oktober 2018    |
 |[Sætte udviklere i stand til at foretage fejlfinding](power-bi-embedded/enable-developers-troubleshoot.md)   |Generel tilgængelighed   |Oktober 2018    |
-|[Forbedrede opdaterings-API'er](power-bi-embedded/improved-refresh-apis.md)   |Generel tilgængelighed   |Oktober 2018    |
 |[Integration med Azure Diagnostics](power-bi-embedded/integration-azure-diagnostics.md)   |Generel tilgængelighed   |Oktober 2018    |
 |[Integration med Azure Service Health](power-bi-embedded/integration-azure-service-health.md)   |Generel tilgængelighed   |Oktober 2018    |
 |[Ny udviklerportal](power-bi-embedded/new-developer-portal.md)   |Generel tilgængelighed   |Oktober 2018    |
@@ -142,9 +141,9 @@ I dette emne beskrives de Power BI-funktioner, der er planlagt til frigivelse me
 
 |Funktion   |Frigivelsestype   |Målmåned for frigivelse    |
 |----------|---------------|------------------------|
-|[Understøttelse af nye funktioner i Power BI-rapporter](power-bi-report-server/index.md)   |Generel tilgængelighed   |November 2018    |
-|[Sikkerhed på rækkeniveau (RLS)](power-bi-report-server/index.md)   |Generel tilgængelighed   |November 2018    |
-|[Eksport til Excel](power-bi-report-server/index.md)   |Generel tilgængelighed   |November 2018    |
+|[Understøttelse af nye funktioner i Power BI-rapporter](power-bi-report-server/index.md)   |Generel tilgængelighed        |November 2018    |
+|[Sikkerhed på rækkeniveau (RLS)](power-bi-report-server/index.md)   |Generel tilgængelighed         |November 2018    |
+|[Eksport til Excel](power-bi-report-server/index.md)   |Generel tilgængelighed         |November 2018    |
 
 ## <a name="azure-analysis-services"></a>Azure Analysis Services
 

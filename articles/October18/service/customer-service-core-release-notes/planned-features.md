@@ -3,22 +3,25 @@ title: Oversigt over planlagte funktioner til Customer Service i Dynamics 365
 description: "Få et glimt af de nyeste funktioner og tiltag på de vigtigste områder af Customer Service i Dynamics 365"
 author: krbjoran
 manager: shellyhaverkamp
-ms.date: 7/22/2018
-ms.topic: article
+ms.date: 8/15/2018
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 605d35d0a5454d99e34d93280b441875221caedb
+ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
+ms.openlocfilehash: c21aadfdad0a6743d0ea302841b039f5a0effa06
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 #  <a name="summary-of-whats-new-in-dynamics-365-for-customer-service"></a>Oversigt over nyheder i Dynamics 365 for Customer Service
 
+Disse produktbemærkninger beskriver funktionalitet, der muligvis ikke er udgivet endnu. Leveringstidsplaner og forventet funktionalitet kan ændres eller kan ikke afsendes (se [Microsoft-gruppepolitik](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
+
+For at få en liste over områder, hvor Dynamics 365-virksomhedsprogrammer er tilgængelige, skal du se [Vejledning om international tilgængelighed](https://aka.ms/dynamics_365_international_availability_deck).
 
 
 | Funktion                                                                                               | Frigivelsestype   | Målmåned for frigivelse |

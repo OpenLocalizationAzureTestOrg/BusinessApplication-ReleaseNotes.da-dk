@@ -12,20 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 179e0b58e161a748fced74d0f4bc3d31d05efe97
+ms.sourcegitcommit: efc7a0d3cbfe55765f82a97ba1519becbe6e4cb6
+ms.openlocfilehash: 03532f98b31a51020700e8b58bfe9840e857dcf6
 ms.contentlocale: da-dk
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-bi-report-server"></a>Power BI-rapportserver
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-
-
-
-Med Power BI-rapportserver kan kunder opfylde deres egne styrings- og installationskrav og samtidig få fordelen af moderne Power BI-rapporter. I opdateringen til Power BI-rapportserver fra oktober 2018 kan kunderne udnytte de mange funktioner, der er frigivet i Power BI Desktop i de foregående måneder, herunder detaljeadgang til målinger og betinget formatering, der er baseret på en anden kolonne. 
+Med Power BI-rapportserver kan kunder opfylde deres egne styrings- og installationskrav og samtidig få fordelen af moderne Power BI-rapporter. I opdateringen til Power BI-rapportserver fra november 2018 kan kunderne udnytte de mange funktioner, der er frigivet i Power BI Desktop i de foregående måneder, herunder detaljeadgang til målinger, og betinget formatering, der er baseret på en anden kolonne. 
 
 Derudover understøtter Power BI-rapportserver andre funktioner, der gælder for almindelige rapporteringsscenarier i virksomheder, f.eks.:
 
