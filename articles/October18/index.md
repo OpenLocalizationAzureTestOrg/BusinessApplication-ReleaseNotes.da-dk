@@ -23,9 +23,9 @@ ms.lasthandoff: 07/27/2018
 
 [!include[banner](../includes/banner.md)]
 
-[![Baggrundsbillede 1](../media/Landing-page-image-october2018.png)](https://go.microsoft.com/fwlink/p/?linkid=2005971)
+[![Baggrundsbillede 1](../media/Landing-page-image-october2018.png)](https://go.microsoft.com/fwlink/?linkid=2005971&clcid=0x406)
 
-[Hent PDF-filen med Produktbemærkninger fra oktober 2018](https://go.microsoft.com/fwlink/p/?linkid=2005971) (sidst opdateret 23-07-2018)
+[Hent PDF-filen med Produktbemærkninger fra oktober 2018](https://go.microsoft.com/fwlink/?linkid=2005971&clcid=0x406) (sidst opdateret 23-07-2018)
 
 Produktfrigivelsen fra oktober 2018 til Virksomhedsprogrammer indeholder vigtige funktioner, som du kan bruge til at transformere din virksomhed. De første af disse nye tjenester og funktioner bliver gjort tilgængelige i begyndelsen af oktober 2018.
 
